@@ -1,0 +1,126 @@
+{
+   "before_trying_again": {
+      "description": "Error resolution tip in error pages.",
+      "message": "Кайра аракет кылуудан мурун:"
+   },
+   "browser_action_title": {
+      "description": "Browser action title that shows up on hover.",
+      "message": "Ушул URL'ди жайылтуу"
+   },
+   "context_menu_disable": {
+      "description": "Label of the context menu item that disables Tone.",
+      "message": "Tone'ду өчүрүү"
+   },
+   "context_menu_enable": {
+      "description": "Label of the context menu item that enables Tone.",
+      "message": "Tone'ду иштетүү"
+   },
+   "description": {
+      "description": "Extension description.",
+      "message": "Кулак уккудай аралыктагы компьютерлерге каалаган URL'ди жайылтыңыз."
+   },
+   "ensure_online": {
+      "description": "Network workaround.",
+      "message": "Компьютериңиз онлайнда экенин тактаңыз."
+   },
+   "error_audio_title": {
+      "description": "Title of the error_audio.html page.",
+      "message": "Google Tone аны уга албай койду."
+   },
+   "error_network_title": {
+      "description": "Title of error_network.html page.",
+      "message": "Тилекке каршы, ал иштеген жок."
+   },
+   "increase_volume": {
+      "description": "Audio workaround #1",
+      "message": "Үнүн чоңойтуңуз."
+   },
+   "invite_others": {
+      "description": "Press the button to try it.",
+      "message": "Башкаларды Google Tone'ду колдонууга чакырыңыз: {{shortlink}}"
+   },
+   "name": {
+      "description": "Extension name.",
+      "message": "Google Tone"
+   },
+   "notification_receive_message_format": {
+      "description": "Notification message when you receive a Tone.",
+      "message": "{{domain}} доменинен \"{{title}}\" ачуу үчүн чыкылдатыңыз"
+   },
+   "notification_receive_test_page_message": {
+      "description": "Notification message sent from Tone test page.",
+      "message": "Tone'ду байкап көрүү үчүн чыкылдатыңыз!"
+   },
+   "notification_receive_title_format": {
+      "description": "Notification title when you receive a Tone.",
+      "message": "{{username}} дегенден URL!"
+   },
+   "notification_send_fail_audio_message": {
+      "description": "Notification title shown when audio verification fails.",
+      "message": "Үн көлөмүн текшерип, кайра кайталаңыз.\nКөбүрөөк маалымат үчүн чыкылдатыңыз."
+   },
+   "notification_send_fail_audio_title": {
+      "description": "Notification title shown when audio verification fails.",
+      "message": "Tone өзүн-өзү уга алган жок"
+   },
+   "notification_send_fail_network_message": {
+      "description": "Notification message shown when a Tone was attempted but the network was offline.",
+      "message": "Оффлайнда окшойсуз.\nКөбүрөөк маалымат үчүн чыкылдатыңыз."
+   },
+   "notification_send_fail_network_title": {
+      "description": "Notification title shown when a Tone was attempted but the network was offline.",
+      "message": "URL жөнөтүлгөн жок"
+   },
+   "press_button": {
+      "description": "Press the button to try it.",
+      "message": "Кулак уккудай аралыктагы компьютерлерге URL жайылтуу үчүн {{action_image}} баскычын басыңыз."
+   },
+   "report_bug": {
+      "description": "Report a bug",
+      "message": "Мүчүлүштүк жөнүндө кабарлаңыз"
+   },
+   "settings_off": {
+      "description": "Indicator showing that Tone is disabled.",
+      "message": "ӨЧҮК"
+   },
+   "settings_off_subtitle": {
+      "description": "Subtitle showing that Tone is disabled.",
+      "message": "URL'дерди жөнөтүп же кабыл ала албайсыз."
+   },
+   "settings_off_title": {
+      "description": "Title showing that Tone is disabled.",
+      "message": "Google Tone өчүк"
+   },
+   "settings_on": {
+      "description": "Indicator showing that Tone is enabled.",
+      "message": "КҮЙҮК"
+   },
+   "settings_on_subtitle": {
+      "description": "Subtitle showing that Tone is enabled.",
+      "message": "URL'дерди жөнөтүп жана кабыл ала аласыз."
+   },
+   "settings_on_title": {
+      "description": "Title showing that Tone is enabled.",
+      "message": "Google Tone күйүк"
+   },
+   "settings_title": {
+      "description": "Title of settings.html",
+      "message": "Жөндөөлөр"
+   },
+   "success_call": {
+      "description": "Call to action of success.html.",
+      "message": "Башка баракка чабыттап, аны жайылтуу үчүн {{action_image}} баскычын чыкылдатыңыз."
+   },
+   "success_title": {
+      "description": "Title of success.html.",
+      "message": "Google Tone иштеди!"
+   },
+   "try_now": {
+      "description": "Call to action to try the extension.",
+      "message": "Google Tone'ду азыр байкап көрүңүз!"
+   },
+   "unplug_headphones": {
+      "description": "Audio workaround #2",
+      "message": "Кулакчындарыңызды сууруп салыңыз."
+   }
+}

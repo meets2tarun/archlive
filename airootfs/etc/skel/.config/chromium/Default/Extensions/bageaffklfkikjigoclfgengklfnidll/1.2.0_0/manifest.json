@@ -1,0 +1,24 @@
+{
+   "background": {
+      "scripts": [ "js/buy.js", "js/notifier_service.js", "js/event_listeners.js" ]
+   },
+   "browser_action": {
+      "default_icon": "img/icon32.png",
+      "default_popup": "index.html"
+   },
+   "content_security_policy": "script-src 'self' https://www.google-analytics.com; object-src 'self'",
+   "description": "Never miss a Coding contest again! Displays live and upcoming Programming Contests happening on a variety of popular platforms.",
+   "icons": {
+      "128": "img/icon32.png",
+      "16": "img/icon32.png",
+      "32": "img/icon32.png",
+      "48": "img/icon32.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsHNscMDpcuVCfmfQoJfm5dlYEJDS6bTfGWGBc45fsnzGizG/v/s3gOY/uFekofwSb8lyyMsLmk8bZ8WekR/aYb0xtZVV8zDy6gmYjMDQgDce9aYHxPY9vT+xebLdZHwjeKSM6xR7GRX2d2j0bSZpzNDmHpW40FcSl/ZcTM1RZRetx76XcoZBxHHwDfkxFtVg9q98UYvIiThBS8BmuPl37ItGRBNTqLX6CYPe8ZjHR/kpfPL3AhvkHoJLVcWDxRzjTUSjNKIR7Xsz0VifJ+TU52g0xnQ5tpTfPr2fLp8Xg41bApokcZiUDdzVVaHwFUNK5a/k5Ckt0gEdKSB/qiRBjwIDAQAB",
+   "manifest_version": 2,
+   "name": "Coder's Calendar",
+   "permissions": [ "http://contesttrackerapi.herokuapp.com/", "notifications", "storage" ],
+   "short_name": "Coder's Calendar",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2.0"
+}

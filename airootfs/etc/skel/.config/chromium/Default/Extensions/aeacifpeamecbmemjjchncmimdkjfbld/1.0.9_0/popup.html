@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
+	<title>fossBytes</title>
+	<script src="popup.js"></script>
+	<script src="options.js"></script>
+
+	<style type="text/css">
+	body, h1, h2, h3, h4, h5, h6, p, div {
+    	font-family: 'Roboto Condensed', sans-serif;
+    }
+	#share-buttons img {
+	width: 35px;
+	padding: 5px;
+	border: 0;
+	box-shadow: 0;
+	display: inline;
+	}
+	</style>
+</head>
+<body>
+
+	<br />
+	<div class="container" style="min-width: 768px; max-width: 768px; height: 600px; margin: 0 auto">
+		<ul class="nav nav-tabs" role="tablist">
+		    <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab"><i class="fa fa-clock-o"></i> Recent</a></li>
+		    <li role="presentation"><a href="#hot" aria-controls="hot" role="tab" data-toggle="tab"><i class="fa fa-fire"></i> What's Hot</a></li>
+		    <li role="presentation"><a href="#popular" aria-controls="popular" role="tab" data-toggle="tab"><i class="fa fa-star"></i> Popular</a></li>
+		   	<li role="presentation"><a href="#settings" aria-controls="settings" role="tab" data-toggle="tab"><i class="fa fa-wrench"></i> Settings</a></li>
+
+		</ul>
+		 <div id="myTabContent" class="tab-content">
+		       <div role="tabpanel" class="tab-pane fade active in" id="home" aria-labelledby="home-tab">
+		         <p id = "recent"><span><img src="loading3.gif"></img><span></p>
+		       </div>
+		       <div role="tabpanel" class="tab-pane fade" id="hot" aria-labelledby="hot-tab">
+		         <p id = "hot"></img><span></p>
+		       </div>
+		       <div role="tabpanel" class="tab-pane fade" id="popular" aria-labelledby="popular-tab">
+		         <p id = "popular"></p>
+		       </div>
+		       <div role="tabpanel" class="tab-pane fade" id="settings" aria-labelledby="settings-tab">
+		       		<h1>
+		       		  <img src="icon48.png" alt="Toast">
+		       		  Notification Settings
+		       		</h1>
+		       		<h2>Options</h2>
+		       		<form id="options">
+		       		  <input type="checkbox" name="isActivated" checked>
+		       		  Display a notification every
+		       		  <select name="frequency">
+									<option>5</option>
+		       		    <option>10</option>
+		       		    <option>15</option>
+		       		    <option>20</option>
+		       		    <option>30</option>
+		       		    <option>40</option>
+		       		    <option>50</option>
+		       		    <option>60</option>
+		       		  </select>
+		       		  minute(s).
+		       		</form>
+		       </div>
+		</div>
+		     <br />
+	<small><span style="bottom:0px;"><p id="credit bottomfix">&copy <a href="http://fossbytes.com" target="_blank">fossbytes.com </a><span id="year"></span> | All Rights Reserved</p></small>
+	</div>
+	<script src="js/jquery.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+
+</body>
+</html>

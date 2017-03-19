@@ -1,0 +1,42 @@
+{
+   "errorPin": {
+      "description": "The error message seen when an image can't be pinned",
+      "message": "この画像は保存できません。"
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "ウェブサイトで見つけたものを保存する"
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Pinterest 保存ボタン"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "画像ホバーの保存ボタンを非表示にする"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "[保存] ボタンのオプション"
+   },
+   "saveAction": {
+      "description": "Appears in the right-click-to-save menu item",
+      "message": "保存"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "検索"
+   },
+   "welcomeBody": {
+      "description": "Body of the pop-up welcome message",
+      "message": "ウェブサイトを閲覧している時に画像にマウスのポインターを合わせると [保存] ボタンが表示されます。このボタンを表示させたくない場合、この機能をオフにしてください。方法については、このお知らせをクリックしてください。"
+   },
+   "welcomeLink": {
+      "description": "The link (currently a help article) opened by clicking on the pop-up welcome message",
+      "message": "https://help.pinterest.com/articles/add-pin-it-button-your-browser?source=chrome_pib_education#Web"
+   },
+   "welcomeTitle": {
+      "description": "Title of the pop-up welcome message",
+      "message": "Chrome 版 Pinterest 保存ボタン"
+   }
+}

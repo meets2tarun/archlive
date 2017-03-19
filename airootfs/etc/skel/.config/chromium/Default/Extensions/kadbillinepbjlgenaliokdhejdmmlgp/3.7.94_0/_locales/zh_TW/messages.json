@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "App description.",
+      "message": "Facebook的新設計，移除廣告（類似的AdBlock），FB工作更快，更清潔UX / UI"
+   },
+   "appName": {
+      "description": "App name.",
+      "message": "Flatbook"
+   }
+}

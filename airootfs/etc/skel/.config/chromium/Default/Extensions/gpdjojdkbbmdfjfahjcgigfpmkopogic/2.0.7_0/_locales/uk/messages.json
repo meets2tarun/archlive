@@ -1,0 +1,42 @@
+{
+   "errorPin": {
+      "description": "The error message seen when an image can't be pinned",
+      "message": "На жаль, це зображення не можна зберегти."
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Зберігайте те, що знаходите в Інтернеті."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Кнопка Pinterest «Зберегти»"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Приховати кнопки «Зберегти», які з'являються під час наведення"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Опції кнопки «Зберегти»"
+   },
+   "saveAction": {
+      "description": "Appears in the right-click-to-save menu item",
+      "message": "Зберегти"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Пошук"
+   },
+   "welcomeBody": {
+      "description": "Body of the pop-up welcome message",
+      "message": "Коли ви наводитимете мишкою на зображення в Інтернеті, бачитимете кнопки «Зберегти». Ви можете вимкнути цю функцію, якщо забажаєте. Щоб дізнатися, як це зробити, клацніть це сповіщення."
+   },
+   "welcomeLink": {
+      "description": "The link (currently a help article) opened by clicking on the pop-up welcome message",
+      "message": "https://help.pinterest.com/articles/add-pin-it-button-your-browser?source=chrome_pib_education#Web"
+   },
+   "welcomeTitle": {
+      "description": "Title of the pop-up welcome message",
+      "message": "Кнопка Pinterest «Зберегти» для браузера Chrome"
+   }
+}

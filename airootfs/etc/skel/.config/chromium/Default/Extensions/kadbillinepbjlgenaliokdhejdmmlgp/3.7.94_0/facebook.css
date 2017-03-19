@@ -1,0 +1,3255 @@
+@media only screen and (min-width: 799px) {
+#facebookFlatNa ~ body, #rateextensionurl, #voteextask, #facebookFlatNa ~ body td, #facebookFlatNa ~ body input, #facebookFlatNa ~ body textarea, #facebookFlatNa ~ body select, #facebookFlatNa ~ body p, #facebookFlatNa ~ body span {
+    /*margin: 0;*/
+ font-family: trebuchet ms, tahoma,arial,sans-serif !important;
+
+/**/
+/*    font-size: 50px;
+*/
+    }
+
+#facebookFlatNa ~ .hasLeftCol #contentCol {
+margin-left:143px;
+z-index:4 !important;
+}
+#facebookFlatNa ~ body ._li::before { 
+   /* content: "<p>234324</p>";*/
+   display: block;
+   width: 100px;
+   height: 100px;
+    position:absolute;
+}
+#enableButton{position:fixed;top:25px;z-index:992222 !important;left:24px;background:rgba(255, 255, 255, 0.2);width:30px;border-radius:30px;height:9px;}
+#enableButton img{margin:-4px 0 0 0;}
+#enableButton span{background:url(chrome-extension://__MSG_@@extension_id__/images/enablebutton.png) no-repeat;width:16px;height:16px;float:left;margin:-4px 0 0 0;padding:8px 10px;}
+#enableButton:hover{cursor:pointer;opacity:0.8}
+#enableButton:hover ~ #rateextensionurl, #rateextensionurl:hover, #enableButton:hover ~ #voteextask, #voteextask:hover {
+	display:block;
+}
+#facebookFlatNa ~ body ._2dpb {
+	width:50px !important;
+}
+#rateextensionurl {
+	position:fixed;
+	
+	
+	border-radius:1px;	
+	padding:10px 20px;
+	text-align:center;
+	
+	color:white;
+	z-index:909999;
+	font-size:13px;
+	display:none;
+	left: 70px;
+    top: 0px;
+    background: rgba(0, 0, 0, 0.9) !important;
+
+}
+
+
+
+#facebookFlatNa ~ body .fbNubButton {
+	/*display:none !important;*/
+}
+#facebookFlatNa ~ ._5vb_ #globalContainer {
+	width:1100px;
+	/*height:1px !important;*/
+
+}
+#facebookFlatNa ~ body ._262k ._uaw, #facebookFlatNa ~ body._5vb_ ._uaw {
+	width:900px !important;
+}
+#facebookFlatNa ~ body.home ._5v3q ._5pbu {
+    margin: 15px 0 0 0 !important;
+}
+#facebookFlatNa ~ body.hasLeftCol #leftCol {
+/*    background: rgb(41, 99, 185) !important;*/
+   /* width: 200px !important;*/
+}
+#facebookFlatNa ~ .home #leftCol .linkWrap {
+	color:white !important;
+	font-size:14px !important;
+}
+#facebookFlatNa ~ body .fbxWelcomeBox .fbxWelcomeBoxBlock .fbxWelcomeBoxImg {
+border-radius:50px;
+	}
+#facebookFlatNa ~ body .tinyViewport ._bui .sideNavItem ._5afe, #facebookFlatNa ~ body .tinyViewport ._bui .sideNavItem .subitem {
+    margin-left: 20px !important;
+    margin-top: 10px !important;
+ }
+#facebookFlatNa ~ body.hasLeftCol .hasRightCol div#contentArea {
+/*	position:relative !important;
+	width:600px !important;*/
+/*	-moz-column-count: 3;
+    -moz-column-gap: 10px;
+    -webkit-column-count: 3;
+    -webkit-column-gap: 10px;
+    column-count: 3;
+    column-gap: 10px;
+    float:left;*/
+/*    padding-right: 50px;*/
+
+width:645px;
+    border-right: 1px solid rgb(239, 239, 239);
+}
+#facebookFlatNa ~ body.hasLeftCol ._5pcb {
+	/*height:1300px !important;*/
+}
+#facebookFlatNa ~ body #fromdevmess, #facebookFlatNa ~ body #fromdevmess4, #facebookFlatNa ~ body #fromdevmess455 {
+	display:none;
+	background:rgb(35, 63, 111);
+	color:white;
+	/*padding:20px;*/
+	z-index: 999999;
+    position: absolute;
+    margin: -300px 0 0 195px;
+    width:600px !important;
+    height:340px;
+    border-radius:1px;
+  
+    font-weight:normal;
+    font-size:14px;
+    line-height:1.5;
+
+}
+#facebookFlatNa ~ body._5uj5 #fromdevmess4, #facebookFlatNa ~ body._5uj5 #fromdevmess455 {
+	 margin: 0px 0 0 168px !important;
+}
+#facebookFlatNa ~ body #fromdevmess4, #facebookFlatNa ~ body #fromdevmess455 {
+    position: fixed !important;
+    top: 55px;
+   
+    margin: 0px 0 0 138px !important;
+    width: 910px !important;
+    height:100%;
+    background: white;
+    z-index:999999;
+  /*  box-shadow:0 0 4px gray;*/
+}
+
+#facebookFlatNa ~ body #fromdev4left {
+	float:left;
+	width:300px;
+
+}
+#circlesff {
+	float:left;
+	margin:20px 0 0 0;
+}
+#facebookFlatNa ~ body .colorcircleflat {
+	float:left;
+	margin:6px 27px;
+	width:46px;
+	height:46px;
+	background:orange;
+	border-radius:100px;
+	transition: opacity .2s;
+	box-shadow:0 0 0 2px rgba(0, 0, 0, 0.2);
+}
+#facebookFlatNa ~ body .colorcircleflat:hover {
+	cursor:pointer;
+	opacity:0.7;
+}
+#facebookFlatNa ~ body .colorcircleflat:nth-child(1) {
+	background:#264479;
+	
+}
+#facebookFlatNa ~ body .colorcircleflat:nth-child(2) {
+	background-color:#34314C;
+}
+#facebookFlatNa ~ body .colorcircleflat:nth-child(3) {
+	background:#413663;
+}
+#facebookFlatNa ~ body .colorcircleflat:nth-child(4) {
+	background:#943345;
+}
+#facebookFlatNa ~ body .colorcircleflat:nth-child(5) {
+	background:#922A55;
+}
+#facebookFlatNa ~ body .colorcircleflat:nth-child(6) {
+	background:#2D549A;
+}
+#facebookFlatNa ~ body .colorcircleflat:nth-child(7) {
+	background:#337296;
+}
+#facebookFlatNa ~ body .colorcircleflat:nth-child(8) {
+	background:#227F7F;
+}
+#facebookFlatNa ~ body .colorcircleflat:nth-child(9) {
+	background:#3B7D52;
+}
+#facebookFlatNa ~ body .colorcircleflat:nth-child(10) {
+	background:#635143;
+}
+#facebookFlatNa ~ body .colorcircleflat:nth-child(11) {
+	background:#BD4E42;
+}
+#facebookFlatNa ~ body .colorcircleflat:nth-child(12) {
+	background:#313131;
+}
+#facebookFlatNa ~ body .colorcircleflat:nth-child(13) {
+	background:#34314C;
+}
+#facebookFlatNa ~ body .colorcircleflat:nth-child(14) {
+	background:#34314C;
+}
+#facebookFlatNa ~ body .colorcircleflat:nth-child(15) {
+	background:#34314C;
+}
+#facebookFlatNa ~ body .colorcircleflat:nth-child(16) {
+	background:#34314C;
+}
+#facebookFlatNa ~ body .colorflatcirclebottom {
+	float:left;
+	width:100%;
+	    height: 185px;
+    margin: 18px 0 0 0;
+    background: rgba(0, 0, 0, 0.1);
+}
+#facebookFlatNa ~ body .colorflatcirclebottom > p {
+	text-align:center !important;
+	float:left !important;
+	width:100% !important;
+	margin:20px 0 20px 0 !important;
+	  -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+#facebookFlatNa ~ body .colorflatcirclebottom > a {
+	 -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+#facebookFlatNa ~ body ._2p3a {
+	    width: 800px !important;
+}
+#facebookFlatNa ~ body .colorflatcirclebottom > b {
+	float:left;
+	margin:25px 0 0 25px;
+	font-size:18px;
+}
+#facebookFlatNa ~ body #fromdevmess > a {
+	color:#FFDE61;
+	text-decoration:underline;
+}
+#facebookFlatNa ~ body ._4-u8 {
+/*	width:500px;*/
+	
+	
+}
+#facebookFlatNa ~ body ._6ks .uiScaledImageContainer {
+	width:100% !important;
+}
+
+#facebookFlatNa ~ body ._5v3q a._5pcq span {
+  /*  display: none !important;*/
+}
+#facebookFlatNa ~ body._5vb_ ._5pr2.fbChatSidebar {
+	margin:0 0 0 0 !important;
+	    background-color: rgb(249, 249, 249) !important;
+}
+#facebookFlatNa ~ body ._55lt img {
+    border-radius: 50px !important;
+}
+#facebookFlatNa ~ body ._5pr2 ._56p9 {
+	border:none !important;
+}
+#facebookFlatNa ~ body #globalContainer {
+	position:static !important;
+}
+#facebookFlatNa ~ body._5vb_ ._5pr2.fbChatSidebar {
+	/*display:none !important;*/
+}
+#facebookFlatNa ~ body ._2exj {
+	    margin: 18px 0 10px 5px !important;
+}
+#facebookFlatNa ~ body._4__a {
+	background: white !important;
+}
+#facebookFlatNa ~ body ._4xi2.east a.jewelButton {
+	    background-image: url('chrome-extension://__MSG_@@extension_id__/images/notifmenu.png') !important;
+	        background-position: 0px -985px !important;
+}
+#facebookFlatNa ~ body ._3nzl a.jewelButton {
+	    background-image: url('chrome-extension://__MSG_@@extension_id__/images/notifmenu.png') !important;
+	        background-position: 0px -510px !important;
+}
+#facebookFlatNa ~ body ._1z4y a.jewelButton {
+	    background-image: url('chrome-extension://__MSG_@@extension_id__/images/notifmenu.png') !important;
+	    background-position: 0px -318px !important;
+}
+#facebookFlatNa ~ body ._5cop ._59fb {
+	    background-image: url('chrome-extension://__MSG_@@extension_id__/images/notifmenu.png') !important;
+	    background-position: -31px -399px !important;
+}
+#facebookFlatNa ~ body ._50__ {
+	    background-image: url('chrome-extension://__MSG_@@extension_id__/images/logooldmen.png') !important;
+	    background-position: -143px -118px !important;
+}
+#facebookFlatNa ~ body #globalContainer {
+	padding-right:0 !important;
+}
+#facebookFlatNa ~ body ._585- ._5861 {
+	color:white !important;
+}
+#facebookFlatNa ~ body ._5861 ._586h, #facebookFlatNa ~ body ._5861 ._5eay {
+	color: #87a1bd !important;
+}
+#facebookFlatNa ~ body ._5861 input:disabled, #facebookFlatNa ~ body ._5861 textarea:disabled {
+	color: #87a1bd !important;
+}
+#facebookFlatNa ~ body ._1frb::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+
+	color: #87a1bd !important;
+}
+#facebookFlatNa ~ body ._5861 ._586f, #facebookFlatNa ~ body ._5861 ._586i, #facebookFlatNa ~ body ._5861 ._1frb {
+	color: #87a1bd !important;
+    margin: 17px 0 0 10px;
+}
+#facebookFlatNa ~ body ._5861 ._586i {
+    color: #BEC9DE !important;
+}
+#facebookFlatNa ~ body #pagelet_bluebar ._586j {
+	color:#BEC9DE !important;
+	font-family: 'trebuchet ms', tahoma, arial, sans-serif !important
+}
+#facebookFlatNa ~ body .sp_8u73feyRveE.sx_45fffa {
+	display:none !important;
+}
+#facebookFlatNa ~ body ._5k35 ._5k3a {
+	border:none !important;
+}
+#facebookFlatNa ~ body ._262m ._698 {
+	border:none !important;
+}
+#facebookFlatNa ~ body ._698 ._5q6s::after {
+    border: none !important;
+}
+#facebookFlatNa ~ body ._3t_z {
+    margin-top: -7px !important;
+}
+#facebookFlatNa ~ body ._6a > i {
+	display:none !important;
+}
+#facebookFlatNa ~ body.home .userContentWrapper ._6a i {
+	display:none !important;
+   /*margin: 20px 0 0 0 !important;*/
+}
+/* Alexey */
+/*#facebookFlatNa ~ body ._5pcp a:nth-child(2) {
+	 display: none !important;
+}*/
+#facebookFlatNa ~ body ._5v3q ._5pcp i {
+
+}
+#facebookFlatNa ~ body .sp_843e1e.sx_751dcd {
+	display:none !important;
+}
+#facebookFlatNa ~ body ._59ap ._6m3 {
+	margin:10px 0 0 0 !important;
+}
+#facebookFlatNa ~ body ._2s1y {
+	box-shadow:none !important;
+	border-bottom:none !important;
+}
+#facebookFlatNa ~ body ._4f7n, #facebookFlatNa ~ body #blueBarDOMInspector ._2t-8, #facebookFlatNa ~ body ._2t-a {
+	background-image:none !important;
+	background-color: rgb(61, 89, 138);
+	transition:background 1s;
+}
+#facebookFlatNa ~ body ._21mm, #facebookFlatNa ~ body ._uaw, #facebookFlatNa ~ body ._4f7n, #facebookFlatNa ~ body #blueBarDOMInspector ._2t-a , #facebookFlatNa ~ body #blueBarDOMInspector ._2t-8 {
+	height:55px !important;
+}
+#facebookFlatNa ~ body ._50tj {
+	padding:0 !important;
+}
+#facebookFlatNa ~ body ._2t-8 ._4q39 {
+    margin: 16px 0 8px 0 !important;
+}
+#facebookFlatNa ~ body ._2t-8 ._4962 {
+    margin: 11px 0 6px 0 !important;
+}
+#facebookFlatNa ~ body ._2t-8 ._4d1i {
+	margin: 16px 0 9px !important;
+}
+#facebookFlatNa ~ body ._2t-8 ._5lxr {
+	margin: 17px 0 !important;
+}
+#facebookFlatNa ~ body ._19eb:hover, #facebookFlatNa ~ body ._19eb:focus, #facebookFlatNa ~ body ._19eb:active {
+	background-color:#355388 !important;
+}
+#facebookFlatNa ~ body ._5lus a, #facebookFlatNa ~ body ._2t-8 ._2md {
+	background:url('chrome-extension://__MSG_@@extension_id__/images/facebook_logo_white.png') !important;
+	width:17px !important;
+	height:33px !important;
+	background-position:0 0 !important;
+}
+#facebookFlatNa ~ body ._2t-8 ._2md {
+	margin:3px 0 0 0 !important;
+}
+
+#facebookFlatNa ~ body ._5lus {
+	position:relative !important;
+	margin: 10px 0 0 40px !important;
+}
+#facebookFlatNa ~ body.hasLeftCol ._5r-_ div#rightCol {
+	display:none;
+/*margin:0 30px 0 0;*/
+}
+#facebookFlatNa ~ body ._4w96._585- {
+/*	height: 34px !important; */
+border-radius:0px !important;
+	top: 0 !important;
+	border:none !important;
+	width: 200px !important;
+    margin: 0 0 0 37px !important;
+    float: left !important;
+   height: 55px !important;
+    top: 0 !important;
+    background: rgb(72, 99, 146) !important;
+    padding-top: 11px;
+}
+#facebookFlatNa ~ body ._1z4y a.jewelButton ._2n_9, #facebookFlatNa ~ body ._3nzl a.jewelButton ._2n_9, #facebookFlatNa ~ body ._4xi2.east a.jewelButton ._2n_9 {
+	background-image: none !important;
+}
+#facebookFlatNa ~ body ._5861 ._586j, #facebookFlatNa ~ body ._5861 ._586k, #facebookFlatNa ~ body ._5861 ._586f, #facebookFlatNa ~ body ._5861 ._586i {
+	padding:8px 0 0 6px !important;
+}
+#facebookFlatNa ~ body ._5861 ._586f::-webkit-input-placeholder {
+       color: rgb(190, 201, 222);
+}
+#facebookFlatNa ~ body #pagelet_bluebar .__wu .uiSearchInput .inputtext::-webkit-input-placeholder {
+color: rgb(190, 201, 222);
+}
+#facebookFlatNa ~ body ._585- ._4w98 {
+	        background: rgb(72, 99, 146) !important;
+	    border:none !important;
+	    border-radius:0 !important;
+	        padding: 7px 12px !important;
+}
+#facebookFlatNa ~ body ._55y4 ._bui ._5afe {
+	margin-left: 34px !important;
+    margin-top: 0px !important;
+    border-radius:1px !important;
+    height: auto !important;
+    padding:8px 5px 7px 36px !important;
+}
+#facebookFlatNa ~ body ._585_ {
+	background-position: -34px -343px !important;
+}
+#facebookFlatNa ~ body #leftCol {
+	padding:0 !important;
+}
+#facebookFlatNa ~ body #pagelet_welcome_box {
+	display:none !important;
+}
+
+#facebookFlatNa ~ body #profile_column_js {
+	    top: 55px !important;
+	margin:6px 0 0 105px !important;
+	position:fixed !important;
+	width:59px;
+	display:block !important;
+	
+	z-index:99999;
+    margin: 0 0 0 71px !important;
+    padding: 0 0 0 13px;
+    min-height:650px;
+
+	    background: -webkit-linear-gradient(top, rgb(45, 74, 125) 0%, rgb(49, 72, 115) 85%, rgba(0, 0, 0, 0) 100%);
+/*	transition: background 3s;*/
+}
+
+
+#facebookFlatNa ~ body.timelineLayout  #profile_column_js {
+    margin: 0 0 0 66px !important;
+}
+#facebookFlatNa ~ body._5uj5 #profile_column_js {
+    margin: 0 0 0 41px !important;
+}
+/*#facebookFlatNa ~ body ._31e, #facebookFlatNa ~ body ._li {
+	position:relative !important;
+}*/
+#facebookFlatNa ~ body #pagelet_welcome_box {
+	position:fixed !important;
+}
+#facebookFlatNa ~ body.hasLeftCol ._5pr2.fbChatSidebar .fbChatOrderedList, #facebookFlatNa ~ body._5uj5 ._5pr2.fbChatSidebar .fbChatOrderedList {
+	margin:10px 0 0 0 !important;
+}
+#facebookFlatNa ~ body._5uj5 ._3b ._3c input {
+    padding: 8px 21px 6px 10px !important;
+}
+/*#facebookFlatNa ~ body._5uj5 .uiSearchInput button {
+    padding: 1px 28px 0 0 !important;
+    top: 6px !important;
+
+}*/
+#facebookFlatNa ~ body ._55za ._55lr {
+    font-family: 'trebuchet ms', tahoma, arial, sans-serif !important
+}
+#facebookFlatNa ~ body #pagelet_canvas_nav_content {
+	display:none !important;
+}
+#facebookFlatNa ~ body #profile_column_js .menuone > a, #facebookFlatNa ~ body #profile_column_js .menuone > p {
+	color:white !important;
+	font-size:14px !important;
+	/*    padding: 11px 10px 10px 15px !important;*/
+    min-width: auto !important;
+ 	width:60px !important;
+ 	height:51px !important;
+    white-space: nowrap !important;
+  /*  overflow: hidden;*/
+	float:left;
+	border-radius:1px !important;
+/*	display:none !important;*/
+}
+#facebookFlatNa ~ body #profile_column_js .menuone > a p {
+	display:none;
+    margin: 5px 0 0 50px;
+    position: absolute;
+    padding: 8px 15px 7px;
+    font-size: 13px;
+    border-radius: 2px;
+    z-index: 9999999;
+    background: rgba(0, 0, 0, 0.75);
+}
+#facebookFlatNa ~ body ._55lr {
+	font-family: 'trebuchet ms', tahoma, arial, sans-serif !important;
+}
+#facebookFlatNa ~ body #profile_column_js .menuone > p {
+	margin: 0 !important;
+	display:none !important;
+}
+#facebookFlatNa ~ body #profile_column_js .menuone > b {
+	position: absolute;
+    margin: 13px 0 0 -20px;
+    background: #DE9D38;
+    border-radius: 1px;
+    font-size: 9px;
+    padding: 2px 5px 2px 5px;
+    color: white;
+}
+#facebookFlatNa ~ body #profile_column_js .menuone > p:hover {
+	cursor:pointer;
+}
+#facebookFlatNa ~ body ._5ay5 ._1dsp ._51xa .uiPopover ._42ft {
+	height: 27px !important;
+    padding: 5px 10px 0 0 !important;
+}
+#facebookFlatNa ~ body #profile_column_js > a > p {
+ 	    color: rgb(255, 255, 255) !important;
+ 	    width:70px !important;
+ 	    white-space: nowrap!important ;
+   		 overflow: hidden !important;
+ }
+#facebookFlatNa ~ body  #profile_column_js .menuoneava {
+/* 	padding: 11px 10px 10px 15px !important;*/
+ }
+#facebookFlatNa ~ body.timelineLayout ._5v3q ._1dwg {
+	padding: 12px 3px 0 !important;
+}
+#facebookFlatNa ~ body .menuone {
+	float:left !important;
+	border-radius:1px !important;
+	min-width:40px;
+	/*padding:16px 0 0 0;*/
+/*	transition:background .2s;*/
+}
+#facebookFlatNa ~ body .menuone:nth-child(1) {
+padding:16px 0 0 0;
+}
+#facebookFlatNa ~ body ._4mq3 {
+/*	display:block !important;*/
+}
+#facebookFlatNa ~ body.home ._wpv, #facebookFlatNa ~ body.timelineLayout ._wpv {
+	margin:0 0 0 10px !important;
+}
+#facebookFlatNa ~ body #spreadworldext {
+	float:left;
+	width:100%;
+	text-align:center;
+}
+#facebookFlatNa ~ body #sharebutfacebookflat, #facebookFlatNa ~ body #sharebutfacebookflattw, #facebookFlatNa ~ body #sharebutfacebookflat23, #facebookFlatNa ~ body #fromdev {
+	float:left;
+	width:130px !important;
+	height: auto !important;
+    border-radius: 1px;
+    text-align:center !important;
+    background: rgb(53, 98, 154) !important;
+    margin:10px 0 0 0 !important;
+    padding: 14px 15px 11px 15px !important;
+    font-size: 14px;
+	color:white !important;
+	z-index: 22222 !important;
+}
+#facebookFlatNa ~ body #fromff, #facebookFlatNa ~ body #fromff2 {
+	float:left;
+	transition:background .2s;
+}
+
+#facebookFlatNa ~ body #fromff > .fromffnew, #facebookFlatNa ~ body #fromff2 > .fromffnew {
+	position: absolute;
+    margin: 13px 0px 0px -25px;
+    background: rgb(218, 75, 88);
+    border-radius: 1px;
+    font-size: 9px;
+    padding: 2px 5px;
+    color: white;
+}
+#facebookFlatNa ~ body #fromdev {
+	background: none !important;
+    /* padding: 13px 0 12px !important; */
+    width: 115px !important;
+    float: left;
+    margin: -2px 0 0 0 !important;
+    /* height: 0 !important; */
+        text-align: left !important;
+    padding: 13px 12px 10px 15px !important;
+}
+#facebookFlatNa ~ body #fromdev:hover {
+	cursor:pointer;
+	opacity:0.75;
+}
+
+/*#facebookFlatNa ~ body #fromff:hover > #fromdevmess {
+	display:block;
+}*/
+#facebookFlatNa ~ body #sharebutfacebookflattw, #facebookFlatNa ~ body #sharebutfacebookflat23 {
+
+	margin:5px 0 0 0 !important;
+	background: rgb(37, 149, 214) !important;
+}
+#facebookFlatNa ~ body #sharebutfacebookflat:hover, #facebookFlatNa ~ body #sharebutfacebookflattw:hover, #facebookFlatNa ~ body #sharebutfacebookflat23:hover {
+	text-decoration:none;
+	opacity:0.8;
+}
+#facebookFlatNa ~ body ._3i1j._4k57, #facebookFlatNa ~ body ._3i1j._4k57 ._117p {
+	width:850px !important;
+}
+#facebookFlatNa ~ body .accessible_elem {
+	color:white !important;
+}
+#facebookFlatNa ~ body .__wu ._539-.roundedBox .uiSearchInput .inputtext {
+    /*color: #777777 !important;*/
+}
+#facebookFlatNa ~ body .__wu .roundedBox .smurfbarTopBorder, #facebookFlatNa ~ body .__wu .roundedBox .smurfbarBottomBorder {
+	background:none !important;
+}
+#facebookFlatNa ~ body .__wu .roundedBox .uiTypeahead {
+	background-color: rgb(251, 251, 251) !important;
+}
+#facebookFlatNa ~ body .__wu ._539-.roundedBox, #facebookFlatNa ~ body #pagelet_bluebar ._585- {
+padding-top: 0 !important;
+    width: 200px;
+    float: left;
+    height: 55px;
+    top: 0px;
+    border-radius: 0px !important;
+    border: none;
+    border-image:  !important;
+    margin: 0px 0px 0px 37px;
+    background: rgb(72, 99, 146);
+}
+#facebookFlatNa ~ body #pagelet_bluebar ._5861 {
+	height:36px !important;
+}
+#facebookFlatNa ~ body #pagelet_bluebar ._5861 ._586i {
+	padding: 2px 0px 0px 6px !important;
+}
+#facebookFlatNa ~ body #pagelet_bluebar ._586j {
+	    padding: 19px 0px 0px 6px !important;
+}
+#facebookFlatNa ~ body ._52c6 {
+	border:none !important;
+}
+#facebookFlatNa ~ body.hasLeftCol  .fbPrivacyAudienceIndicator  {
+	display:none !important;
+}
+#facebookFlatNa ~ body.fbxWelcomeBoxSmall .fbxWelcomeBoxProfilePic {
+	border: none !important;
+}
+
+#facebookFlatNa ~ body #pagelet_bluebar ._3z_5 {
+	    background-color: rgb(255, 92, 99) !important;
+	background-image:none !important;
+	text-shadow:none !important;
+	box-shadow:none !important;
+}
+#facebookFlatNa ~ body #fromff:hover, #facebookFlatNa ~ body #fromff2:hover {
+	background: rgba(255,255,255,0.1) !important;
+}
+#facebookFlatNa ~ body .menuone > a > span {
+		transition: all 0.15s ease-in-out;
+}
+#facebookFlatNa ~ body .menuone:hover > a > span {
+opacity:0.55;
+
+}
+
+#facebookFlatNa ~ body .menuone:hover p {
+	display:block !important;
+
+}
+#facebookFlatNa ~ body .menuoneava:hover {
+	opacity:0.6;
+}
+#facebookFlatNa ~ body.home .fcg ._20y0 {
+	display:none;
+}
+#facebookFlatNa ~ body #profile_column_js span {
+	width:22px !important;
+	height:23px !important;
+	margin:12px 0 0 12px !important;
+	float:left !important;
+
+	background:url('chrome-extension://__MSG_@@extension_id__/images/menu_ic.png') !important;
+	background-position:-3px 0;
+}
+#facebookFlatNa ~ body #profile_column_js > .menuone:nth-child(2) {
+	margin-top:16px !important;
+}
+#facebookFlatNa ~ body #profile_column_js > .menuone:nth-child(3) span {
+	background-position:0 -51px !important;
+	width: 24px !important;
+	height: 21px !important;
+}
+#facebookFlatNa ~ body #profile_column_js > .menuone:nth-child(4) span {
+	background-position: 0px -100px !important;
+	width: 23px !important;
+	height: 15px !important;
+}
+#facebookFlatNa ~ body #profile_column_js > .menuone:nth-child(5) span {
+	background-position:0 -143px !important;
+	width: 23px !important;
+	height: 23px !important;
+}
+#facebookFlatNa ~ body #profile_column_js > .menuone:nth-child(6) span {
+		background-position:0 -194px !important;
+	width: 23px !important;
+	height: 19px !important;
+}
+#facebookFlatNa ~ body #profile_column_js > .menuone:nth-child(7) span {
+		background-position:0 -234px !important;
+	width: 24px !important;
+	height: 24px !important;
+	    margin-top: 5px !important;
+}
+#facebookFlatNa ~ body #profile_column_js > .menuone:nth-child(8) span {
+        margin-top: 11px !important;
+    background-position: -1px -285px !important;
+    margin-left:13px !important;
+	width: 21px !important;
+	height: 19px !important;
+}
+#facebookFlatNa ~ body #profile_column_js > .menuone:nth-child(9) span {    
+	     background-position:0px -332px !important;
+	width: 22px !important;
+	height: 21px !important;
+}
+#facebookFlatNa ~ body #profile_column_js > .menuone:nth-child(10) span {
+	   background-position:0px -381px !important;
+	width: 21px !important;
+	height: 23px !important;
+}
+#facebookFlatNa ~ body #profile_column_js > .menuone:nth-child(11) span {
+		   background-position:0px -432px !important;
+	width: 24px !important;
+	height: 22px !important;
+}
+#facebookFlatNa ~ body #profile_column_js > .menuone:nth-child(12) span {
+   background-position:-1px -482px !important;
+	width: 21px !important;
+	margin-left:13px !important;
+	height: 24px !important;
+}
+#facebookFlatNa ~ body ._55lq:after {
+	border:none !important;
+}
+#facebookFlatNa ~ body #profile_column_js > .menuone:nth-child(3) a {
+
+}
+#facebookFlatNa ~ body #profile_column_js > .menuone:nth-child(4) a {
+		margin-top:-2px !important;
+}
+#facebookFlatNa ~ body #profile_column_js > .menuone:nth-child(5) a {
+margin-top:-8px !important;
+}
+#facebookFlatNa ~ body #profile_column_js > .menuone:nth-child(6) a {
+
+}
+#facebookFlatNa ~ body #profile_column_js > .menuone:nth-child(7) a {
+margin-top:-4px !important;
+}
+#facebookFlatNa ~ body #profile_column_js > .menuone:nth-child(8) a {
+margin-top:-6px !important;
+}
+#facebookFlatNa ~ body #profile_column_js > .menuone:nth-child(9) a {    
+margin-top:-5px !important;
+}
+#facebookFlatNa ~ body #profile_column_js > .menuone:nth-child(10) a {
+margin-top:-2px !important;
+}
+#facebookFlatNa ~ body #profile_column_js > .menuone:nth-child(11) a {
+
+}
+#facebookFlatNa ~ body #profile_column_js > .menuone:nth-child(12) a {
+
+}
+#facebookFlatNa ~ body #profile_column_js > .menuone:nth-child(13) a {
+margin-top:-2px !important;
+}
+#facebookFlatNa ~ body ._55y4 {
+	display:none !important;
+}
+#facebookFlatNa ~ body.pagesTimelineLayout {
+	background:white !important;
+}
+#facebookFlatNa ~ body.pagesTimelineLayout ._dcs {
+	box-shadow: none !important;
+}
+#facebookFlatNa ~ body #fromff > span, #facebookFlatNa ~ body #fromff2 > span {
+	    background-position: -144px 0px !important;
+    width: 15px;
+    margin-left: 14px;
+    height: 16px;
+    margin: 12px 0px 0px 13px !important;
+    float: left;
+    background: url('chrome-extension://__MSG_@@extension_id__/images/colors.png') !important;
+}
+#facebookFlatNa ~ body #fromff2 > span {
+background: url('chrome-extension://__MSG_@@extension_id__/images/ff_feed.png') !important;
+}
+#facebookFlatNa ~ body #ff_like_button_if {
+	float:left;
+	margin:15px 0 0 45px;
+	white-space: nowrap;
+}
+#facebookFlatNa ~ body #ff_share_button_if {
+
+    position: absolute;
+    z-index: 3;
+    white-space: nowrap;
+    height: 400px;
+    background: white;
+    width: 230px;
+    margin: 160px 0 0 0;
+    transition:opacity .2s;
+	}
+#facebookFlatNa ~ body #ff_share_button_if > a:hover {
+	text-decoration: none;
+	opacity:0.85;
+}
+#facebookFlatNa ~ body.home #pagelet_composer {
+/*	margin:0 0 60px 0;*/
+}
+#facebookFlatNa ~ body.home #menu_ff_cats {
+	position:absolute;
+    margin: -40px 0 0 0;
+}
+#facebookFlatNa ~ body.home #menu_ff_cats > a, #facebookFlatNa ~ body.home #menu_ff_cats > p {
+	float:left;
+	padding:10px 20px;
+	margin:0 !important;
+
+
+}
+
+/*#facebookFlatNa ~ body.home #pagelet_composer:after {
+	content: '';
+	display:block;
+	float:left;
+	width:100%;
+	height:50px;
+	background:red;
+	z-index:99999 !important;
+}*/
+#facebookFlatNa ~ body.hasLeftCol ._5pcp .fsm::before {
+
+
+
+}
+#facebookFlatNa ~ body .fromdev4onecat {
+
+	width:150px;
+  	clear:both;
+    float: left;
+    margin:0 0 0 10px;
+    padding:5px 10px 9px 10px;
+    color:#444444;
+   
+    border-radius:2px;
+}
+#facebookFlatNa ~ body #ext_pro_div {
+	margin: 10px 0 10px 70px;
+	box-shadow:none;
+}
+#ext_pro_div {
+	width:499px;
+	height:70px;
+	background:white;
+	margin: 0 0 10px 1px;
+	box-shadow:#b3b3b3 0px 0px 1px;
+}
+#ext_pro_div > span {
+	width:34px;
+	height:40px;
+	float:left;
+	margin:17px 0px 0px 16px;
+	background: url('chrome-extension://__MSG_@@extension_id__/images/shield.png') !important;
+}
+#ext_pro_div > p {
+	float:left;
+	    font-size: 13px;
+    margin: 28px 0 0 15px;
+    color: #929292;
+	font-family: trebuchet ms !important;
+}
+#ext_pro_div > a {
+    padding: 15px 40px 14px;
+    color: white;
+    font-family: trebuchet ms !important;
+    font-weight: bold;
+    font-size: 13px;
+    float: right;
+    background: #4267b2;
+    margin: 12px 12px 0 0;
+    border-radius:2px;
+}
+#aextprom:hover {
+	text-decoration: none;
+	opacity:0.8;
+}
+#ext_pro_div:hover > p:nth-child(2) {
+	display:none;
+}
+#ext_pro_div:hover > #extpromby {
+	display:block !important;
+}
+#facebookFlatNa ~ body #fromdev4left > div:nth-child(1) {
+	background:rgb(224, 224, 224);
+}
+#facebookFlatNa ~ body #fromdevrightpages {
+	position:absolute;
+	    width: 185px;
+    margin: 0 0 0 175px;
+	height:96%;
+	/*height:calc(100% - 55px);*/
+	background:#F3F3F3;
+	overflow: scroll;
+}
+#facebookFlatNa ~ body .pageoneff {
+	float:left;
+	clear:both;
+	    width: 100%;
+}
+#facebookFlatNa ~ body .pageoneff:hover {
+	cursor:pointer;
+	background:rgb(228, 228, 228) !important;
+}
+#facebookFlatNa ~ body .pageoneff:nth-child(1) {
+	background:#CECECE;
+	border-radius:1px;
+}
+#facebookFlatNa ~ body .pageoneff img {
+	float:left;
+	width:20px;
+	border-radius:50px;
+	box-shadow:0 0 3px gray;
+	margin:10px;
+}
+#facebookFlatNa ~ body .pageoneff p {
+	font-size: 12px;
+    color: #424242;
+    white-space: nowrap;
+    margin: 12px 0px 0px;
+    width: 140px;
+    overflow: hidden;
+
+}
+#facebookFlatNa ~ body .fromdev4 {
+	opacity:0;
+
+}
+#facebookFlatNa ~ body .fromdev4onecat:hover {
+	cursor:pointer;
+	background:rgb(239, 239, 239) !important;
+}
+#facebookFlatNa ~ body #fromdev4left > div:nth-child(1) {
+	margin: 10px 0 0 10px;
+}
+#facebookFlatNa ~ body #fromdevrightpages::-webkit-scrollbar {
+    width: 5px;
+}
+#facebookFlatNa ~ body #fromdevrightpages::-webkit-scrollbar-thumb {
+    background-color: #B9B9B9;
+    border-radius: 44px !important;
+}
+#facebookFlatNa ~ body #fromdevrightpages::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(119, 119, 119, 0.3);
+}
+ #facebookFlatNa ~ body .fromdev4onecat b {
+	font-size:13px;
+	font-weight:normal;
+	float:left;
+	margin:11px 0 0 7px ;
+}
+#facebookFlatNa ~ body #fromdev4left > div i {
+float:left;
+  width: 33px;
+  height:32px;
+  text-align: center;
+  display:inline-block;
+  background-color: #ccc;
+  	background: url('chrome-extension://__MSG_@@extension_id__/images/feedicons.png');
+	background-position: 0px 0px !important;
+	background-repeat: no-repeat;
+	margin:0 7px 0 0;
+
+}
+}
+#facebookFlatNa ~ body #fromdev4left > div:nth-child(1) b {
+	
+	margin-top:8px;
+}
+#facebookFlatNa ~ body #fromdev4left > div:nth-child(1) i {
+	background-position: 0 0 !important;
+	margin-top:-3px;
+}
+#facebookFlatNa ~ body #fromdev4left > div:nth-child(2) i {
+	background-position: -40px 0px !important;
+	height:34px;
+}
+#facebookFlatNa ~ body #fromdev4left > div:nth-child(3) i {
+	background-position: -79px 0px !important;
+	height:34px;
+}
+#facebookFlatNa ~ body #fromdev4left > div:nth-child(4) i {
+	background-position: -341px 0px !important;
+	height:34px;
+	margin-left:-2px;
+}
+#facebookFlatNa ~ body #fromdev4left > div:nth-child(5) i{
+	background-position: -373px 0px !important;
+	height:34px;
+	margin-left:2px;
+}
+#facebookFlatNa ~ body #fromdev4left > div:nth-child(6) i {
+	background-position: -119px 0px !important;
+	height:34px;
+}
+#facebookFlatNa ~ body #fromdev4left > div:nth-child(7) i {
+	background-position: -157px 0px !important;
+	height:37px;
+}
+#facebookFlatNa ~ body #fromdev4left > div:nth-child(8) i {
+	background-position: -195px 0px !important;
+	height:34px;
+}
+#facebookFlatNa ~ body #fromdev4left > div:nth-child(9) i {
+	background-position: -234px 0px !important;
+	height:37px;
+}
+#facebookFlatNa ~ body #fromdev4left > div:nth-child(10) i {
+	background-position: -271px 0px !important;
+	height:37px;
+}
+#facebookFlatNa ~ body #fromdev4left > div:nth-child(11) i {
+	background-position: -309px 0px !important;
+	height:34px;
+}
+#facebookFlatNa ~ body ._5t_y ._52lb {
+	/*display:block !important;*/
+}
+#facebookFlatNa ~ body.hasLeftCol ._6a ._5pcp {
+/*	    position: absolute !important;
+    margin: 0 0 0 592px !important;
+    width: 100px !important;
+    border-radius: 20px !important;
+    color:white !important;*/
+}
+#facebookFlatNa ~ body ._mq0 {
+	display:none !important;
+}
+
+#facebookFlatNa ~ body ._6m6 a {
+	    color: rgb(47, 50, 58) !important;
+    font-size: 13px !important;
+    font-weight: bold !important;
+    font-family: trebuchet ms !important;
+}
+#facebookFlatNa ~ body ._6m3 ._6mb {
+	font-size:10px !important;
+}
+#facebookFlatNa ~ body #from3devleftclose {
+	width:40px !important;
+	height:40px !important;
+
+	position:absolute !important;
+	margin: 15px 0 0 875px !important;
+	background:url('chrome-extension://__MSG_@@extension_id__/images/cross.png') !important;
+	-webkit-transition:opacity .2s;
+}
+#facebookFlatNa ~ body #from3devleftclose:hover {
+	cursor:pointer;
+	opacity:0.7;
+}
+#facebookFlatNa ~ body #touparrow {
+	width: 50px;
+	text-align:center;
+	display: block;
+    padding: 0;
+    height: 40px;
+    margin: 10px 0 0 2px;
+	float:left;
+	color:white;
+	
+	
+    border-radius: 6px;
+    font-size:20px;
+    display:none;
+  
+
+}
+
+#facebookFlatNa ~ body #pagelet_bluebar .__wu ._539- {
+	    height: 55px !important;
+    background: rgb(72, 99, 146) !important;
+    margin: 0 !important;
+    padding-top: 0 !important;
+
+    top: 0 !important;
+    margin: 0px 0px 0px 37px !important
+}
+#facebookFlatNa ~ body #pagelet_bluebar .__wu .uiTypeahead {
+	margin-top: 17px !important;
+    margin-left: 10px !important;
+    background: rgb(72, 99, 146) !important;
+}
+#facebookFlatNa ~ body #pagelet_bluebar .__wu .uiSearchInput .inputtext {
+	color: #8A9FC0 !important;
+}
+#facebookFlatNa ~ body #pagelet_bluebar .__wu ._539-.roundedBox .uiSearchInput.reDesignedInput button {
+	display:none !important;
+}
+#facebookFlatNa ~body #touparrow i {
+	font-size:13px;
+	font-style:normal;
+	display:none;
+	background:rgba(0, 0, 0, 0.8);
+	margin:10px 0 0 45px;
+	padding:5px;
+	width:50px;
+	border-radius:2px;
+}
+#facebookFlatNa ~ body #touparrow:hover > i {
+	display:block;
+}
+#facebookFlatNa ~ body #profile_left_ff {
+	position: fixed;
+	width:50px;
+	margin: 13px 0 0 -78px;
+    transition:background .2s;
+}
+#facebookFlatNa ~ body._5uj5 #profile_left_ff {
+	 /*   margin: 0px 0px 0px -40px;*/
+}
+#facebookFlatNa ~ body #profile_left_ff a {
+   /* padding:7px;*/
+        padding: 7px 5px 5px 7px;
+}
+#related_ff_454 {
+/*	width: 100%;
+    height: 300px;
+    background: white;
+    margin: 0 0 10px 0;
+    box-shadow: 0 0 2px #cccccc;
+    border-radius: 2px;*/
+}
+#facebookFlatNa ~ body .menuoneava > p {
+	display:none;
+}
+#facebookFlatNa ~body #touparrow:hover {
+	   opacity:0.6;
+	    cursor:pointer;
+}
+#facebookFlatNa ~ body.pagesTimelineLayout ._6m2 {
+	width:432px !important;
+}
+/*#facebookFlatNa ~ body.timelineLayout ._6m2 {
+	width:465px !important;
+}*/
+#facebookFlatNa ~ body.pagesTimelineLayout ._2r3x {
+	width: 432px !important;
+}
+/*#facebookFlatNa ~ body.timelineLayout ._3ccb, #facebookFlatNa ~ body.pagesTimelineLayout ._3ccb {
+	    border: 4px solid rgb(234, 234, 234);
+    border-radius: 4px;
+}*/
+#facebookFlatNa ~ body.home ._6ks {
+	width:625px !important;
+}
+#facebookFlatNa ~ body ._6ks {
+	width:100% !important;
+}
+#facebookFlatNa ~ body ._5pcb ._4ikz:nth-child(3) {
+	/*display:none;*/
+}
+#facebookFlatNa ~ body.pagesTimelineLayout .uiScaledImageContainer, #facebookFlatNa ~ body.pagesTimelineLayout ._4-eo {
+	max-width:432px !important;
+}
+#facebookFlatNa ~ body ._6m7._6m7._6m7._6m7 {
+	font-family: trebuchet ms !important;
+    font-size: 13px !important;
+    color: rgb(88, 88, 88) !important;
+}
+
+#facebookFlatNa ~ body.home ._5v3q ._5ptz {
+/*	margin: -2px 0 0 10px !important;
+    position: absolute !important;
+        color: rgb(185, 185, 185) !important;*/
+}
+#facebookFlatNa ~ body ._4bl9 > ._5v3q ._5pcp {
+	width:auto !important;
+	margin:0 !important;
+}
+#facebookFlatNa ~ body #rightcoloff {
+		background: url('chrome-extension://__MSG_@@extension_id__/images/refreshs.png');
+		
+		height:14px;
+		background-position: -20px 0;
+    padding: 0;
+    margin: 24px 0 0 5px;
+    width: 25px;
+    border: none;
+    box-shadow: none;
+    float:left;
+}
+
+#facebookFlatNa ~ body ._5onn {
+	       box-shadow: 0px 1px 1px #BFBFBF !important;
+}
+#facebookFlatNa ~ body ._5ono {
+	box-shadow: -1px 0px 0 rgb(239, 239, 239) !important;
+}
+#facebookFlatNa ~ body ._38vo:after {
+	border:none !important;
+}
+/*#facebookFlatNa ~ body ._2h0l {
+	box-shadow: 0px -1px 1px #BFBFBF !important;
+}*/
+#facebookFlatNa ~ body ._55y4 ._bui ._5afe:hover {
+	cursor:pointer !important;
+}
+#facebookFlatNa ~ body .sp_MKjjS-nv9eD.sx_195da8 {
+	display:none !important;
+}
+#facebookFlatNa ~ body ._bui .selectedItem ._5afe, #facebookFlatNa ~ body ._bui .selectedItem ._5afe:hover, #facebookFlatNa ~ body ._bui ul .selectedItem .subitem, #facebookFlatNa ~ body ._bui ul .selectedItem .subitem:hover {
+	font-weight:normal !important;
+}
+#facebookFlatNa ~ body #pagelet_advertiser_panel {
+	display:none !important;
+	border-bottom:none !important;
+}
+#facebookFlatNa ~ body ._bui .sideNavItem .imgWrap {
+	margin-left:-26px !important;
+}
+#facebookFlatNa ~ body #leftCol {
+	position:relative !important;
+}
+/*#facebookFlatNa ~ body.timelineLayout .fbTimelineTwoColumn[data-type="s"] {
+	    border: 4px solid #ECECEC;
+    border-radius: 4px;
+    margin-top:0;
+    margin-bottom:0;
+}*/
+/*#facebookFlatNa ~ body.timelineLayout ._57d8 {
+	background-color:white;
+}*/
+#facebookFlatNa ~ body #right_tumbler {
+	width:40px;
+	height:20px;
+	background:#d3d3d3;
+	float:left;
+	margin:20px 0 0 93px;
+	border-radius:30px;
+	display:none;
+}
+#facebookFlatNa ~ body #right_tumbler:hover {
+	cursor:pointer;
+	opacity:0.76;
+}
+#facebookFlatNa ~ body .circle_tumbler_ff {
+	float:left;
+	width:14px;
+	background:#7a7a7a;
+	border-radius:30px;
+	height:14px;
+	margin:3px 0 0 3px;
+}
+#facebookFlatNa ~ body #quizzes_ff {
+	    float: left;
+    margin: 10px 0 0 15px;
+    height:1000px;
+}
+#quizzes_ff {
+	/*min-height: 347px;*/
+	height:auto;
+}
+#facebookFlatNa ~ body #quizzes_ff #quizgamti {
+	font-weight:bold;
+	font-size:12px;
+	color: #545454;
+	float:left;
+	clear:both;
+	text-align:center;
+    width: 92%;
+	margin: -15px 0px 5px;
+    position: relative;
+    z-index: 2;
+}
+#facebookFlatNa ~ body .ff_url_out {
+	color:rgb(187, 187, 187) !important;
+	font-weight:bold !important;
+	font-size:11px !important;
+	clear:both !important;
+	 text-align: center;
+    width: 200px;
+        padding-left: 0;
+}
+#facebookFlatNa ~ body #quizgamea {    
+	float: left;
+    padding: 10px 60px;
+    background: #f34463;
+    font-weight: bold;
+    margin: 5px 0 0 20px;
+    color: white;
+    border-radius: 2px;
+    font-size: 13px;
+}
+.ff_url_out {
+	font-size: 12px !important;
+    padding: 7px 0 6px 5px;
+    color: #adadad;
+    font-family: trebuchet ms !important;
+    font-weight: normal;
+    margin: 0;
+    width: 70%;
+    float:left;
+}
+#facebookFlatNa ~ body .ff_image_out {
+	position:absolute;
+	width:60px;
+	height:60px;
+	border-radius:60px;
+	left: 25px;
+    top: 50px;
+
+}
+#facebookFlatNa ~ body #quizzes_ff ~ .rightcollistoneff2 {
+	    margin: 20px 0px 0px;
+}
+#facebookFlatNa ~ body #quizzes_ff_one > img {
+	/*float:left;*/
+}
+#quizzes_ff_one > span {
+	width:40px;
+	height:40px;
+	float:left;
+ 	background: url('chrome-extension://__MSG_@@extension_id__/images/flame.png');
+ 	margin: 13px 0 3px 8px;
+}
+#quizzes_ff_one > b {
+	float: left;
+  
+    color: #484848;
+    font-family: trebuchet ms;
+  
+    padding: 16px 0px 0px 5px;
+}
+#facebookFlatNa ~ body .ff_title_st {
+    font-size: 13px !important;
+    font-weight: bold !important;
+    color: rgb(47, 50, 58) !important;
+}
+.ff_title_st {
+	width:90%;
+}
+
+#facebookFlatNa ~ body #related_ff_454 {
+	height:400px;
+	margin-top:10px;
+	margin-bottom:10px;
+	border-radius:3px;
+	background:white;
+	box-shadow:0 0 2px #d0d0d0;
+}
+#related_ff_454 {
+	background: white;
+    height: 346px;
+    margin-bottom: 10px;
+    box-shadow: 0 0 1px #c3c3c3;
+    border-radius: 2px;
+}
+#facebookFlatNa ~ body #related_ff_454 {
+	border:none !important;
+	box-shadow:none;
+}
+.ff_title_st:hover {
+	text-decoration:none;
+}
+#quizzes_ff > a:hover {
+	text-decoration:none;
+}
+#facebookFlatNa ~ body ._6n_ .uiVideoThumb i, #facebookFlatNa ~ body ._6o1 {
+	  /*  margin: -39px 0 0 39px !important;*/
+}
+#facebookFlatNa ~ body ._5v3q ._6n_ ._6o0, #facebookFlatNa ~ body ._5v3q ._6n_ ._57tt {
+/*	width:630px !important;*/
+}
+#facebookFlatNa ~ body #fflikeself {
+	    position: absolute;
+/*    display: none;*/
+    width: 237px;
+    height: 300px;
+    background: white;
+    z-index: 2;
+}
+#facebookFlatNa ~ body #obffkitty {
+	float:left;
+}
+#facebookFlatNa ~ body #selfkitty {
+	width:29px;
+	height:59px;
+	margin:20px 0 0 85px;
+	float: left;
+    margin: 15px 0 0 95px;
+
+    transform: scale(-1, 1) rotate(-140deg);
+	background: url('chrome-extension://__MSG_@@extension_id__/images/kitty.jpg') no-repeat;
+}
+#facebookFlatNa ~ body #fflikeself > p {
+
+    font-size: 14px;
+    font-weight: normal;
+	text-align:center;
+	
+	position: relative;
+    border-radius: 4px;
+    padding: 10px 0;
+    margin: 40px 0 0 20px;
+    color: white;
+    background: rgb(68, 68, 68);
+    width: 200px;
+}
+#facebookFlatNa ~ body #fflikeself > p:after {
+	    content: "";
+    position: absolute;
+    bottom: -10px;
+    left: 65px;
+    border-width: 10px 10px 0;
+    border-style: solid;
+    border-color: rgb(68, 68, 68) transparent;
+    display: block;
+    width: 0;
+}
+#facebookFlatNa ~ body #selfif {
+	float:left;
+	margin:10px 0 0 85px;
+	background:white;
+	padding:5px;
+}
+#facebookFlatNa ~ body #ffyoulllike {
+    float: left;
+    margin: 100px 0 0 13px;
+    color: #ABABAB;
+    text-align:center;
+}
+#facebookFlatNa ~ body #ffyoulllike a {
+	color: #ABABAB;
+}
+#selfifsh {
+	float:left;
+	margin:0 0 0 85px;
+	background:white;
+	padding:5px;
+}
+#facebookFlatNa ~ body .sp_YAFPrqyiqUo {
+	background-image:url('chrome-extension://__MSG_@@extension_id__/images/234234menu.png') !important;
+}
+#facebookFlatNa ~ body .uiScaledImageContainer {
+/*	height:300px !important;*/
+}
+#facebookFlatNa ~ body.timelineLayout ._4mb8, #facebookFlatNa ~ body.timelineLayout ._5nb8 {
+    box-shadow: 0px 1px 1px #C7C7C7 !important;
+}
+#facebookFlatNa ~ body.timelineLayout #leftCol::before, #facebookFlatNa ~ body._5uj5 #leftCol::before {
+      content: "";
+      z-index:-1 !important;
+     transition:background 1s;
+   display: block !important;
+   width: calc((100% - 750px) / 2);
+   min-height: 100% !important;
+    background: url("chrome-extension://__MSG_@@extension_id__/images/menu_ic.png") calc(100% - 21px) 28px no-repeat rgb(52, 79, 128);
+       background-repeat: no-repeat;
+    background-position: calc((100% - 21px)) 28px;
+   position:fixed !important;
+   left:0 !important;
+   top:55px !important;
+}
+#facebookFlatNa ~ body #testvrouttersspp {
+	color:white;
+	font-size:30px;
+	margin:20px 0 0 0;
+}
+#facebookFlatNa ~ body.home #leftCol::before {
+      content: "";
+      z-index:-1 !important;
+     transition:background 1s;
+   display: block !important;
+   width: calc((100% - 813px) / 2);
+   min-height: 100% !important;
+       background: url("chrome-extension://__MSG_@@extension_id__/images/menu_ic.png") calc(100% - 21px) 28px no-repeat rgb(52, 79, 128);
+       background-repeat: no-repeat;
+   background-position: calc((100% - 21px)) 28px;
+   position:fixed !important;
+   left:0 !important;
+   top:55px !important;
+}
+
+#facebookFlatNa ~ body._5uj5 #leftCol::before {
+	width: calc((100% - 800px) / 2);
+}
+
+#facebookFlatNa ~ body.timelineLayout a._20y0 {
+	display:none !important;
+}
+#facebookFlatNa ~ body.timelineLayout ._6a ._5pcp ._5pcq:nth-child(2) {
+	display:none !important;
+}
+#facebookFlatNa ~ body.timelineLayout ._6a ._5pcp span:nth-child(2) {
+	/*display:none !important;*/
+}
+#facebookFlatNa ~ body._5vb_ ._55y4 ._bui ._5afe:hover, #facebookFlatNa ~ body._5vb_ ._55y4 ._bui ._5afe:focus, #facebookFlatNa ~ body._5vb_ ._55y4 ._bui ._5afe:active, #facebookFlatNa ~ body._5vb_ ._55y4 ._bui ._5afd ._5afe {
+    background-color: rgb(25, 185, 138) !important;
+}
+#facebookFlatNa ~ body._5vb_, #facebookFlatNa ~ body._5vb_ #contentCol {
+	background-color:white;
+
+}
+#facebookFlatNa ~ body ._48gf {
+	/*width:200px !important;*/
+}
+#facebookFlatNa ~ body ._4-u2 {
+	border:none !important;
+}
+#facebookFlatNa ~ body ._57tt img {
+	/*width:666px;*/
+}
+#facebookFlatNa ~ body ._5v9u:after, #facebookFlatNa ~ body ._s0:only-child {
+	border-radius:50px !important;
+}
+#facebookFlatNa ~ body.hasLeftCol .uiLinkSubtle {
+	/*display:none !important;*/
+}
+#facebookFlatNa ~ body ._5v3q ._5pcp a.uiLinkSubtle {
+	display:none !important;
+}
+#facebookFlatNa ~ body.home ._5v3q ._1dwg {
+	padding:0 !important;
+}
+#facebookFlatNa ~ body ._42fz {
+	margin:5px 0 0 0;
+}
+#facebookFlatNa ~ body #contentArea ._4-u8  {
+/*	width:625px !important;*/
+}
+#facebookFlatNa ~ body .sp_MKjjS-nv9eD.sx_5e8d44 {
+	display:none !important;
+}
+#facebookFlatNa ~ body.timelineLayout #pageFooter {
+	display:none !important;
+}
+#facebookFlatNa ~ body #visitorsblockflat::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(119, 119, 119, 0.3);
+}
+#facebookFlatNa ~ body #visitorsblockflat::-webkit-scrollbar-thumb {
+    background-color: #afafaf;
+    border-radius: 44px !important;
+}
+#facebookFlatNa ~ body #visitorsblockflat::-webkit-scrollbar {
+    width: 5px;
+}
+@media only screen and (min-width:1490px){
+	#facebookFlatNa ~ body.home ._1oxj {
+	
+		left: calc((100% - 770px) / 2) !important;
+		padding-top:45px;
+	}
+	#facebookFlatNa ~ body.timelineLayout ._1oxj {
+	
+	left: calc((100% - 40px) / 2) !important;
+		padding-top:45px;
+	}
+	#facebookFlatNa ~ body.pagesTimelineLayout ._1oxj {
+	
+	left: calc((100% - 540px) / 2) !important;
+		padding-top:45px;
+	}
+	
+}
+
+@media only screen and (max-width:1490px) {
+	#facebookFlatNa ~ body #visitorsblockflat {
+		left:210px !important;
+	}
+	
+	#facebookFlatNa ~ body.home #contentCol {
+    	border-left: 1px solid rgb(239, 239, 239) !important;
+    	margin-left:-17px !important;
+	}
+	#facebookFlatNa ~ body.home ._1oxj {
+	
+		left: calc((100% - 960px) / 2) !important;
+		padding-top:45px;
+	}
+	#facebookFlatNa ~ body.timelineLayout ._1oxj {
+	
+	left: 520px !important;
+		padding-top:45px;
+	}
+	#facebookFlatNa ~ body.pagesTimelineLayout ._1oxj {
+	
+	left: calc((100% - 340px) / 2) !important;
+		padding-top:45px;
+	}
+	#facebookFlatNa ~ ._5vb_ #globalContainer{
+		width:1000px !important;
+	}
+	#facebookFlatNa ~ body.home #contentCol {
+		width:700px !important;
+		
+	}
+	#facebookFlatNa ~ body #profile_left_ff {
+		left:-33px;
+		    margin: 10px 0px 0px 46px !important;
+	}
+#facebookFlatNa ~ body.home #leftCol::before, #facebookFlatNa ~ body._5uj5 #leftCol::before, #facebookFlatNa ~ .timelineLayout #leftCol::before {
+        width: 150px !important;
+    }
+#facebookFlatNa ~ body #profile_column_js {
+		left: 7px !important;
+	}
+#facebookFlatNa ~ body.timelineLayout #profile_column_js {
+		left: 12px !important;
+	}
+#facebookFlatNa ~ body._5uj5 #profile_column_js {
+		    margin: 0px 0px 0px 71px !important;
+	}
+#facebookFlatNa ~ body.timelineLayout #contentCol {
+		    position: absolute !important;
+		    
+        left: 22px !important;
+	}
+}
+@media only screen and (max-width:1280px){
+#facebookFlatNa ~ body.home ._1oxj {
+	
+		left: 180px !important;
+		padding-top:45px;
+	}
+}
+
+#facebookFlatNa ~ body.timelineLayout #contentCol {
+			z-index:2 !important;
+            margin: 0 0 0 138px !important;
+   }
+
+#facebookFlatNa ~ body ._6a i {
+	/*display:none;*/
+}
+#facebookFlatNa ~ body ._5v3q {
+	padding:10px 0 !important;
+}
+#facebookFlatNa ~ body ._5pr2 ._56p9:after {
+	border:none !important;
+}
+
+#facebookFlatNa ~ body ._4-u8 {
+	margin:5px !important;
+	border-bottom: 1px solid rgb(236, 236, 236) !important;
+    /*padding-bottom: 20px !important;*/
+    border-radius: 0 !important;
+
+}
+
+#facebookFlatNa ~ body #pagelet_composer ._4-u8 {
+	margin-bottom:0 !important;
+}
+#facebookFlatNa ~ body ._5ay5 ._4-u8 {
+	margin: 0 !important;
+}
+#facebookFlatNa ~ body #pagelet_composer ._3hvt > img {
+	border-radius:100%;
+}
+#facebookFlatNa ~ body .timelineUnitContainer {
+	margin:0 0 0 -10px !important;
+}
+#facebookFlatNa ~ body._5vb_.webkit ._dcs {
+	    box-shadow: none !important;
+}
+#facebookFlatNa ~ body ._5va1 {
+	border:none !important;
+}
+#facebookFlatNa ~ body ._5va1 {
+	border-bottom: 1px solid rgb(236, 236, 236) !important;
+}
+#facebookFlatNa ~ body .litestandClassicWelcomeBox.fbxWelcomeBox a, #facebookFlatNa ~ body .litestandClassicWelcomeBox.fbxWelcomeBoxSmall a {
+	color:white !important;
+}
+#facebookFlatNa ~ body.hasLeftCol #leftCol {
+	padding-left:0 !important;
+	z-index:99 !important;
+}
+#facebookFlatNa ~ body .openToggler .uiToggleFlyout, #facebookFlatNa ~ body .openToggler .uiToggleFlyout .openToggler .uiToggleFlyout {
+	/*display:none;*/
+}
+#facebookFlatNa ~ body #leftCol ._55y4 ._bui ._5afe .countValue {
+	    background: rgb(25, 185, 138) !important;
+    padding: 3px 6px !important;
+    font-size: 11px !important;
+    border-radius: 20px !important;
+    color:white !important;
+    text-align: center !important;
+}
+#facebookFlatNa ~ body .rfloat {
+	/*margin:0 10px 0 0 !important;*/
+}
+#facebookFlatNa ~ body ._5bsm ._mp3:after {
+	border:none !important;
+}
+#facebookFlatNa ~ body ._5t_y ._1dsp {
+	border:none !important;
+	background-color:white !important;
+}
+#facebookFlatNa ~ body ._4jy0, #facebookFlatNa ~ body ._59pe:focus, #facebookFlatNa ~ body ._59pe:hover {
+	/*background-image:none !important;*/
+}
+#facebookFlatNa ~ body._5p3y[dir="ltr"] a[role="button"] {
+	
+}
+#facebookFlatNa ~ body .FriendButton ._42ft {
+
+}
+#facebookFlatNa ~ body button._11b {
+	padding: 4px 24px !important;
+	background: #3F69A9 !important;
+}
+#facebookFlatNa ~ body.webkit ._55pe {
+	padding:5px 10px 4px !important;
+	    /*border: 1px solid rgb(220, 220, 220) !important;*/
+}
+#facebookFlatNa ~ body #u_jsonp_3_8 {
+	    border: 1px solid rgb(236, 236, 236) !important;
+    border-radius: 2px !important;
+}
+#facebookFlatNa ~ body ._5t_y ._1dsl {
+	border: none !important;
+}
+#facebookFlatNa ~ body ._5bsm ._mp3 img, #facebookFlatNa ~ body ._5bsm ._mp3 {
+	width:24px !important;
+	height:24px !important;
+}
+#facebookFlatNa ~ body #pagelet_composer ._mp3 {
+	margin:12px 0 0 12px !important;
+}
+#facebookFlatNa ~ body #testvrbgffts {
+position:fixed;top:0;left:0;width:100%;height:100%;background:url(https://41.media.tumblr.com/751c2355c691094aef1ce173fa22d667/tumblr_o1qbiiZpb51r10ja1o1_1280.png);background-size: cover !important;z-index:999;
+
+}
+#facebookFlatNa ~ body #testvroutterss {
+	position:fixed;
+	top:200px;
+	width:920px;
+	padding-bottom:30px;
+	margin:0 0 0 -460px;
+	left:50%;
+	background: rgba(0, 0, 0, 0.95);
+    box-shadow: 0 0 3px black;
+  
+}
+#facebookFlatNa ~ body #testvrbgffts h1 {
+	float:left;
+    text-shadow: 0 0 1px black;
+    color: white;
+
+    padding: 20px 0;
+       font-size: 40px;
+    top: 200px;
+	text-shadow:0 0 1px black;
+
+	width:100%;
+	text-align:center;
+}
+#facebookFlatNa ~ body #testbrbgimgs {
+padding:40px 0 0 0;
+width:900px;
+margin:80px auto;
+
+}
+#facebookFlatNa ~ body #testbrbgimgs > .testvrbgcl {
+	float:left;
+	width:259px;
+	height:167px;
+	margin:0 0 0 35px;
+	background:url(https://36.media.tumblr.com/d50fbf131ea05013f144bafe23d927aa/tumblr_o1qd3rWDTJ1r10ja1o1_400.png);
+
+}
+#facebookFlatNa ~ body #testbrbgimgs > .testvrbgcl:nth-child(1) {
+	background:url(https://40.media.tumblr.com/e94357b38435e57db79e77903e6acc6a/tumblr_o1rai2QTw61r10ja1o1_400.png);
+	height:200px;
+}
+#facebookFlatNa ~ body #testbrbgimgs > .testvrbgcl:nth-child(2) {
+	margin-top:15px;
+}
+#facebookFlatNa ~ body #testbrbgimgs > .testvrbgcl:nth-child(3) {
+	background:url(https://40.media.tumblr.com/3617fe4ef226d8e1d647b3de223052a2/tumblr_o1rapq0utf1r10ja1o1_400.png);
+	height:118px;
+	margin-top:30px;
+}
+
+#facebookFlatNa ~ body #pagelet_composer ._3hvt:after {
+	border:none !important;
+}
+#facebookFlatNa ~ body._5vb_ ._dcs .__c_:after {
+	border:none !important;
+}
+#facebookFlatNa ~ body._5vb_.webkit ._dcs {
+/*	margin: 0 0 0 -21px;
+    width: 666px;*/
+}
+#iframeffadd > iframe #facebook {
+   background:red !important;
+}
+ 
+#iframeffadd > iframe body ::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3) !important; 
+    border-radius: 10px !important;
+}
+ 
+#iframeffadd > iframe body ::-webkit-scrollbar-thumb {
+    border-radius: 10px !important; 
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5) !important; 
+}
+#facebookFlatNa ~ body._5p3y .fcg {
+	background:none !important;
+	color:#d3d3d3 !important;
+}
+#facebookFlatNa ~ body .sp_MKjjS-nv9eD.sx_be5014 {
+	    margin: -7px 5px 0 0;
+}
+#facebookFlatNa ~ body a._p {
+	border:none !important;
+}
+
+
+
+#facebookFlatNa ~ body ._1lo2 {
+	    border: 1px solid rgb(222, 222, 222) !important;
+	    border-radius:2px;
+}
+#facebookFlatNa ~ body.chrome .fixed_elem, #facebookFlatNa ~ body.chrome .fixed_always {
+	    border: none !important;
+    box-shadow: none !important;
+}
+#facebookFlatNa ~ body ._4f7n:after {
+	background-image:none !important;
+}
+#facebookFlatNa ~ body #rightCol {
+	display:none;
+}
+#facebookFlatNa ~ body.home #rightCol {
+	display:none;
+	position:fixed;
+	top:50px;
+	margin-left:657px;
+	width:230px !important;
+}
+
+#facebookFlatNa ~ body .dropdownextcl:hover .droxdownabsext {
+	display:block !important;
+	z-index:32223 !important;
+	position:relative;
+}
+
+#facebookFlatNa ~ body #profile_column_js .menuone:nth-child(13) .droxdownabsext {
+	margin: -170px 0 0 160px !important;
+}
+#facebookFlatNa ~ body .droxdownabsext {
+	display:none !important;
+	position:absolute !important;
+	width:150px !important;
+	    margin: 0 0 0 50px !important;
+    background: rgba(0, 0, 0, 0.8);
+    box-shadow:0 0 3px black;
+    border-radius:2px !important;
+    
+}
+
+#facebookFlatNa ~ body ._4f-9 {
+	margin:0 0 0 5px !important;
+}
+#facebookFlatNa ~ body .menuone:nth-child(12) .droxdownabsext a:nth-child(1) {
+	padding-top:12px !important;
+}
+#facebookFlatNa ~ body .menuone:nth-child(12) .droxdownabsext a:last-child {
+	padding-bottom:12px !important;
+}
+#facebookFlatNa ~ body .menuone:nth-child(12) .droxdownabsext {
+	margin:-195px 0 0 160px !important;
+	}
+#facebookFlatNa ~ body .droxdownabsext a {
+	text-decoration:none;
+	color:white!important;
+	float:left !important;
+	width:100% !important;
+	font-size:13px !important;
+	text-align:center !important;
+	padding:14px 0 !important;
+	margin:0 !important;
+}
+#facebookFlatNa ~ body .menuone:nth-child(2) .droxdownabsext a {
+	padding:12px 0 !important;
+}
+#facebookFlatNa ~ body .droxdownabsext a:hover {
+	cursor:pointer;
+	opacity:0.7;
+}
+#facebookFlatNa ~ body ._5t_y ._2wr, #facebookFlatNa ~ body._5p3y ._5t_y ._2wr {
+	display:none;
+}
+#facebookFlatNa ~ body ._5cwb ._6l- {
+	width:158px !important;
+}
+/*#facebookFlatNa ~ body ._6l-::before {
+	content: "";
+	display:block;
+	width:40px;
+	height:40px;
+	background:yellow;
+	z-index:22;
+	position:absolute;
+}*/
+
+#facebookFlatNa ~ body .ff_fast_views {
+	position:absolute;
+	z-index:333;
+	    padding: 20px 40px 20px;
+    width: auto;
+    height: auto;
+    font-size: 14px;
+    background: #ff3866;
+    font-family: tahoma;
+    font-weight: bold;
+  /*  box-shadow: 0 0 6px #2d2d2d;*/
+	border-radius:2px;
+	color:white;
+	font-family: tahoma !important;
+	bottom:10px;
+	right:10px;
+	-webkit-transition:background .2s;
+}
+#facebookFlatNa ~ body #ff_fast_view {
+	position:fixed;
+	width:480px;
+	height:100%;
+	right:0;
+	top:0;
+	background:white;
+	    z-index: 999;
+}
+#facebookFlatNa ~ body .ff_fast_views:hover {
+	cursor:pointer;
+	background:#4e42f9;
+}
+#facebookFlatNa ~ body ._ksg {
+
+    border: none !important;
+    border-right: 1px solid rgb(234, 234, 234) !important;
+}
+#facebookFlatNa ~ body._4rw ._k- {
+	    padding-top:5px !important;
+	    padding-bottom: 5px !important;
+}
+#facebookFlatNa ~ body #event_header {
+	width:655px !important;
+}
+#facebookFlatNa ~ body #event_header ._42ft {
+	border:1px solid #d3d3d3 !important;
+}
+#facebookFlatNa ~ body ._3-99 {
+    margin: -6px 0 0 0 !important;
+}
+#facebookFlatNa ~ body.timelineLayout #leftCol {
+ 	display:block !important;
+ 	z-index:10 !important;
+ }
+#facebookFlatNa ~ body.timelineLayout #pagelet_pymk_timeline {
+ 	display:none !important;
+ }
+#facebookFlatNa ~ body .menuoneava {
+ 	float:left;
+ 	transition:all .2s;
+ }
+#facebookFlatNa ~ body .feed_im_ff, #facebookFlatNa ~ body .feed_im_ff2, #facebookFlatNa ~ body #profvis, #facebookFlatNa ~ body #annoying, #facebookFlatNa ~ body #oldmenu, #facebookFlatNa ~ body #aboutffm, #facebookFlatNa ~ body #oldm, #facebookFlatNa ~ body #ff_live, #facebookFlatNa ~ body #ff_youtube {
+ 	width:50px;
+ 	height:50px;
+ 	float:left;
+ 	margin-left:2px;
+/* 	margin-top:5px;*/
+ 	transition:all .2s;
+ }
+#facebookFlatNa ~ body #fromdev4, #facebookFlatNa ~ body #profvis, #facebookFlatNa ~ body #oldm, #facebookFlatNa ~ body #feed_im_ff, #facebookFlatNa ~ body #ff_live, #facebookFlatNa ~ body #ff_youtube, #facebookFlatNa ~ body #aboutffm {
+ 	margin-top:2px !important;
+}
+ #facebookFlatNa ~ body #aboutffm i {
+ 	margin-top:-1px;
+ 	-webkit-transition:opacity .2s;
+ }
+#facebookFlatNa ~ body #aboutffm:hover, #facebookFlatNa ~ body #fromdev4:hover {
+	cursor:pointer;
+/*	opacity:0.7;*/
+} 
+#facebookFlatNa ~ body #fromdev4 i {
+-webkit-transition:opacity .2s;
+}
+#facebookFlatNa ~ body #aboutffm a {
+	color:white;
+}
+#facebookFlatNa ~ body #aboutffm > i:hover, #facebookFlatNa ~ body #fromdev4 > i:hover {
+	opacity:0.8;
+}
+#facebookFlatNa ~ body #aboutffm:hover > dl, #facebookFlatNa ~ body #fromdev4 > i:hover ~ dl, #facebookFlatNa ~ body #profvis > i:hover ~ dl, #facebookFlatNa ~ body #ff_live > i:hover ~ dl, #facebookFlatNa ~ body #ff_youtube > i:hover ~ dl {
+  	display:block;
+  	cursor:pointer;
+}
+  #facebookFlatNa ~ body #aboutffm dl, #facebookFlatNa ~ body #fromdev4 > dl, #facebookFlatNa ~ body #profvis > dl, #facebookFlatNa ~ body #ff_live > dl, #facebookFlatNa ~ body #ff_youtube > dl {
+ 	display:none;
+
+    width: 120px;
+    border-radius: 1px;
+    float: left;
+    margin: -40px 0 0 50px;
+    padding: 8px 12px 7px;
+    font-size: 13px;
+    color: white;
+    background: rgba(43, 43, 43, 0.9);
+ }
+#facebookFlatNa ~ body #aboutffm dl {
+	width:300px;
+
+}
+  #facebookFlatNa ~ body #fromdev4 > dl {
+  	width:40px;
+  	padding:8px 16px 7px;
+  }
+ #facebookFlatNa ~ body #profvis > dl {
+ 	width:90px;
+ }
+ #facebookFlatNa ~ body #ff_live {
+  	padding:0 !important;
+ }
+  #facebookFlatNa ~ body #ff_youtube {
+  	padding:0 !important;
+ }
+ #facebookFlatNa ~ body #ff_live > dl {
+ 	width:90px;
+ }
+  #facebookFlatNa ~ body #ff_youtube > dl {
+ 	width:80px;
+ }
+ #facebookFlatNa ~ body .feed_im_ff2 {
+ 	margin-top:6px;
+ }
+ #facebookFlatNa ~ body #annoying {
+ 	margin-top:-2px;
+ }
+ #facebookFlatNa ~ body #profvis {
+ 	    margin-top: 0px;
+    margin-left: 2px
+ }
+ #facebookFlatNa ~ body #oldmenu {
+ 	margin-top:-2px;
+ }
+  #facebookFlatNa ~ body #pagelet_composer ._2dck, #facebookFlatNa ~ body #pagelet_composer ._ei_ {
+  	border-top:none !important;
+ }
+#facebookFlatNa ~ body .feed_im_ff2:hover, #facebookFlatNa ~ body #profvis:hover, #facebookFlatNa ~ body #annoying:hover, #facebookFlatNa ~ body #oldmenu:hover, #facebookFlatNa ~ body #ff_live:hover, #facebookFlatNa ~ body #ff_youtube:hover {
+ 	opacity:0.8 !important;
+ 	cursor:pointer;
+ }
+ #facebookFlatNa ~ body #oldm > dl {
+
+ 	    display: none;
+    width: 120px;
+    float: left;
+    font-size: 13px;
+    color: white;
+    border-radius: 2px;
+    margin: -40px 0px 0px 50px;
+    padding: 8px 12px 7px;
+    background: rgba(43, 43, 43, 0.9);
+ }
+#facebookFlatNa ~ body #oldm > dl > a {
+	color:white;
+	 font-size: 13px;
+	 float:left;
+	 clear:both;
+	 text-decoration:underline;
+}
+#facebookFlatNa ~ body #oldm {
+ 	margin-top:0;
+
+}
+#facebookFlatNa ~ body #oldm > fieldset {
+	    width: 400px;
+    height: 500px;
+    position: fixed;
+    z-index: 9999;
+    top: 100px;
+    box-shadow: black 0px 0px 1px;
+    left: calc((100% - 710px) / 2);
+    overflow-y: scroll;
+    overflow-x: hidden;
+    padding: 20px 0px 0px 10px;
+    display: block;
+    background: rgba(0, 0, 0, 0.901961);
+}
+#facebookFlatNa ~ body #oldm > i {
+	-webkit-transition:opacity .2s;
+}
+#facebookFlatNa ~ body #oldm > i:hover {
+	cursor:pointer;
+	opacity:0.8;
+}
+#facebookFlatNa ~ body #oldm:hover > dl {
+	display:block;
+}
+#facebookFlatNa ~ body .feed_im_ff > i, #facebookFlatNa ~ body .feed_im_ff2 > i, #facebookFlatNa ~ body #profvis > i, #facebookFlatNa ~ body #annoying > i, #facebookFlatNa ~ body #oldmenu > i, #facebookFlatNa ~ body #aboutffm > i, #facebookFlatNa ~ body #oldm > i, #facebookFlatNa ~ body #ff_live > i, #facebookFlatNa ~ body #ff_youtube > i {
+ 	width:40px !important;
+ 	height:40px !important;
+ 	margin:5px !important;
+ 	float:left;
+ 	background:url('chrome-extension://__MSG_@@extension_id__/images/feedim.png') no-repeat !important;
+ }
+
+#facebookFlatNa ~ body .feed_im_ff2 > i {
+	background:url('chrome-extension://__MSG_@@extension_id__/images/feedyout.png') no-repeat !important;
+	margin-top:8px !important;
+}
+#facebookFlatNa ~ body #profvis > i {
+	background:url('chrome-extension://__MSG_@@extension_id__/images/glasses.png') no-repeat !important;
+
+}
+#facebookFlatNa ~ body #ff_live > i {
+	background:url('chrome-extension://__MSG_@@extension_id__/images/feedicons.png') no-repeat !important;
+	    background-position: -406px 0px !important;
+}
+#facebookFlatNa ~ body #ff_youtube > i {
+	background:url('chrome-extension://__MSG_@@extension_id__/images/feedicons.png') no-repeat !important;
+	    background-position: -406px 0px !important;
+}
+#facebookFlatNa ~ body #annoying > i {
+	background:url('chrome-extension://__MSG_@@extension_id__/images/annoying.png') no-repeat !important;
+}
+#facebookFlatNa ~ body #oldmenu > i {
+	background:url('chrome-extension://__MSG_@@extension_id__/images/oldmenu.png') no-repeat !important;
+}
+#facebookFlatNa ~ body #aboutffm > i {
+	background:url('chrome-extension://__MSG_@@extension_id__/images/about.png') no-repeat !important;
+}
+#facebookFlatNa ~ body #oldm > i {
+	background:url('chrome-extension://__MSG_@@extension_id__/images/oldm.png') no-repeat !important;
+}
+#facebookFlatNa ~ body .menuoneava img {
+ 	width:40px !important;
+ 	height:40px !important;
+
+ 	transition:opacity 0.4s;
+ 	border-radius:50px !important;
+ 	float:left !important;
+
+ }
+#facebookFlatNa ~ body .sx_032e90 {
+ 	bottom:5px !important;
+ }
+#facebookFlatNa ~ body .menuoneava p {
+  	float:left;
+  	font-size:12px;
+  	margin:12px 0 0 13px;
+  }
+#voteextask {
+	position:fixed;
+	top:50px;
+	left:20px;
+	background:rgba(0, 0, 0, 0.8);
+	text-align:center;
+	border-radius:1px;
+	font-size:13px;
+	text-decoration:underline;
+	display:none;
+	color:white;
+	padding:11px 20px 10px;
+	z-index:9999;
+}
+#facebookFlatNa ~ body.timelineLayout #contentArea {
+ 	background:white !important;
+ 	padding-left:0 !important;
+ }
+#facebookFlatNa ~ .timelineLayout {
+ 	background:white !important;
+ }
+#facebookFlatNa ~ body._4lh .fbTimelineTimePeriod {
+ 	background-color:white !important;
+ }
+#facebookFlatNa ~ body._5uj5 #globalContainer, #facebookFlatNa ~ body.timelineLayout #globalContainer {
+ 	width:1024px !important;
+ }
+#facebookFlatNa ~ body.timelineLayout ._5tf6, #facebookFlatNa ~ body.timelineLayout ._5tf6 ._5cah {
+	width:685px !important;
+}
+#facebookFlatNa ~ body.timelineLayout a#activityLogButton {
+    display: none !important;
+}
+#facebookFlatNa ~ body.timelineLayout ._5pr2.fbChatSidebar .fbChatOrderedList {
+ 	padding-top:10px !important;
+ }
+#facebookFlatNa ~ body.timelineLayout .fbTimelineCapsule .fbTimelineUnit .topBorder, #facebookFlatNa ~ body.timelineLayout .fbTimelineCapsule .fbTimelineUnit .bottomBorder {
+	background-image:none !important;
+}
+
+#facebookFlatNa ~ body.timelineLayout ._1zw4 {
+	border:none !important;
+}
+#facebookFlatNa ~ body.timelineLayout .sp_Mc_3eRL_UwF.sx_e88b33 {
+	bottom:5px !important;
+	    margin: 0 10px 0 0 !important;
+}
+#facebookFlatNa ~ body.timelineLayout ._3rbg, #facebookFlatNa ~ body.timelineLayout ._4lh .timelineReportContainer{
+	border:none !important;
+}
+#facebookFlatNa ~ body.timelineLayout ._70l {
+	background:none !important;
+	border: none !important;
+}
+#facebookFlatNa ~ body.timelineLayout ._3rbg {
+	width:313px !important;
+	margin-left:10px !important;
+}
+#facebookFlatNa ~ body #u_jsonp_3_10 {
+	display:block !important;
+	background-image: auto !important;
+}
+#facebookFlatNa ~ body .uiPopover ._55pe {
+	padding: 0 3px 0 1px !important;
+}
+#facebookFlatNa ~ body ._1lo2 ._42ft {
+	padding: 5px 10px 4px !important;
+    background: #F7F7F7 !important;
+}
+#facebookFlatNa ~ body ._6a ._3-99 {
+	margin: 0 0 0 5px !important;
+}
+#facebookFlatNa ~ body .lock {
+	margin: 0 0 0 5px;
+}
+#facebookFlatNa ~ body ._nws {
+	left: 10px !important;
+}
+#facebookFlatNa ~ body._4lh .timelineReportContainer {
+	border:none !important;
+}
+#facebookFlatNa ~ body.timelineLayout #fbTimelineHeadline .profilePic {
+ border:none !important;
+ border-radius: 100px !important;
+}
+#facebookFlatNa ~ body.timelineLayout #fbTimelineHeadline .profilePicThumb {
+	background: none !important;
+}
+#facebookFlatNa ~ body .wmMasterView {
+	    box-shadow: -1px 0 0 #ECECEC !important;
+}
+#facebookFlatNa ~ body ._4jy0 .img {
+	/*display:none !important;*/
+}
+#facebookFlatNa ~ body.timelineLayout ._30v- {
+    background-color: rgba(0, 0, 0, 0.5) !important;
+    border: none !important; 
+}
+#facebookFlatNa ~ body #right_ff_games {
+	float:left;
+	margin:10px 0 0 26px;
+}
+#facebookFlatNa ~ body .right_games_one_item img {
+	position:absolute;
+	border-radius:40px;
+	transition:opacity .2s
+}
+#facebookFlatNa ~ body .right_games_one_item img:hover {
+	cursor:pointer;
+	opacity:0.76;
+}
+#facebookFlatNa ~ body #ff_youtube_all {
+	position:fixed;
+	background: -webkit-linear-gradient(45deg, rgb(59, 101, 177) 0%, rgb(102, 71, 162) 100%);
+
+	background: linear-gradient(45deg, rgb(59, 101, 177) 0%, rgb(102, 71, 162) 100%);
+	width:100%;
+	height:100%;
+	opacity:0.8;
+	top:0;
+	left:0;
+	    z-index: 999999;
+}
+#facebookFlatNa ~ body #ff_youtube_player {
+	position:fixed;
+	top:100px;
+	left:50px;
+	border-radius:15px;
+	z-index:99999999;
+	width: calc(100% - 100px) !important;
+	height: calc(100% - 150px) !important;
+	background:#1f1f1f;
+}
+#facebookFlatNa ~ body .ff_yt_collection {
+	float:left;
+	clear:both;
+	padding:9px 0 9px 15px;
+	
+	width:100%;
+
+}
+#facebookFlatNa ~ body #ff_youtube_cats {
+	position:absolute;
+	width: 215px;
+    margin: 50px 0 0 20px;
+    height:430px;
+    overflow:hidden;
+    overflow-y:scroll;
+   	z-index:2;
+   	display:none;
+   	border-bottom-left-radius:10px;
+   	border-bottom-right-radius:10px;
+    /*background: #313131;*/
+}
+#facebookFlatNa ~ body #ff_yt_maincat {
+	position:absolute;
+	z-index:4;
+	width:250px;
+	height:40px;
+	padding:10px 0 0 0;
+	border-top-left-radius: 15px;
+
+}
+#facebookFlatNa ~ body #ff_yt_maincat > b {
+	position:absolute;
+	width:20px;
+	height:20px;
+	background-image: url('chrome-extension://__MSG_@@extension_id__/images/ff_youtube_cats.png') !important;
+	background-position: 0px -413px;
+    margin: 10px 0 0 12px;
+    left:0;
+    height: 15px;
+}
+#facebookFlatNa ~ body #ff_yt_maincat:hover {
+	    background: #484848;
+	    cursor:pointer;
+}
+#facebookFlatNa ~ body #ff_yt_maincat > span {
+	background-image: url('chrome-extension://__MSG_@@extension_id__/images/ff_youtube_cats.png') !important;
+	float:left;
+	width:30px;
+	height:30px;
+	margin-left:60px !important;
+}
+#facebookFlatNa ~ body #ff_yt_maincat > p {
+		color:white;
+	font-size:13px;
+	float:left;
+	padding:8px 0 0 12px;
+
+	margin:0;
+}
+#facebookFlatNa ~ body .ff_youtube_cat_one:hover {
+	cursor:pointer;
+	background:rgb(88, 88, 88);
+}
+#facebookFlatNa ~ body #ff_youtube_cats::-webkit-scrollbar-thumb {
+    background-color: #616161 !important;
+    border-radius: 44px !important;
+}
+#facebookFlatNa ~ body #ff_youtube_cats::-webkit-scrollbar {
+    width: 5px;
+}
+#facebookFlatNa ~ body .ff_youtube_cat_one > span {
+	background-image: url('chrome-extension://__MSG_@@extension_id__/images/ff_youtube_cats.png') !important;
+	float:left;
+	width:30px;
+	margin-left:10px !important;
+}
+#facebookFlatNa ~ body .ff_youtube_cat_one:nth-child(1) > span {
+	background-position:0 0;
+	width:30px;
+	height:30px;
+}
+#facebookFlatNa ~ body .ff_youtube_cat_one:nth-child(2) > span {
+	background-position: 0px -30px;
+    height: 28px;
+    margin: 3px 0 0 0;
+}
+#facebookFlatNa ~ body .ff_youtube_cat_one:nth-child(4) > span {
+	background-position: 0px -57px;
+    height: 27px;
+    margin: 3px 0 0 0;
+}
+#facebookFlatNa ~ body .ff_youtube_cat_one:nth-child(5) > span {
+	background-position: 0px -84px;
+    height: 28px;
+    margin: 3px 0 0 0;
+}
+#facebookFlatNa ~ body .ff_youtube_cat_one:nth-child(6) > span {
+	background-position: 0px -110px;
+    height: 17px;
+    margin: 7px 0 0 0;
+}
+#facebookFlatNa ~ body .ff_youtube_cat_one:nth-child(7) > span {
+	background-position: 0px -127px;
+    height: 24px;
+    margin: 4px 0 0 0;
+}
+#facebookFlatNa ~ body .ff_youtube_cat_one:nth-child(3) > span {
+	background-position: 0px -152px;
+    height: 24px;
+    margin: 2px 0 0 0;
+}
+#facebookFlatNa ~ body .ff_youtube_cat_one:nth-child(8) > span {
+	background-position: 0px -175px;
+    height: 33px;
+    margin: 2px 0 0 0;
+}
+#facebookFlatNa ~ body .ff_youtube_cat_one:nth-child(9) > span {
+	background-position: 0px -205px;
+    height: 30px;
+    margin: 0px 0 0 0;
+}
+#facebookFlatNa ~ body .ff_youtube_cat_one:nth-child(10) > span {
+	background-position: 0px -232px;
+    height: 30px;
+    margin: 0px 0 0 0;
+}
+#facebookFlatNa ~ body .ff_youtube_cat_one:nth-child(11) > span {
+	background-position: 0px -260px;
+    height: 30px;
+    margin: 0px 0 0 0;
+}
+#facebookFlatNa ~ body .ff_youtube_cat_one:nth-child(12) > span {
+	background-position: 0px -289px;
+    height: 30px;
+    margin: 2px 0 0 0;
+}
+#facebookFlatNa ~ body .ff_youtube_cat_one:nth-child(13) > span {
+	background-position: 0px -316px;
+    height: 28px;
+    margin: 2px 0 0 0;
+}
+#facebookFlatNa ~ body .ff_youtube_cat_one:nth-child(14) > span {
+	background-position: 0px -343px;
+    height: 21px;
+    margin: 6px 0 0 0;
+}
+#facebookFlatNa ~ body .ff_youtube_cat_one:nth-child(15) > span {
+	background-position: 0px -364px;
+    height: 21px;
+    margin: 6px 0 0 0;
+}
+#facebookFlatNa ~ body .ff_youtube_cat_one:nth-child(16) > span {
+	background-position: 0px -386px;
+    height: 26px;
+    margin: 5px 0 0 0;
+}
+#facebookFlatNa ~ body .ff_youtube_cat_one {
+
+	background:rgb(66, 66, 66);
+	float:left;
+	width:100%;
+	clear:both;
+	padding:8px 0;
+}
+#facebookFlatNa ~ body .ff_youtube_cat_one:nth-child(1) {
+	/*display:block;*/
+}
+#facebookFlatNa ~ body .ff_youtube_cat_one > p {
+	color:white;
+	font-size:13px;
+	float:left;
+	padding:8px 0 0 12px;
+
+	margin:0;
+}
+#facebookFlatNa ~ body .ff_yt_collection:nth-child(1) {
+background:#333333;
+
+}
+#facebookFlatNa ~ body .ff_yt_collection > img {
+ 	float:left;
+ 	border-radius:30px;
+}
+#facebookFlatNa ~ body .ff_yt_collection > p {
+ 	float:left;
+ 	color:white;
+ 	    margin: 6px 0 0 10px;
+}
+#facebookFlatNa ~ body #ff_youtube_player_left {
+	float:left;
+	width:250px;
+	height: calc(100% - 50px) !important;
+	overflow:hidden;
+	position:relative;
+	overflow-y:scroll;
+	margin:50px 0 0 0;
+	z-index:1;
+	
+}
+#facebookFlatNa ~ body #ff_yt_all_close {
+	width:40px;
+	height:40px;
+
+	margin:25px 0 0 -20px;
+	left:50%;
+	background-image: url('chrome-extension://__MSG_@@extension_id__/images/ff_youtube_close.png') !important;
+
+	    z-index: 23343434;
+    position: fixed;
+    top: 10px;
+}
+#facebookFlatNa ~ body #ff_yt_all_close:hover {
+	cursor:pointer;
+	opacity:0.7;
+}
+#facebookFlatNa ~ body .ff_yt_collection:hover {
+	cursor:pointer;
+	background:#333333 !important;
+}
+#facebookFlatNa ~ body #ff_youtube_player_left::-webkit-scrollbar-thumb {
+    background-color: #616161 !important;
+    border-radius: 44px !important;
+}
+#facebookFlatNa ~ body #ff_youtube_player_left::-webkit-scrollbar {
+    width: 8px;
+}
+#facebookFlatNa ~ body #ff_youtube_player_left::-webkit-scrollbar-track {
+    box-shadow: rgb(31, 31, 31) 0px 0px 6px inset !important;
+}
+#facebookFlatNa ~ body #ff_youtube_player_right {
+	float:left;
+
+}
+#facebookFlatNa ~ body #ff_youtube_player_right > iframe {
+	border:none;
+	border-top-right-radius:15px;
+	border-bottom-right-radius:15px;
+}
+#facebookFlatNa ~ body .right_games_one_item img:hover ~ p {
+	display:block;
+	
+}
+#facebookFlatNa ~ body .right_games_one_item {
+	float:left;
+	margin:5px;
+	width:50px;
+	height:50px;
+}
+#facebookFlatNa ~ body .right_games_one_item p {
+	display:none;
+	position:absolute;
+	max-width:200px;
+	white-space: nowrap;
+	overflow:hidden;
+    margin: -28px 0 0 -10px;
+    color: white;
+    border-radius: 1px;
+    z-index: 2;
+    background: #3a3a3a;
+    padding: 5px 8px 4px;
+}
+#facebookFlatNa ~ body .uiStreamSponsoredLink {
+
+}
+#facebookFlatNa ~ body.timelineLayout ._6m2 {
+	box-shadow:none !important;
+	min-width:465px !important;
+	width:465px !important;
+}
+#facebookFlatNa ~ body.timelineLayout ._6dh ._3s2r {
+	    padding: 0 !important;
+}
+#facebookFlatNa ~ body.timelineLayout ._6dh ._6vh {
+	display:none !important;
+}
+#facebookFlatNa ~ body ul {
+	list-style-type: none !important;
+}
+#facebookFlatNa ~ body.timelineLayout ._5cly ._46-h {
+	width: 320px !important;
+}
+#facebookFlatNa ~ body.timelineLayout ._g3h {
+	border:none !important;
+	background:none !important;
+}
+#facebookFlatNa ~ body.timelineLayout ._5v3q ._5ptz {
+	    width: 130px !important
+}
+#facebookFlatNa ~ body.timelineLayout ._5pcp > span::after { 
+	display:none !important;
+	content: "" !important;
+	content: none !important;
+	content: "234" !important;
+}
+#facebookFlatNa ~ body._5uj5 #contentCol {
+	margin:0 0 0 172px !important;
+}
+#facebookFlatNa ~ body #message_count {
+	    margin: 10px 10px 0 0 !important;
+    text-align: center !important;
+    padding: 3px 0 0 0 !important;
+    color: rgb(255, 255, 255) !important;
+    float:right !important;
+    background: rgb(60, 193, 132) !important;
+    height: 18px !important;
+    width: 22px !important;
+    border-radius:30px !important;
+}
+@media (max-width:1345px) {
+#facebookFlatNa ~ body.home #contentCol {
+/*	    left: 150px !important;*/
+/*    position: absolute !important;*/
+    margin-left: 150px !important;
+}
+#facebookFlatNa ~ body._5uj5 #contentCol {
+	 /*   left: 150px !important;*/
+/*    position: absolute !important;*/
+    margin-left: 150px !important;
+}
+#facebookFlatNa ~ ._5vb_ #globalContainer {
+	width: calc(100% - 11px) !important;
+}
+}
+@media only screen and (max-width:1440px) {
+	#facebookFlatNa ~ body.timelineLayout #mainContainer {
+	/*	margin-left:-100px;*/
+	}
+}
+#facebookFlatNa ~ body.timelineLayout .fbTimelineCapsule .timelineUnitContainer {
+	border-left: none !important;
+    border-right: none !important;
+/*    border-bottom: 1px solid #EAEAEA !important;*/
+}
+#facebookFlatNa ~ body.timelineLayout .fbTimelineCapsule .fbTimelineUnit[data-side="l"] .topBorder {
+	background-image:none !important;
+	border-top: 1px solid rgb(234, 234, 234) !important;
+}
+#facebookFlatNa ~ body.timelineLayout .fbTimelineCapsule .fbTimelineUnit[data-side="l"] .bottomBorder {
+	background-image:none !important;
+	border-bottom: 1px solid rgb(234, 234, 234) !important;
+}
+#facebookFlatNa ~ body.timelineLayout ._36bx._143o {
+
+    margin: 0 !important;
+    padding: 0 !important;
+}
+#facebookFlatNa ~ body a._5pcq {
+	margin:0 0 0 0;
+	}
+#facebookFlatNa ~ body.timelineLayout ._6dh ._1dsp {
+	background-color:white !important;
+	border:none !important;
+}
+#facebookFlatNa ~ body.timelineLayout ._596n {
+	background-color:white !important;
+	border: 1px solid rgb(234, 234, 234) !important;
+}
+#facebookFlatNa ~ body.timelineLayout ._6-6 {
+	font-weight:normal !important;
+}
+
+#facebookFlatNa ~ body.timelineLayout ._4-u2 .userContentWrapper ._6a ._55pe > i {
+/*	background-position: -48px -24px !important;*/
+/*     background-image: url('chrome-extension://__MSG_@@extension_id__/images/notifmenu.png') !important;
+    background-position: -34px -386px !important;
+    transform: scale(0.8) !important;*/
+}
+#facebookFlatNa ~ body #touparrow {
+	background-image: url('chrome-extension://__MSG_@@extension_id__/images/arrowup.png') !important;
+}
+#facebookFlatNa ~ body.timelineLayout ._4-u2 .userContentWrapper  ._6a i {
+	/*display:none !important;*/
+   /* margin: 0 0 0 10px !important;*/
+/*    padding:2px 0 0 8px !important;
+    height:10px !important;*/
+        /*background-position: -13px -64px !important;*/
+}
+
+#facebookFlatNa ~ body.timelineLayout ._3cz {
+	background:white !important;
+	border-bottom:none !important;
+}
+#facebookFlatNa ~ body._5uj5 ._kv {
+    background-color: rgb(89, 113, 156) !important;
+    border:none !important;
+}
+#facebookFlatNa ~ body._5uj5 #contentArea {
+	padding-left:0 !important;
+}
+#facebookFlatNa ~ body._5uj5 ._51xa ._4jy0 {
+	    padding: 6px 15px 4px !important;
+    border: 1px solid rgb(228, 228, 228) !important;
+}
+#facebookFlatNa ~ body._5uj5 ._r7 {
+	    margin: 4px 0 0 0 !important;
+    font-weight: normal !important;
+}
+#facebookFlatNa ~ body._5uj5 ._2nd {
+	padding:14px 0 0 0 !important;
+}
+#facebookFlatNa ~ body._5uj5 ._r7 a {
+    color: rgb(99, 99, 99) !important;
+}
+#facebookFlatNa ~ body._5uj5 .uiList>li:first-child {
+    padding: 5px 11px 4px 10px !important;
+}
+#facebookFlatNa ~ body._5uj5 ._281 ._282 {
+	padding:4px 0 0 0 !important;
+}
+#facebookFlatNa ~ body._5uj5 ._283 {
+ 	margin:3px 0 0 10px !important;
+}
+#facebookFlatNa ~ body._5uj5 ._5f0v {
+	padding: 3px 10px 2px 10px;
+}
+@media  only screen and (min-device-pixel-ratio: 2), 
+        only screen and (min-resolution: 192dpi) {
+
+    	#facebookFlatNa ~ body ._4xi2.east a.jewelButton {
+	  
+	        	background-position: 0px -892px !important;
+    background-size: auto !important;
+}
+#facebookFlatNa ~ body ._3nzl a.jewelButton {
+	   
+	        background-position: 0px -519px !important;
+	        background-size: auto !important;
+	        top:9px !important;
+}
+#facebookFlatNa ~ body ._1z4y a.jewelButton {
+	   
+	        background-position: 0px -318px !important;
+	        background-size: auto !important;
+	   
+}
+#facebookFlatNa ~ body ._5cop ._59fb {
+	    
+	    background-position: -31px -401px !important;
+	        background-size: auto !important;
+}
+#facebookFlatNa ~ body ._50__ {
+	      background-size: auto !important;
+	    background-position: -143px -118px !important;
+}
+}
+#facebookFlatNa ~ body #rightcollistff {
+		position:fixed;
+		top:50px;
+		
+	}
+#facebookFlatNa ~ body #rightcollistff > .rightcollistoneff, #facebookFlatNa ~ body #rightcollistff > .rightcollistoneff2 {
+	margin:10px 0 0 15px;
+}
+#facebookFlatNa ~ body .rightcollistoneff2 {
+	margin:30px 0 0 0px !important;
+}
+#facebookFlatNa ~ body #rightcollistff > .rightcollistoneff > p, #facebookFlatNa ~ body #rightcollistff > .rightcollistoneff2 > p {
+	margin: 12px 0 0 0px;
+}
+
+#facebookFlatNa ~ body #rightcolcatsff {
+		    display: none;
+    width: 300px;
+    border-radius: 1px;
+        height: 270px;
+  	position:absolute;
+    margin: 60px 0 0 -20px;
+    z-index:2;
+    padding: 10px 0 0 0;
+    border-radius: 2px;
+  
+        background: rgb(41, 41, 41);
+	}
+	#facebookFlatNa ~ body .rightcollistoneff, #facebookFlatNa ~ body .rightcollistoneff2 {
+		float:left;
+		border:none;
+		box-shadow:none;
+		width:170px;
+		-webkit-transition:opacity .2s;
+		
+		/*margin: 10px 0 0 15px;*/
+	}
+#facebookFlatNa ~ body .rightcollistoneff2 {
+	width:231px;
+	float:left;
+	margin: 20px 0px 0px 0;
+	transition:opacity .2s;
+}
+#facebookFlatNa ~ body .rightcollistoneff2:hover {
+	opacity:0.76;
+}
+	#facebookFlatNa ~ body #rightcolcatsff > .rightcollistoneff:hover {
+		opacity:0.45;
+		cursor:pointer;
+	}
+	#facebookFlatNa ~ body #rightcolcatsff > .rightcollistoneff {
+		width:50%;
+		
+		white-space: nowrap;
+		height:50px;
+
+	}
+	#facebookFlatNa ~ body #rightcolcatsff > .rightcollistoneff > p {
+		color:white;
+	}
+#facebookFlatNa ~ body .rightcollistoneff2 > span {
+	    width: 35px;
+    height: 30px;
+    float: left;
+    margin:0 5px 0 0;
+	    background: url("chrome-extension://__MSG_@@extension_id__/images/feedicons.png") 0px 0px;
+}
+	#facebookFlatNa ~ body #rightcolcatsff > div:nth-child(1) {
+		display:block;
+	}
+	#facebookFlatNa ~ body #rightcolcatsff > div:nth-child(1) > span, #facebookFlatNa ~ body #rightcollistff > div:nth-child(1) > span {
+		background: url('chrome-extension://__MSG_@@extension_id__/images/feedicons.png');
+		background-position: 0px 0px;
+		float:left;
+		width:40px;
+		height:40px;
+		-webkit-transform: scale(0.75);
+		border:none;
+		box-shadow:none;
+	}
+	#rightcolcatsff > div > span {
+		background: url('chrome-extension://__MSG_@@extension_id__/images/feedicons.png');
+		width: 40px;
+    	height: 40px;
+    	transform: scale(0.75);
+		float:left;
+
+	}
+	#rightcolcatsff > div:nth-child(1) > span {
+		background-position: 0px 0px !important;
+		height:34px;
+		margin:6px 0 0 30px;
+	}
+	#rightcolcatsff > div:nth-child(2) > span {
+		background-position: -40px 0px !important;
+		height:34px;
+		margin:6px 0 0 2px;
+	}
+	#rightcolcatsff > div:nth-child(3) > span {
+		background-position: -79px 0px !important;
+		height:34px;
+		    margin: 6px 0px 0px 27px;
+	}
+	#rightcolcatsff > div:nth-child(4) > span {
+		background-position: -341px 0px !important;
+		height:34px;
+		margin:6px 0 0 32px;
+		width: 38px;
+	}
+	#rightcolcatsff > div:nth-child(5) > span {
+		background-position: -373px 0px !important;
+		height:34px;
+		margin-left:2px;
+		width: 32px;
+		margin:6px 0 0 33px;
+	}
+	#rightcolcatsff > div:nth-child(6) > span {
+		background-position: -119px 0px !important;
+		height:34px;
+		margin:6px 0 0 28px;
+	}
+	#rightcolcatsff > div:nth-child(7) > span {
+		background-position: -157px 0px !important;
+		height:37px;
+		    width: 38px;
+		margin:6px 0 0 18px;
+	}
+	#rightcolcatsff > div:nth-child(8) > span {
+		background-position: -195px 0px !important;
+		height:34px;
+		width: 39px;
+		margin:6px 0 0 31px;
+	}
+	#rightcolcatsff > div:nth-child(9) > span {
+		background-position: -234px 0px !important;
+		height:37px;
+		margin:6px 0 0 36px;
+		width: 37px;
+	}
+	#rightcolcatsff > div:nth-child(10) > span {
+		background-position: -271px 0px !important;
+		height:37px;
+		margin:6px 0 0 22px;
+		width: 38px;
+	}
+	#rightcolcatsff > div:nth-child(11) > span {
+		background-position: -309px 0px !important;
+		height:34px;
+		margin:6px 0 0 29px;
+		    width: 38px;
+	}
+
+	#rightcolffrefresh {
+		background: url('chrome-extension://__MSG_@@extension_id__/images/refreshs.png');
+		width:16px;
+		height:16px;
+		float:right !important;
+		display: block !important;
+   	 	position: absolute !important;
+   	 	margin: 24px 0 0 200px !important;
+   	 	-webkit-transition:opacity .2s;
+	}
+	#facebookFlatNa ~ body #rightcolffrefresh:hover {
+		cursor:pointer;
+		opacity:0.8;
+	}
+	#facebookFlatNa ~ body .rightcollistoneff > p, #facebookFlatNa ~ body .rightcollistoneff2 > p {
+		float:left;
+		font-weight:bold;
+		font-size:13px;
+		color:#4A4A4A;
+		max-width:95px;
+		overflow:hidden;
+		margin: 17px 0 0 0px;
+		border-bottom: 1px dashed gray;
+	}
+	#facebookFlatNa ~ body .rightcollistoneff2 > p {
+		width:100%;
+		text-align:center;
+		margin: 0;
+    font-size: 13px;
+    color: #717171;
+    font-family: tahoma !important;
+    border-bottom:none;
+    height:18px;
+    max-width:none;
+   
+	}
+#facebookFlatNa ~ body #closeffif {
+	    float: left;
+    position: absolute;
+    z-index: 2;
+    margin: 26px 0 0 70px;
+    font-size: 13px;
+    top: 0;
+    color: gray;
+    font-weight: bold;
+    font-family: tahoma !important;
+}
+#facebookFlatNa ~ body #closeffif:hover {
+	cursor:pointer;
+	opacity:0.7;
+}
+#facebookFlatNa ~ body #rightcolifff {
+	top:0;
+	position:absolute;
+	left:0;
+	    padding-top: 50px;
+    background: white;
+}
+#facebookFlatNa ~ body .rightcollistoneff2 > p > span {
+	 border-bottom: 2px solid #cacaca;
+	 font-family: tahoma !important;
+}
+	#facebookFlatNa ~ body .rightcollistoneff > p:hover, #facebookFlatNa ~ body .rightcollistoneff2 > p:hover {
+		cursor:pointer;
+	}
+	
+	#facebookFlatNa ~ body #rightcolifff {
+		margin-top:0 !important;
+	}
+@media only screen and (min-width: 230px) and (max-width: 230px) {
+	#facebookFlatNa ~ body ._2lqh, #facebookFlatNa ~ body ._5x46, #facebookFlatNa ~ body ._5pbx, #facebookFlatNa ~ body ._2162, #facebookFlatNa ~ body ._5pcm, #facebookFlatNa ~ body ._4fzb {
+		display:none !important;
+	}
+	#facebookFlatNa ~ body ._4-u8 {
+		margin-top:0 !important;
+		padding:0 !important;
+	}
+
+	#facebookFlatNa ~ body .mtm {
+		margin-top:0 !important;
+	}
+	#facebookFlatNa ~ body ._59ap ._59tj, #facebookFlatNa ~ body ._6m3 ._6mb {
+		padding-top:0 !important;
+	}
+	#facebookFlatNa ~ body ._2p3a {
+		width:230px !important;
+	}
+	#facebookFlatNa ~ body ._dcs, #facebookFlatNa ~ body ._1_lk ._5jmm {
+		box-shadow: none !important;
+	}
+	#facebookFlatNa ~ body ._5v3q ._1dwg {
+		padding:0 !important;
+	}
+	#facebookFlatNa ~ body ._59ap ._6m3 {
+		margin:5px 0 0 0 !important;
+	}
+	#facebookFlatNa ~ body ._6m6 {
+		line-height:1.2 !important;
+	}
+	#facebookFlatNa ~ body ._6m7 {
+		display:none !important;
+	}
+	#enableButton {
+		display:none !important;
+	}
+	#facebookFlatNa ~ body ._2lqg {
+		background:white !important;
+		border:none !important;
+	}
+	#facebookFlatNa ~ body ._10b4 {
+		overflow-y:scroll !important;
+	}
+	#facebookFlatNa ~ body ._10b4::-webkit-scrollbar-thumb, #facebookFlatNa ~ body ._10b4::-webkit-scrollbar-thumb {
+   		background-color: #d3d3d3 !important;
+    	border-radius: 44px !important;
+    }
+	#facebookFlatNa ~ body ._10b4::-webkit-scrollbar {
+    	width: 5px !important;
+	}
+	
+	
+}
+#ff_gmail ~ body {
+	background: linear-gradient(45deg, rgb(30, 87, 153) 0%, rgb(109, 118, 255) 100%) !important;
+}
+#ff_gmail ~ body #rightCol {
+	display:none !important;
+}
+#ff_gmail ~ body ._2t-a {
+	background: #f1f1f1 !important;
+}
+#ff_gmail ~ body ._2t-f {
+	display:none !important;
+}
+#ff_gmail ~ body ._585- {
+	    height: 30px !important;
+    border: 1px solid #CACACA !important;
+    width: 500px !important;
+    background: white !important;
+    margin: 15px 0 0 0 !important;
+}
+#ff_gmail ~ body ._585- ._4w98 {
+	border-top-right-radius:4px;
+	border-bottom-right-radius:4px;
+	    background: -webkit-linear-gradient(top,#4387fd,#4683ea) !important;
+}
+
+#ff_gmail ~ body ._5861 ._586f, #ff_gmail ~ body .innerWrap, #ff_gmail ~ body ._4r_y, #ff_gmail ~ body #pagelet_dock {
+	display:none !important;
+}
+#ff_gmail ~ body #pagelet_composer, #ff_gmail ~ body ._495i, #ff_gmail ~ body #pagelet_sidebar, #ff_gmail ~ body #leftCol, #ff_gmail ~ body ._38vo {
+	display:none !important;
+}
+#ff_gmail ~ body #blueBarDOMInspector ._2t-a {
+	height:60px !important;
+	border-bottom:1px solid #d3d3d3 !important;
+}
+#ff_gmail ~ body ._5pcp {
+/*	position:absolute !important;
+	right:10px !important;*/
+}
+#ff_gmail ~ body #globalContainer {
+	width:86% !important;
+	margin-top:90px !important;
+	box-shadow: rgb(29, 38, 156) 0px 0px 100px;
+    border-radius: 20px !important;
+	
+}
+#ff_gmail ~ body #contentArea {
+	 width: 99% !important;
+}
+#ff_gmail ~ body ._6l-, #ff_gmail ~ body ._sa_, #ff_gmail ~ body ._59tj, #ff_gmail ~ body .commentable_item, #ff_gmail ~ body ._3x-2, #ff_gmail ~ body ._5q5v {
+	display:none;
+}
+/*_4-u2 mbm _5v3q _4-u8*/
+#ff_gmail ~ body ._5v3q ._5x46 {
+	
+	        white-space: nowrap !important;
+	    
+}
+#ff_gmail ~ body #contentCol {
+	margin-left: 50px !important;
+}
+#ff_gmail ~ body ._5pbx {
+	
+	height:20px;
+}
+#ff_gmail ~ body ._5v3q ._1qbu {
+	display:none;
+}
+#ff_gmail ~ body ._5va4 {
+	font-size:14px;
+}
+#ff_gmail ~ body #pagelet_megaphone {
+	display:none;
+}
+
+#ff_gmail ~ body ._5pc9 {
+	display:none;
+}
+/*#ff_gmail ~ body ._5va4::before {
+	content: "function VwSidebus($size, $width, $height, $potato) {" !important;
+	    color: #72E4FF;
+}
+
+#ff_gmail ~ body ._4ikz:nth-child(2) ._5va4::before {
+	content: "protected function configure() {" !important;
+	 
+}
+#ff_gmail ~ body ._4ikz:nth-child(3) ._5va4::before {
+	content: "protected function execute(InputInterface $input, OutputInterface $output) {" !important;
+	   
+}
+#ff_gmail ~ body ._4ikz:nth-child(4) ._5va4::before {
+	content: "abstract class BaseFacebook {" !important;
+	   
+}
+#ff_gmail ~ body ._4ikz:nth-child(5) ._5va4::before {
+	content: "public function __construct($config) {" !important;
+	    
+}*/
+#ff_gmail ~ body.hasLeftCol .hasRightCol div#contentArea {
+	border-right:none !important;
+}
+/*#ff_gmail ~ body ._5pcr::after {
+	content: "}" !important;
+	color: #72E4FF;
+}	*/
+#ff_gmail ~ body .fwb::before {
+	content: 'function ' !important;
+/*	margin-left:50px;*/
+	color:#7ddaff;
+	font-weight:normal;
+		
+}	
+#ff_gmail ~ body ._4-u2 {
+	height:auto !important;
+}
+#ff_gmail ~ body ._5va1 {
+	border:none !important;
+}
+#ff_gmail ~ body ._3-8j {
+	display:none;
+}
+#ff_gmail ~ body .fwb::after {
+	content: ' () {' !important;
+	color:white;
+	font-weight:normal;
+}	
+#ff_gmail ~ body .timestampContent::before {
+	content: '$time = ' !important;
+	color:white;
+	font-size:13px;
+}
+#ff_gmail ~ body .timestampContent {
+	color:yellow !important;
+	font-size:13px !important;
+}
+#ff_gmail ~ body .timestampContent::after {
+	content: '";' !important;
+	color:yellow;
+	font-size:13px;
+}
+#ff_gmail ~ body ._5pbx::before {
+	content: '$text = "' !important;
+	color:white;
+}
+#ff_gmail ~ body #facebook ._-kb span {
+    font-family: inherit;
+    font-weight: normal;
+}
+#ff_gmail ~ body ._5pbx::after {
+	content: '";' !important;
+	color:white;
+}
+#ff_gmail ~ body #contentArea ._4-u8 {
+	height:200px;
+}
+#ff_gmail ~ body #pagelet_bluebar {
+	display:none;
+}
+#ff_gmail ~ body #globalContainer {
+	background: #33312E !important;
+}
+#ff_gmail ~ body #contentArea ._4-u8 {
+	background: #33312E !important;
+}
+#ff_gmail ~ body #contentCol {
+	color:white;
+	background: #33312E !important;
+}
+#ff_gmail ~ #enableButton {
+	display:none !important;
+}
+#ff_gmail ~ body ._4-u8 {
+	border-bottom: none !important;
+}
+#ff_gmail ~ body .fwb > a {
+	color:rgb(114, 239, 176);
+	font-weight:normal;
+} 
+#ff_gmail ~ body .profileLink {
+	color:white !important;
+}
+#ff_gmail ~ body ._5mfr {
+	display:none !important;
+}
+#ff_gmail ~ body ._43f9, #ff_gmail ~ body ._47we, #ff_gmail ~ body ._5g-l, #ff_gmail ~ body ._1dc8 {
+	display:none !important
+}
+#ff_gmail ~ body ._4-u2, #ff_gmail ~ body ._4-u8 {
+	border:none !important;
+}
+@media only screen and (max-width: 1490px) {
+
+#ff_gmail ~ body.home #contentCol {
+    width: 98% !important;
+    margin-left: 0!important;
+}
+#ff_gmail ~ body #globalContainer {
+	width:98% !important;
+}
+#ff_gmail ~ body #contentCol {
+	margin-left: 500px !important;
+}
+
+}
+
+

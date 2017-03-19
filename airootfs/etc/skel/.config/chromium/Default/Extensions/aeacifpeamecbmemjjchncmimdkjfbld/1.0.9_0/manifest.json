@@ -1,0 +1,25 @@
+{
+   "background": {
+      "scripts": [ "background.js", "js/jquery.min.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icon48.png",
+      "default_popup": "popup.html"
+   },
+   "description": "fresh bytes of technology and more",
+   "homepage_url": "http://fossbytes.com/",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAi5kiaXIQjes+IevmiGSNGytKqW7TUTGRBAVb05BNXQevwYGziMb+4bxct6cXOIs1wEkEKz/8TAk1BQoMiIScuHPToPZsFV0RXnMJkcm4knoVKBQ50ibHNulQGtl+kVNTcTsy3MNHr+teT7KhgcBQmdLv48fzB72/zTOsooPM3P5ss0S7pMx+ktPNPc4WSKsOxagYJW1izDjyajdXFO7PlAuew940UlFSa2qFBkNhJN1R+uv6f4h9OpCXr0VtViT1pEo90AIust6bUmV7FRcLjDlEA0AzyhFNHVC2s4H+nQXluyLcXyMMekjUl/4nrIp/2jK7nmQ2oJLsWv9MiIqOOwIDAQAB",
+   "manifest_version": 2,
+   "name": "fossBytes",
+   "options_page": "options.html",
+   "permissions": [ "http://fossbytes.com/?json*", "notifications", "storage" ],
+   "short_name": "fossBytes: fresh bytes of technology and more",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.9",
+   "web_accessible_resources": [ "icon48.png" ]
+}

@@ -1,0 +1,25 @@
+{
+   "background": {
+      "scripts": [ "jumbo_customer_account.js", "proxy_form_controller.js", "proxy_error_handler.js", "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icon16.png",
+      "default_popup": "popup.html"
+   },
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "homepage_url": "http://www.jumbroxy.com/",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "32": "icon32.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsXc8Wf/MsGBqJ8djjONPZJgg9aAFomMmSAq5aMR8is0DcMXgQAlyQakcnVRwY2ywK0FUJ3gqw+zNMvZKo9pI0p7HOafGoDYNoegpWs7fpY/zyEpHR4JrvMUNRN0XGvcATRPNdvz5q4b2+c2HBaSY3yuiJ82Bc46icjWFHw7AsekQ1OUCZJryMOscjbNBt+z6nb3nkzkqkZvEciFv7btdVW/Pfpo6ZJzdVWC98D8+jv0Ffh4jimMNvtDiQpuAOf9YZbwA/2PXNAXGuEpUa6QqGZurI5ADpM9Z29aJvJvOTXITJ/ZCmZqW+jzsOtkRL6wB3PQ0Or/1sBAux6Ub3GwBmwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extName__",
+   "permissions": [ "alarms", "webRequest", "webRequestBlocking", "proxy", "\u003Call_urls>" ],
+   "short_name": "__MSG_extNameShort__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.1.3"
+}

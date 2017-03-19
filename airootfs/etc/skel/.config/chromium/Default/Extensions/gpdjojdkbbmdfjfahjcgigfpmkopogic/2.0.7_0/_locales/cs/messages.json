@@ -1,0 +1,42 @@
+{
+   "errorPin": {
+      "description": "The error message seen when an image can't be pinned",
+      "message": "Je nám líto. Obrázek nelze uložit."
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Ukládejte věci, které najdete na webu."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Tlačítko Uložit"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Skrýt vyskakovací tlačítka Uložit"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Možnosti tlačítka Uložit"
+   },
+   "saveAction": {
+      "description": "Appears in the right-click-to-save menu item",
+      "message": "Uložit"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Hledat"
+   },
+   "welcomeBody": {
+      "description": "Body of the pop-up welcome message",
+      "message": "Když brouzdáte internetem a ukazatelem najedete na obrázek, zobrazí se tlačítko Uložit. Pokud nechcete, aby se tlačítko zobrazovalo, můžete tuto možnost vypnout. Další informace získáte kliknutím na toto oznámení."
+   },
+   "welcomeLink": {
+      "description": "The link (currently a help article) opened by clicking on the pop-up welcome message",
+      "message": "https://help.pinterest.com/articles/add-pin-it-button-your-browser?source=chrome_pib_education#Web"
+   },
+   "welcomeTitle": {
+      "description": "Title of the pop-up welcome message",
+      "message": "Tlačítko Uložit pro prohlížeč Chrome"
+   }
+}

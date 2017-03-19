@@ -1,0 +1,45 @@
+._6225b4-button_container {
+  position: relative;
+  text-align: center !important;
+}
+
+._6225b4-button_container ._6225b4-button_spinner {
+  margin-top: -10px !important;
+  text-align: center !important;
+}
+
+._6225b4-button_container ._6225b4-button_spinner div {
+  background-color: #fff !important;
+}
+
+._6225b4-button {
+  font-family: Lato !important;
+  background-image: linear-gradient(180deg, #e04f42 0, #d0352c) !important;
+  border-radius: 56px !important;
+  font-size: 18px !important;
+  color: #fff !important;
+  line-height: 22px !important;
+  text-align: center !important;
+  border: none;
+  outline: none;
+  width: 339px;
+  height: 45px;
+  cursor: pointer;
+  transition: opacity 0.2s ease-in;
+  outline: none !important;
+}
+
+._6225b4-button:hover,
+._6225b4-button:focus {
+  background-image: linear-gradient(180deg, #ea6756 0, #d0352c) !important;
+  box-shadow: inset 0 -1px 0 #de210d, inset 0 1px 0 #ea6756;
+}
+
+._6225b4-button:active {
+  background-image: linear-gradient(0deg, #ea6756 0, #d0352c) !important;
+  box-shadow: inset 0 1px 0 #de210d, 0 -1px 0 #d64e46 inset;
+}
+
+._6225b4-loading ._6225b4-button {
+  pointer-events: none;
+}

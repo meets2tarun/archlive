@@ -1,0 +1,142 @@
+{
+	"config_version": "2",
+	"name": "Grammarly",
+  "nameChrome": "Grammarly for Chrome",
+  "nameFirefox": "Grammarly for Firefox",
+  "nameSafari": "Grammarly for Safari",
+	"author": "Grammarly",
+	"version": "14.747.757",
+	"platform_version": "v1.4",
+	"description": "Check your spelling and grammar as you type. Boost your credibility everywhere you write!",
+	"id": "grammarly.freemium",
+	"ffName": "Grammarly for Firefox",
+	"modules": {
+		"logging": {
+			"level": "DEBUG",
+      "console": true
+		},
+		"activations": [
+      {
+				"patterns": ["<all_urls>"],
+				"scripts": [
+								"/js/_vendor-popup.js",
+								"/js/_vendor.js",
+								"/js/bundle.js",
+								"/js/editor-popup.js",
+								"/js/styles.js"
+								],
+				"styles": [
+								"/css/styl/btn-hover-menu-new.css",
+								"/css/styl/btn-hover-menu.css",
+								"/css/styl/checkbox.css",
+								"/css/styl/dialog.css",
+								"/css/styl/fonts.css",
+								"/css/styl/header-component.css",
+								"/css/styl/popup-dialect-line.css",
+								"/css/styl/popup-settings.css",
+								"/css/styl/popup-signin.css",
+								"/css/styl/referral.css",
+								"/css/styl/selection-animator.css",
+								"/css/styl/signin.css",
+								"/css/styl/spinner.css",
+								"/css/styl/textarea-btn-new.css",
+								"/css/styl/textarea-btn.css",
+								"/css/styl/toolbar-signin.css",
+								"/css/styl/tooltip.css",
+								"/css/styl/underline.css",
+								"/css/styl/cards/base-card.css",
+								"/css/styl/cards/dictionary-card.css",
+								"/css/styl/cards/grammar-card.css",
+								"/css/styl/cards/quick-card.css",
+								"/css/styl/premium-dialog/dialog.css",
+								"/css/styl/premium-dialog/features.css",
+								"/css/styl/premium-dialog/quotes.css",
+								"/css/styl/signin-dialog/button.css",
+								"/css/styl/signin-dialog/input.css",
+								"/css/styl/signin-dialog/signin-dialog.css",
+								"/css/styl/signin-dialog/welcome.css",
+								"/css/js/lib/inline-cards/index.css",
+								"/css/js/lib/inline-cards/replacement/index.css"
+								],
+				"run_at": "start"
+      }
+   	],
+   	"requirements": {
+   		"chrome": {
+				"content_security_policy": "script-src 'self'; object-src 'self'",
+				"web_accessible_resources": [
+				]
+	    },
+			"safari": {
+				"package_name": "com.grammarly.spellchecker.extension"
+			}
+   	},
+    "externally_connectable": {
+      "matches": ["*://*.grammarly.com/*"]
+    },
+   	"background": {
+      "files": [
+          "js/_vendor.js",
+          "js/bundle-bg.js",
+          "js/bundle-popup.js"
+        ]
+    },
+    "icons": {
+      "chrome": {
+        "16": "icon/icon16.png",
+        "48": "icon/icon48-chrome.png",
+        "128": "icon/icon128.png"
+      },
+      "firefox": {
+        "16": "icon/icon16.png",
+        "19": "icon/icon19.png",
+        "32": "icon/icon32.png",
+        "64": "icon/icon64.png"
+      },
+      "safari": {
+        "32": "icon/icon32.png",
+        "48": "icon/icon48.png",
+        "64": "icon/icon64.png"
+      }
+    },
+    "button": {
+      "default_popup": "popup.html",
+      "default_title": "Grammarly",
+      "default_icon": "icon/icon48-chrome.png",
+      "default_icons": {
+        "firefox": "icon/icon16.png",
+        "safari": "icon/icon32-safari.png",
+        "ie": "icon/favicon.ico"
+      }
+    },
+    "optional_permissions": {
+      "clipboardRead": true
+    },
+    "cookies": true,
+    "tabs": true,
+   	"message": true,
+   	"notification": true,
+		"contact": true,
+		"file": true,
+		"is": true,
+		"media": true,
+		"prefs": true,
+    "cpu": true,
+    "clipboardWrite": true,
+		"request": {
+      "permissions": [
+        "<all_urls>"
+      ]
+		},
+    "parameters": {
+      "version": "14.747.757",
+      "updateTime": "20"
+    },
+    "update_url": {
+      "safari": "https://safari-grammarly-plugin.s3.amazonaws.com/update0146bc01b24244c5a5cc8b7be1e9679f2a691433.plist"
+    },
+		"tools": true,
+		"reload": true
+    
+	}
+}

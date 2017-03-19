@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "App description.",
+      "message": "Uusi Facebook Suunnittelu, poistaa mainokset (Kuten AdBlockin), FB toimii nopeammin, puhtaampaa UX / UI."
+   },
+   "appName": {
+      "description": "App name.",
+      "message": "Flatbook"
+   }
+}

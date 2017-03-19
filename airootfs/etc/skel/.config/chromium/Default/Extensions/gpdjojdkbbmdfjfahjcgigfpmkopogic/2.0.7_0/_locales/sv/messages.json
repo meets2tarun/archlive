@@ -1,0 +1,42 @@
+{
+   "errorPin": {
+      "description": "The error message seen when an image can't be pinned",
+      "message": "Tyvärr går det inte att spara den här bilden."
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Spara idéer du hittar på nätet."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Pinterests Spara-knapp"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Dölj hovrande Spara-knappar"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Spara-knapp inställningar"
+   },
+   "saveAction": {
+      "description": "Appears in the right-click-to-save menu item",
+      "message": "Spara"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Sök"
+   },
+   "welcomeBody": {
+      "description": "Body of the pop-up welcome message",
+      "message": "Du ser Spara-knappar när du för muspekaren över bilder medan du surfar på webben. Om du inte vill se dem kan du avaktivera dem. Klicka på meddelandet om du vill läsa mer."
+   },
+   "welcomeLink": {
+      "description": "The link (currently a help article) opened by clicking on the pop-up welcome message",
+      "message": "https://help.pinterest.com/articles/add-pin-it-button-your-browser?source=chrome_pib_education#Web"
+   },
+   "welcomeTitle": {
+      "description": "Title of the pop-up welcome message",
+      "message": "Pinterests Spara-knapp för Chrome"
+   }
+}

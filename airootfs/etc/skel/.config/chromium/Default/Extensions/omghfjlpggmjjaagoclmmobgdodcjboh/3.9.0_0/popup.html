@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+    <head lang="en">
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="assets/stylesheets/OpenSans.css">
+
+        <link  rel="stylesheet" href="assets/stylesheets/reset.css" media="all">
+        <link  rel="stylesheet" href="assets/stylesheets/popup.css" media="all">
+        <link  rel="stylesheet" href="assets/stylesheets/animate.css" media="screen">
+        <link  rel="stylesheet" href="assets/stylesheets/pageTransitions.css" media="screen">
+
+        <script type="text/javascript" src="jquery.js"></script>
+        <script type="text/javascript" src="popup.js"></script>
+    </head>
+
+    <body>
+        <div id="main" class="b-ext-wrapper m-scene">
+            <div class="b-premium-popup">
+                <header class="b-premium-popup--header">
+                    Browsec Premium
+                    <div class="b-close-popup b-ico-x js-close-popup"></div>
+                </header>
+                <div class="b-premium-popup--content">
+                    <div class="b-premium-advantages">
+                        <div class="b-premium-advantage b-premium-advantage__morecountries">
+                            <div class="b-premium-advantage--title">Premium locations</div>
+                            <p>Access the Internet via additional Premium locations.</p>
+                        </div>
+                        <div class="b-premium-advantage b-premium-advantage__fastspeed">
+                            <div class="b-premium-advantage--title">Turbo speed</div>
+                            <p>Premium users enjoy dedicated traffic lanes.</p>
+                        </div>
+                        <div class="b-premium-advantage b-premium-advantage__servers">
+                            <div class="b-premium-advantage--title">Premium servers</div>
+                            <p>Our best-in-class servers guarantee top&nbsp;performance.</p>
+                        </div>
+                    </div>
+                    <a href="#" class="b-premium-link js-premium-link">
+                        Get Premium now!
+                    </a>
+                </div>
+            </div>
+            <header class="b-ext-header">
+                <div class="b-ext-logo">
+                    <img class="b-logo__premium-user" src="assets/images/ext-logo.png" width="142" height="46" />
+                    <img class="b-logo__free-user" src="assets/images/ext-logo-wo-premium.png" width="142" height="46" />
+                </div>
+                <div class="b-account">
+                    <span class="b-account--progress">
+                        <span class="dot"></span>
+                        <span class="dot"></span>
+                        <span class="dot"></span>
+                    </span>
+                    <div class="b-account--logout">
+                        <span class="b-logout--email" data-var="email" title=""></span>
+                        <span class="b-logout b-ico-logout js-logout"></span>
+                    </div>
+                    <div class="b-account--login">
+                        <a href="login.html" class="b-login no-smoothState">Sign in</a>
+                    </div>
+                </div>
+            </header>
+
+            <div class="b-ext-container scene_element scene_element--fadein">
+                <div class="b-holiday">
+                    <a href="" class="b-holiday__link" target="_blank">
+                        <img src="assets/images/snow.png" alt="" class="b-holiday__snow1">
+                        <img src="assets/images/snow.png" alt="" class="b-holiday__snow2">
+                        <img src="assets/images/snow.png" alt="" class="b-holiday__snow3">
+                        <div class="b-content__title">New Year Sale</div>
+                        <span class="b-holiday__value">
+                            <span class="b-holiday__valueLeft">
+                                50
+                            </span>
+                            <span class="b-holiday__valueRight">
+                                <img class="b-holiday__pic" src="assets/images/b-discount2.png" />
+                                <span class="b-holiday__off">OFF</span>
+                            </span>
+                            <span class="b-holiday__valueTitle">Limited Offer</span>
+                        </span>
+                    </a>
+                </div>
+                <!-- HOME -->
+                <div data-page="home" class="b-content">
+                    <div class="b-banner b-banner__free-user">
+
+                      <div class="b-aside b-aside__info b-aside--expire expiring">
+                        <div class="b-close-popup b-ico-x js-close-popup"></div>
+
+                        <p class="b-font12">Your Browsec Premium is about to expire</p>
+                        <p class="b-font14">Go ahead and renew it.</p>
+                        <a href="#" class="b-font14-bottom js-premium-link">Continue using Browsec Premium</a>
+
+                      </div>
+
+                      <div class="b-aside b-aside__info b-aside--expire expired">
+                        <div class="b-close-popup b-ico-x js-close-popup"></div>
+
+                        <p class="b-font12">Your Premium has expired!</p>
+                        <p class="b-font14"></p>
+                        <p class="b-font14-bottom">Get Premium</p>
+
+                      </div>
+
+                      <div class="b-aside b-aside__info b-aside--premium-cta getfree js-popup-free-premium">
+
+                        <p class="b-banner-text--title">Turbo Speed in FREE Premium</p>
+                        <a href="#" class="b-banner--button" target="_blank">Get Free Premium!</a>
+
+
+                      </div>
+
+                      <!-- this a tag will have display:block when shown. Otherwise will have issues -->
+                      <a class="b-aside b-aside__info b-aside--premium-cta wpic js-premium-link" id="banner_Locations_pic_light" data-weight="1">
+                        <p class="b-banner-text--title">Access Premium Locations</p>
+                        <p class="b-banner-text--text">Access the Internet via additional Premium locations</p>
+                      </a>
+
+                      <a class="b-aside b-aside__info b-aside--premium-cta wpic js-premium-link" id="banner_UnlimitedSpeed_pic_light" data-weight="2">
+                        <p class="b-banner-text--title">Get Unlimited Speed</p>
+                        <p class="b-banner-text--text">Premium users enjoy the fastest connection speed</p>
+                      </a>
+
+                      <a class="b-aside b-aside__info b-aside--premium-cta wpic js-premium-link" id="banner_Servers_pic_light" data-weight="1">
+                        <p class="b-banner-text--title">Upgrade to Premium Servers</p>
+                        <p class="b-banner-text--text">Our best-in-class servers guarantee top performance</p>
+                      </a>
+
+                    </div>
+
+                    <div class="b-protect-text">
+                      <div class="b-protect-text--inactive">
+                        <div class="b-protect-text--header b-alert">Privacy Protection disabled</div>
+
+                        <p class="b-protect-text--text">You browser's connections are not encrypted and your IP and location are available for third party.</p>
+
+                        <a href="#" class="b-switch-but--on">Protect me</a>
+
+                      </div>
+                      <div class="b-protect-text--active">
+
+                        <p class="b-protect-text--text">Your Privacy is protected</p>
+
+                         <ul class="b-location-list-popup">
+
+                          <li class="b-location-popup" data-country-code="">
+                            <img class="b-country-popup" src="" width="30" height="20">
+                            <span class="b-item-name-popup"></span>
+                            <!-- modifiers: current, premium, change -->
+                            <span class="b-location--status b-location--status__change">Change</span>
+                          </li>
+                        </ul>
+
+                      </div>
+                    </div>
+                </div>
+                <!-- /HOME -->
+            </div>
+            <footer class="b-ext-footer">
+                <ul class="b-ext-menu">
+                    <li class="b-ext-menu--item b-ico-home b-ext-menu--item__current">Home</li>
+                    <li class="b-ext-menu--item b-ico-location"><a href="change_location.html">Change location</a></li>
+                    <li class="b-ext-menu--item b-ico-support"><a class="b-footer-link link-contactus" href="#">Contact us</a></li>
+                </ul>
+                <label class="b-switch js-switch">
+                    <input class="b-switch-input" type="checkbox">
+                    <span class="b-switch-label" data-off="Off" data-on="On"></span>
+                    <span class="b-switch-handle"></span>
+                </label>
+            </footer>
+        </div>
+        <script src="jquery.smoothState.js"></script>
+        <script src="animate.js"></script>
+    </body>
+</html>

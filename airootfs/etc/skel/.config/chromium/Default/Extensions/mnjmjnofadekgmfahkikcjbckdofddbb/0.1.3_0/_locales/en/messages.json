@@ -1,0 +1,66 @@
+{
+   "errorIdNotForm": {
+      "description": "Error message thrown when the given `id` isn't a form element.",
+      "message": "Element with ID `$1` isn't a form element."
+   },
+   "errorIdNotFound": {
+      "description": "Error message thrown when the given `id` doesn't exist",
+      "message": "Element with ID `$1` doesn't exist in the document"
+   },
+   "errorNoExtensionAccess": {
+      "description": "Error message displayed when `levelOfControl` is 'not_controllable'.",
+      "message": "Sorry. This browser's proxy settings cannot be controlled via extensions."
+   },
+   "errorOtherExtensionControls": {
+      "description": "Error message displayed when `levelOfControl` is 'controlled_by_other_extensions'.",
+      "message": "Sorry. This browser's proxy settings are being controlled by another extension. Please visit chrome://extensions for details."
+   },
+   "errorPopupTitle": {
+      "description": "Error message used as popup title.",
+      "message": "Error: $1"
+   },
+   "errorProxyDetailedError": {
+      "description": "Error message displayed in popup when an error occurs.",
+      "message": "ProxyError: $1. $2."
+   },
+   "errorProxyError": {
+      "description": "Error message displayed in popup when an error occurs.",
+      "message": "ProxyError: $1."
+   },
+   "errorSettingIncognitoProxy": {
+      "description": "Error message, displayed when failing to set incognito proxy settings.",
+      "message": "Setting incognito proxy settings failed.  Sorry!"
+   },
+   "errorSettingRegularProxy": {
+      "description": "Error message, displayed when failing to set regular proxy settings.",
+      "message": "Setting regular proxy settings failed.  Sorry!"
+   },
+   "extDescription": {
+      "description": "The extension description.",
+      "message": "Allows single-click selection of available proxy servers using Chrome's Proxy API"
+   },
+   "extName": {
+      "description": "The extension name.",
+      "message": "Jumbo Proxy Switcher"
+   },
+   "extNameShort": {
+      "description": "The short extension name.",
+      "message": "JP Switcher"
+   },
+   "headerDirectConnection": {
+      "description": "Header for 'Direct Connection' configuration `fieldset`.",
+      "message": "Direct Connection"
+   },
+   "manualProxiesMissing": {
+      "description": "Error message shown when no proxies can not be fetched from the backend server.",
+      "message": "The proxy list is empty or has not been loaded yet. Press Reload button in a few minutes."
+   },
+   "successfullySetProxy": {
+      "description": "Success message, displayed after proxy settings have been written.",
+      "message": "Your proxy settings have been saved successfully; this window will close automagically. Have a nice day!"
+   },
+   "supportFormSubmission": {
+      "description": "Message shown after support form submission.",
+      "message": "Thank you for your input! Your feedback is quite important to us. We do our best to make this add-on even more convenient to our users. We will try to send the reply as soon as possible."
+   }
+}

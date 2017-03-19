@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "App description.",
+      "message": "Nuevo diseño de Facebook, elimina los anuncios (similares a AdBlock), FB funciona más rápido, más limpia UX / UI."
+   },
+   "appName": {
+      "description": "App name.",
+      "message": "Flatbook"
+   }
+}

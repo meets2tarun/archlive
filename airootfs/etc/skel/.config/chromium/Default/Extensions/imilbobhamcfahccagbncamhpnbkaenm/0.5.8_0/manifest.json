@@ -1,0 +1,37 @@
+{
+   "author": "Lifehack Labs",
+   "background": {
+      "persistent": true,
+      "scripts": [ "libs/buy.js", "js/background/helpers.js", "js/background/config.js", "js/background/user-stats.js", "js/background/user-settings.js", "js/background/file-reader.js", "js/background/analytics.js", "js/background/payments.js", "js/background/promo.js", "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "images/darkness-icon-19px.png",
+         "38": "images/darkness-icon-38px.png"
+      },
+      "default_popup": "html/options.html",
+      "default_title": "__MSG_appShortName__"
+   },
+   "content_security_policy": "script-src 'self' https://www.google-analytics.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_appDescription__",
+   "homepage_url": "http://lifehacklabs.org",
+   "icons": {
+      "128": "images/darkness-icon-128px.png",
+      "16": "images/darkness-icon-16px.png",
+      "48": "images/darkness-icon-48px.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmfu51WbFBlmStYYSJiHfs6wIVeJNA4m/ctJMErsYbeNRpqfRKypV/OfvhVQcpxoiZCzfgw3Q7QN/9q/YOwJfd4NmL11DfTdCbj+W81dFBE+2iljqUCvENoP8KNjW7tNnHWG/D1C/KNF0vrBTzEpXk3l9zhS3wwnU3kqwNyn0TZ8T6f8uEAcQzydKnDqUwKp826qVVWEer8hVq0fgQgz4C54IfviV4VZYMFrphM/pYfpPOpYoihrtsRkeH0DN+cvQNRfyam6HJc7293AxwWwVpEpfjbaEoBtDherPOdAZw5P9SU23j//cHUNaxRGqvZShy1BUpkm3Y7V/KhX3eX452QIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appFullName__",
+   "options_page": "html/options.html",
+   "options_ui": {
+      "chrome_style": true,
+      "page": "html/options.html"
+   },
+   "permissions": [ "tabs", "storage", "cookies", "http://*/", "https://*/" ],
+   "short_name": "__MSG_appShortName__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.5.8",
+   "web_accessible_resources": [ "themes-css/*.css", "themes-css/*.map", "style-css/*.css", "style-css/*.map", "js/*.js", "libs/*.js", "html/*.html", "images/*.png", "images/*.gif", "images/*.jpg", "fonts/*.woff2", "icons/css/*.css", "icons/font/*.*" ]
+}

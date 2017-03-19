@@ -1,0 +1,42 @@
+{
+   "errorPin": {
+      "description": "The error message seen when an image can't be pinned",
+      "message": "Désolé, vous ne pouvez pas enregistrer cette image."
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Enregistrez ce qui vous plait sur le Web."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Bouton Enregistrer Pinterest"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Désactiver les boutons Enregistrer flottants"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Options du bouton Enregistrer"
+   },
+   "saveAction": {
+      "description": "Appears in the right-click-to-save menu item",
+      "message": "Enregistrer"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Rechercher"
+   },
+   "welcomeBody": {
+      "description": "Body of the pop-up welcome message",
+      "message": "Lorsque vous naviguez sur le Web, vous verrez les boutons Enregistrer lorsque vous passez la souris sur les images. Si vous ne voulez pas voir cela, vous pouvez les désactiver. Cliquez sur cette notification pour en savoir plus."
+   },
+   "welcomeLink": {
+      "description": "The link (currently a help article) opened by clicking on the pop-up welcome message",
+      "message": "https://help.pinterest.com/articles/add-pin-it-button-your-browser?source=chrome_pib_education#Web"
+   },
+   "welcomeTitle": {
+      "description": "Title of the pop-up welcome message",
+      "message": "Bouton Enregistrer Pinterest pour Chrome"
+   }
+}

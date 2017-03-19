@@ -1,0 +1,126 @@
+{
+   "before_trying_again": {
+      "description": "Error resolution tip in error pages.",
+      "message": "Voordat jy weer probeer:"
+   },
+   "browser_action_title": {
+      "description": "Browser action title that shows up on hover.",
+      "message": "Saai hierdie URL uit"
+   },
+   "context_menu_disable": {
+      "description": "Label of the context menu item that disables Tone.",
+      "message": "Deaktiveer Toon"
+   },
+   "context_menu_enable": {
+      "description": "Label of the context menu item that enables Tone.",
+      "message": "Aktiveer Toon"
+   },
+   "description": {
+      "description": "Extension description.",
+      "message": "Saai enige URL na rekenaars binne hoorafstand uit."
+   },
+   "ensure_online": {
+      "description": "Network workaround.",
+      "message": "Maak seker dat jou rekenaar aanlyn is."
+   },
+   "error_audio_title": {
+      "description": "Title of the error_audio.html page.",
+      "message": "Google Toon kon dit nie hoor nie."
+   },
+   "error_network_title": {
+      "description": "Title of error_network.html page.",
+      "message": "Ongelukkig het dit nie gewerk nie."
+   },
+   "increase_volume": {
+      "description": "Audio workaround #1",
+      "message": "Stel die volume harder."
+   },
+   "invite_others": {
+      "description": "Press the button to try it.",
+      "message": "Nooi ander mense om Google Toon te gebruik: {{shortlink}}"
+   },
+   "name": {
+      "description": "Extension name.",
+      "message": "Google Toon"
+   },
+   "notification_receive_message_format": {
+      "description": "Notification message when you receive a Tone.",
+      "message": "Klik om \"{{title}}\" van {{domain}} af oop te maak"
+   },
+   "notification_receive_test_page_message": {
+      "description": "Notification message sent from Tone test page.",
+      "message": "Klik om Toon te probeer!"
+   },
+   "notification_receive_title_format": {
+      "description": "Notification title when you receive a Tone.",
+      "message": "URL vanaf {{username}}!"
+   },
+   "notification_send_fail_audio_message": {
+      "description": "Notification title shown when audio verification fails.",
+      "message": "Gaan jou volume na en probeer weer.\nKlik vir meer inligting."
+   },
+   "notification_send_fail_audio_title": {
+      "description": "Notification title shown when audio verification fails.",
+      "message": "Toon kon homself nie hoor nie"
+   },
+   "notification_send_fail_network_message": {
+      "description": "Notification message shown when a Tone was attempted but the network was offline.",
+      "message": "Dit lyk of jy vanlyn is.\nKlik vir meer inligting."
+   },
+   "notification_send_fail_network_title": {
+      "description": "Notification title shown when a Tone was attempted but the network was offline.",
+      "message": "URL nie gestuur nie"
+   },
+   "press_button": {
+      "description": "Press the button to try it.",
+      "message": "Druk die {{action_image}}-knoppie om 'n URL na rekenaars binne hoorafstand uit te saai."
+   },
+   "report_bug": {
+      "description": "Report a bug",
+      "message": "Gee 'n fout aan"
+   },
+   "settings_off": {
+      "description": "Indicator showing that Tone is disabled.",
+      "message": "AF"
+   },
+   "settings_off_subtitle": {
+      "description": "Subtitle showing that Tone is disabled.",
+      "message": "Jy kan nie URL'e stuur of ontvang nie."
+   },
+   "settings_off_title": {
+      "description": "Title showing that Tone is disabled.",
+      "message": "Google Toon is af"
+   },
+   "settings_on": {
+      "description": "Indicator showing that Tone is enabled.",
+      "message": "AAN"
+   },
+   "settings_on_subtitle": {
+      "description": "Subtitle showing that Tone is enabled.",
+      "message": "Jy kan URL'e stuur en ontvang."
+   },
+   "settings_on_title": {
+      "description": "Title showing that Tone is enabled.",
+      "message": "Google Toon is aan"
+   },
+   "settings_title": {
+      "description": "Title of settings.html",
+      "message": "Instellings"
+   },
+   "success_call": {
+      "description": "Call to action of success.html.",
+      "message": "Gaan na 'n ander bladsy en klik die {{action_image}}-knoppie om dit uit te saai."
+   },
+   "success_title": {
+      "description": "Title of success.html.",
+      "message": "Google Toon het gewerk!"
+   },
+   "try_now": {
+      "description": "Call to action to try the extension.",
+      "message": "Probeer Google Toon nou!"
+   },
+   "unplug_headphones": {
+      "description": "Audio workaround #2",
+      "message": "Trek jou oorfone uit."
+   }
+}

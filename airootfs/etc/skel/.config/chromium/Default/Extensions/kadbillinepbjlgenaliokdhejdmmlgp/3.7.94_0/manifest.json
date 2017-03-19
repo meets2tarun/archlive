@@ -1,0 +1,24 @@
+{
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "facebook.css" ],
+      "js": [ "final.js" ],
+      "matches": [ "https://*.facebook.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA36TNFosQ+sk2iqd8rcP7XAPnnua2z5RvyyKyxw4546xY3rNpAYtZMjY6GYAmty420+TyXaFVOOPOopPXiCu56HCRYKvotAapcE1CHATQq3M8mcDpueTwfvF1ol7QLqmE9fSv5UTkJ1gD/0EpW6Bn6uuWwfP4xzk79aLekoKD3zETdLwWIToJ1aRHPG+1ZxYySkbJWBFY2HYGO7wtZu1mTisF2WshUTmQfqV9QFRIoLixkZEPB4NdmmZDxrTNfooSns06vM9Gr6s9fnHTLNJ9AC9AE/pgaLLDv8XPlyP7gm/ne+SkKBaibkHs8OxmCcKw5WjNzRCaLwkdcwCTVDR2VQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "activeTab" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.7.94",
+   "web_accessible_resources": [ "facebook.css", "/images/234234menu.png", "/images/shield.png", "/images/ff_youtube_close.png", "/images/kitty.jpg", "/images/flame.png", "/images/ff_youtube_cats.png", "/images/colors.png", "/images/ff_feed.png", "/images/cutfrom-min.png", "/images/oldm.png", "/images/refreshs.png", "/images/arrowup.png", "/images/cross.png", "/images/about.png", "/images/glasses.png", "/images/oldmenu.png", "/images/annoying.png", "/images/feedyout.png", "/images/feedim.png", "/images/menu_ic.png", "/images/menu_instead.png", "/images/feedicons.png", "/images/facebook_logo_white.png", "/images/notifmenu.png", "/images/logooldmen.png", "/images/enablebutton.png", "google_analytics.js", "http://fonts.googleapis.com/" ]
+}

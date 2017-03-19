@@ -1,0 +1,37 @@
+{
+   "background": {
+      "scripts": [ "scripts/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "images/icon19.png",
+         "38": "images/icon38.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "Usersnap"
+   },
+   "commands": {
+      "_execute_browser_action": {
+         "suggested_key": {
+            "chromeos": "Alt+U",
+            "linux": "Alt+U",
+            "mac": "Alt+U",
+            "windows": "Alt+U"
+         }
+      }
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDescription__",
+   "icons": {
+      "128": "images/icon128.png",
+      "16": "images/icon16.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAh9xwbIaPTCliXihJy4g7QWgaahBFQECYYF1npUKwlNwk0xza2EaY4IwfNluQsQ0DWHR/lzx34JyPXgHVOGpveKNENyE4NiSm4ZYhHzCYvVsii3lpE0s0s2Ox9xWMddi+AFMOPbeEL+PenFD7z2rdFq4uL5to8PPUOmwTkU5UwnSXFwxxGnTi3e1VldGOPMflgQGLpNVXOmdYHIjWUC99B6Fi7fnMMTqVV4i3xgl3oPiCSZqm4fd0SBKtsYX0pdTgGjQfyR8x3cjWCiL49aW1Q89XPoYY4Yolky2ms59JPHFbr9t/JRzoYztexS+eRMEoXld2H2z0noK0xmyA+ovvWwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "options_page": "options.html",
+   "permissions": [ "tabs", "activeTab", "storage", "https://*.usersnap.com/*", "http://*.usersnap.com/*", "identity" ],
+   "short_name": "Usersnap",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.9"
+}

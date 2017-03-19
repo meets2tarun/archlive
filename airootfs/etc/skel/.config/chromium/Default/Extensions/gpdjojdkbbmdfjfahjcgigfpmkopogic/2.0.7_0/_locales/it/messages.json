@@ -1,0 +1,42 @@
+{
+   "errorPin": {
+      "description": "The error message seen when an image can't be pinned",
+      "message": "Spiacenti! non puoi salvare questa immagine."
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Salva i contenuti che trovi sul Web."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Pulsante Salva di Pinterest"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Nascondi pulsanti Salva a comparsa"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Opzioni del pulsante Salva"
+   },
+   "saveAction": {
+      "description": "Appears in the right-click-to-save menu item",
+      "message": "Salva"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Cerca"
+   },
+   "welcomeBody": {
+      "description": "Body of the pop-up welcome message",
+      "message": "Mentre navighi sul Web, vedrai i pulsanti Salva ogni volta che passi il mouse su le immagini. Se non vuoi più vedere questi pulsanti, puoi disattivarli facilmente. Fai clic su questa notifica e scopri come disattivarli."
+   },
+   "welcomeLink": {
+      "description": "The link (currently a help article) opened by clicking on the pop-up welcome message",
+      "message": "https://help.pinterest.com/articles/add-pin-it-button-your-browser?source=chrome_pib_education#Web"
+   },
+   "welcomeTitle": {
+      "description": "Title of the pop-up welcome message",
+      "message": "Pulsante Salva di Pinterest per Chrome"
+   }
+}

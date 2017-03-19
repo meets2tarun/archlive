@@ -1,0 +1,5 @@
+[Default Applications]
+image/jpeg=eog.desktop
+
+[Added Associations]
+image/jpeg=eog.desktop;

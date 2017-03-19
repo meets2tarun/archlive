@@ -1,0 +1,42 @@
+{
+  "extName" : {
+    "message" : "Button na I-save ng Pinterest",
+    "description" : "The extension's title, seen in gallery and extensions page"
+  },
+  "extDescription" : {
+    "message" : "I-save ang mga bagay na mahahanap mo sa Web.",
+    "description" : "The extension's description, seen in gallery and extensions page"
+  },
+  "saveAction" : {
+    "message" : "I-save",
+    "description" : "Appears in the right-click-to-save menu item"
+  },
+  "searchAction" : {
+    "message" : "Maghanap",
+    "description" : "Appears in the right-click-to-search menu item"
+  },
+  "welcomeTitle" : {
+    "message" : "Button na I-save ng Pinterest para sa Chrome",
+    "description" : "Title of the pop-up welcome message"
+  },
+  "welcomeBody" : {
+    "message" : "Habang bina-browse mo ang web, makikita mo ang mga button na I-save kapag inilagay mo ang iyong mouse sa mga larawan. Kung ayaw mong makita ang mga ito, maaari mong i-off ang mga ito. I-click ang notification na ito para alamin kung paano.",
+    "description" : "Body of the pop-up welcome message"
+  },
+  "welcomeLink" : {
+    "message" : "https://help.pinterest.com/articles/add-pin-it-button-your-browser?source=chrome_pib_education#Web",
+    "description" : "The link (currently a help article) opened by clicking on the pop-up welcome message"
+  },
+  "errorPin" : {
+    "message" : "Pasensya na, hindi ma-save ang larawan na ito.",
+    "description" : "The error message seen when an image can't be pinned"
+  },
+  "optionTitle" : {
+    "message" : "Mga opsyon ng I-save na button",
+    "description" : "Title for the Options page"
+  },
+  "optionHide" : {
+    "message" : "Itago ang mga button na I-save para sa pag-hover",
+    "description" : "Text next to the checkbox that turns off hoverbuttons"
+  }
+}

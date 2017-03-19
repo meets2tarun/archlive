@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+    <head lang="en">
+        <meta charset="UTF-8">
+
+        <link rel="stylesheet" href="assets/stylesheets/OpenSans.css">
+
+        <link  rel="stylesheet" href="assets/stylesheets/reset.css" media="all">
+        <link  rel="stylesheet" href="assets/stylesheets/popup.css" media="all">
+        <link  rel="stylesheet" href="assets/stylesheets/animate.css" media="screen">
+        <link  rel="stylesheet" href="assets/stylesheets/pageTransitions.css" media="screen">
+
+        <script type="text/javascript" src="jquery.js"></script>
+        <script type="text/javascript" src="popup.js"></script>
+    </head>
+    <body>
+        <div id="main" class="b-ext-wrapper m-scene">
+            <div class="b-premium-popup">
+                <header class="b-premium-popup--header">
+                    Browsec Premium
+                    <div class="b-close-popup b-ico-x js-close-popup"></div>
+                </header>
+                <div class="b-premium-popup--content">
+                    <div class="b-premium-advantages">
+                        <div class="b-premium-advantage b-premium-advantage__morecountries">
+                            <div class="b-premium-advantage--title">Premium locations</div>
+                            <p>Access the Internet via additional Premium locations.</p>
+                        </div>
+                        <div class="b-premium-advantage b-premium-advantage__fastspeed">
+                            <div class="b-premium-advantage--title">Turbo speed</div>
+                            <p>Premium users enjoy dedicated traffic lanes.</p>
+                        </div>
+                        <div class="b-premium-advantage b-premium-advantage__servers">
+                            <div class="b-premium-advantage--title">Premium servers</div>
+                            <p>Our best-in-class servers guarantee top performance.</p>
+                        </div>
+                    </div>
+                    <a href="#" class="b-premium-link js-premium-link">
+                        Get Premium now!
+                    </a>
+                </div>
+            </div>
+            <header class="b-ext-header">
+                <div class="b-ext-logo">
+                    <img class="b-logo__premium-user" src="assets/images/ext-logo.png" width="142" height="46" />
+                    <img class="b-logo__free-user" src="assets/images/ext-logo-wo-premium.png" width="142" height="46" />
+                </div>
+                <div class="b-account">
+                    <span class="b-account--progress">
+                        <span class="dot"></span>
+                        <span class="dot"></span>
+                        <span class="dot"></span>
+                    </span>
+                    <div class="b-account--logout">
+                        <span class="b-logout--email" data-var="email"></span>
+                        <span class="b-logout b-ico-logout js-logout"></span>
+                    </div>
+                    <div class="b-account--login">
+                        <a href="login.html" class="no-smoothState">Sign in</a>
+                    </div>
+                </div>
+            </header>
+            <div class="b-ext-container scene_element scene_element--fadein">
+                <!-- CHANGE LOCATION -->
+                <div data-page="change-location" class="b-content">
+                    <div class="b-aside b-aside__fixed">
+                        <span class="b-font20">Change virtual location</span>
+                        <p>Choose your virtual location and access any content that wasn’t available otherwise.</p>
+                    </div>
+
+                    <div class="b-location-wrapper">
+                      <h3 class="b-location-wrapper--caption b-location-wrapper--caption__free">Free servers</h3>
+                      <ul class="b-location-list b-location-list__free" data-premium="false"></ul>
+                      <h3 class="b-location-wrapper--caption b-location-wrapper--caption__premium">Premium servers</h3>
+                      <ul class="b-location-list b-location-list__premium" data-premium="true"></ul>
+                    </div>
+                    <template id="location-item">
+                        <!-- classes: js-call-premium, js-change-location, <none> -->
+                        <li class="b-location">
+                            <img class="b-country" src="assets/images/flags/zz.png" width="30" height="20">
+                            <span class="b-item-name">Unknown Country</span>
+                            <!-- modifiers: current, premium, change -->
+                            <span class="b-location--status">Status</span>
+                        </li>
+                    </template>
+                </div>
+                <!-- /CHANGE LOCATION -->
+            </div>
+            <footer class="b-ext-footer">
+                <ul class="b-ext-menu">
+                  <li class="b-ext-menu--item b-ico-home"><a href="popup.html">Home</a></li>
+                  <li class="b-ext-menu--item b-ico-location b-ext-menu--item__current">Change location</li>
+                  <li class="b-ext-menu--item b-ico-support"><a class="b-footer-link link-contactus" href="#">Contact us</a></li>
+                </ul>
+                <label class="b-switch js-switch">
+                    <input class="b-switch-input" type="checkbox">
+                    <span class="b-switch-label" data-off="Off" data-on="On"></span>
+                    <span class="b-switch-handle"></span>
+                </label>
+            </footer>
+        </div>
+        <script src="jquery.smoothState.js"></script>
+        <script src="animate.js"></script>
+    </body>
+</html>

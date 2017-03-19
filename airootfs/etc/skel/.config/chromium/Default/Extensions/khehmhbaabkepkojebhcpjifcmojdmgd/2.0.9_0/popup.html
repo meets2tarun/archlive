@@ -1,0 +1,127 @@
+<!doctype html>
+<html ng-app="us-chrome" class="us-popup">
+
+<head>
+  <meta charset="utf-8">
+
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+  <link rel="stylesheet" href="styles/vendor.css"/>
+  <link rel="stylesheet" href="styles/main.css"/>
+</head>
+
+<body ng-controller="us-popup-controller">
+  <us-login ng-if="data.mode === 'unauthenticated'"
+    show-header="true" popup="true"
+    on-authenticated="data.mode = 'authenticated'; loadProjects(true);">
+  </us-login>
+
+  <md-card class="us-card us-project-card" ng-if="data.mode === 'authenticated'" disabled="!data.projects.$resolved">
+    <us-card-loading ng-if="!data.projects.$resolved"></us-card-loading>
+    <md-toolbar>
+      <div class="md-toolbar-tools">
+        <img src="../images/icon128-white.png" class="us-logo">
+        <h4 flex>
+          Take Screenshot
+        </h4>
+        <md-menu md-position-mode="target-right target">
+          <md-button class="md-icon-button" ng-click="$mdOpenMenu($event)">
+            <md-icon>more_vert</md-icon>
+          </md-button>
+          <md-menu-content>
+            <md-menu-item>
+              <md-button ng-click="openSettings()">
+                <md-icon>settings</md-icon>
+                Settings
+              </md-button>
+            </md-menu-item>
+            <md-menu-item>
+              <md-button ng-click="changeUser()">
+                <md-icon>person_outline</md-icon>
+                Sign Out
+              </md-button>
+            </md-menu-item>
+          </md-menu-content>
+        </md-menu>
+      </div>
+    </md-toolbar>
+    <md-card-content>
+      <form name="projectForm" ng-if="data.projects.length > 0">
+        <md-input-container>
+          <label>Project</label>
+          <md-select ng-model="settings.project" md-container-class="us-popup-project-select">
+            <md-option ng-value="project.id" ng-repeat="project in data.projects">{{project.productname}}</md-option>
+          </md-select>
+        </md-input-container>
+        <md-switch ng-model="settings.alwaysUseProject" class="md-primary">
+          Always use this project
+        </md-switch>
+      </form>
+
+
+      <div ng-if="data.projects.length === 0" layout="row" layout-align="space-between center">
+        <md-content class="md-body-1">
+          <b>No projects yet</b>
+          <br/>
+          Please create one in the <a href="{{data.dashboardUrl}}" target="_blank">Usersnap Dashboard...</a>
+        </md-content>
+        <div>
+          <md-button class="md-fab md-mini md-primary" ng-click="loadProjects(true)">
+            <md-icon>refresh</md-icon>
+          </md-button>
+        </div>
+      </div>
+    </md-card-content>
+    <md-divider></md-divider>
+    <div class="md-actions" layout="row" layout-align="space-between center">
+      <div></div>
+      <div>
+        <md-button ng-if="data.projects.length > 0" class="md-raised md-primary" ng-click="submitScreen($event)">
+          <md-icon>camera</md-icon>
+          Capture
+        </md-button>
+      </div>
+    </div>
+  </md-card>
+
+  <md-card class="us-card us-apikey-card" ng-if="data.mode === 'apikey'">
+    <md-toolbar>
+      <div class="md-toolbar-tools">
+        <md-button class="md-tools" ng-click="showLogin()">
+          <md-icon>arrow_back</md-icon>
+        </md-button>
+        <h4 md-header-title flex>
+          API Key Setting
+        </h4>
+      </div>
+    </md-toolbar>
+    <md-card-content>
+      <form name="apikeyForm" ng-submit="checkApikey()">
+        <md-input-container>
+          <label>API Key</label>
+          <input type="text" name="apikey" ng-model="settings.apikey" required pattern="[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}">
+          <div ng-if="apikeyForm.apikey.$dirty" ng-messages="apikeyForm.apikey.$error">
+            <div ng-message="required">Please provide an API Key.</div>
+            <div ng-message="pattern">Please provide a valid
+              <span>API Key
+                <md-tooltip>e.g. <i>012345678-9abc-def0-1234-56789abcdef0</i></md-tooltip>
+              </span>.</div>
+          </div>
+        </md-input-container>
+
+        <div class="md-actions" layout="row" layout-align="end center">
+          <div>
+            <md-button class="md-raised md-primary" ng-click="saveApikey($event)">Save</md-button>
+          </div>
+        </div>
+      </form>
+    </md-card-content>
+
+  </md-card>
+
+  <script src="scripts/vendor.js"></script>
+
+  <script src="scripts/popup.js"></script>
+</body>
+
+</html>

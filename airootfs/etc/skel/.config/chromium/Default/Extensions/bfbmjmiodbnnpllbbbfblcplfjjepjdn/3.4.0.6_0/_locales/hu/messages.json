@@ -1,0 +1,1290 @@
+{
+   "about": {
+      "description": "Névjegy",
+      "message": "Névjegy"
+   },
+   "addbutton": {
+      "description": "Add hozzá",
+      "message": "Hozzáadása"
+   },
+   "advancedoptions": {
+      "description": "A speciális beállítások",
+      "message": "Haladó beállítások"
+   },
+   "areyouhappy": {
+      "description": "Örülsz a Turn Off The Lights-nak?",
+      "message": "Örülsz a Turn Off The Lights-nak?"
+   },
+   "basicsettings": {
+      "description": "Alapjai",
+      "message": "Alapok"
+   },
+   "bottom": {
+      "description": "alsó",
+      "message": "lent"
+   },
+   "changelog": {
+      "description": "changelog link",
+      "message": "Változások"
+   },
+   "deletebutton": {
+      "description": "Törlése",
+      "message": "Törlés"
+   },
+   "des1checkmotion": {
+      "description": "Biztosítsa, hogy szobája ne legyen sötét, és legyen elég fény.",
+      "message": "Biztosítsa, hogy szobája ne legyen sötét, és legyen elég fény."
+   },
+   "des2checkmotion": {
+      "description": "A kamerát nem érheti közvetlen napfény.",
+      "message": "A kamerát nem érheti közvetlen napfény."
+   },
+   "des3checkmotion": {
+      "description": "Ön előre néző kamerát használ.",
+      "message": "Ön előre néző kamerát használ."
+   },
+   "desaddvideobutton": {
+      "description": "A Hozzáadás gombra a YouTube videók megjelenítése.",
+      "message": "YouTube videók \"Hozzáadás\" gombjának megjelenítése."
+   },
+   "desalllightsoff": {
+      "description": "A lámpa gombra kattintva ki/be kapcsolhatja az összes megnyitott fül megvilágítását",
+      "message": "A lámpa gombra kattintva ki/be kapcsolhatja az összes megnyitott fül megvilágítását"
+   },
+   "desambilight": {
+      "description": "Megmutatja az aktuális videolejátszás hangulat világítás hatása.",
+      "message": "Az éppen lejátszott videó hangulatvilágításának megjelenítése"
+   },
+   "desambilight4color": {
+      "description": "4 választott színek, ezen a környéken: a videó:",
+      "message": "Négy kiválasztott szín a videó körül:"
+   },
+   "desambilightfixcolor": {
+      "description": "Háttérszín:",
+      "message": "Egyszínű:"
+   },
+   "desambilightrangeblurradius": {
+      "description": "Alacsonyabb értékek élesítik az árnyékokat, míg a magasabb értékek még elmosottabbá teszik.",
+      "message": "Alacsonyabb értékek élesítik az árnyékokat, míg a magasabb értékek még elmosottabbá teszik."
+   },
+   "desambilightrangespreadradius": {
+      "description": "A pozitív értékek az árnyék méretének növelése, a negatív érték csökkenti a méretét.",
+      "message": "A pozitív érték növeli, a negatív érték csökkenti az árnyék méretét."
+   },
+   "desambilightvarcolor": {
+      "description": "Hogy a szín a video.",
+      "message": "A videó színének használata."
+   },
+   "desapitext": {
+      "description": "Wiki API Web-fejlesztőnek",
+      "message": "Wiki API Web-fejlesztőnek"
+   },
+   "desatmosphereonly": {
+      "description": "Használja a hangulat világítás funkció csak a következő video telek:",
+      "message": "A hangulat világítás funkciót csak ezeken a videónézegető oldalakon használja:"
+   },
+   "desatmosvivid": {
+      "description": "Élénk légkör effekt a YouTube-on, igényel",
+      "message": "Élénk légkör effekt a YouTube-on, igényel"
+   },
+   "desauroraplayer": {
+      "description": "A környezeti világítás lejátszó a számítógépednek is elérhető.",
+      "message": "A környezeti világítás lejátszó a számítógépednek is elérhető."
+   },
+   "desautoplay": {
+      "description": "Automatikusan homályos a háttér, ha rákattint a play gombot, és szemben.",
+      "message": "Automatikusan elsötétül a háttér, ha rákattint a YouTube-ban a play gombra."
+   },
+   "desautoplaydelay": {
+      "description": "Legyen újra világos a háttér miután vége a videónak",
+      "message": "Legyen újra világos a háttér miután vége a videónak"
+   },
+   "desautoplaydelayend": {
+      "description": "másodperc",
+      "message": "másodperc"
+   },
+   "desautoplayonly": {
+      "description": "Dim a következő videóinak hely(ek):",
+      "message": "Csak a következő videónézegető oldalak elsötétítése:"
+   },
+   "desautostop": {
+      "description": "Autómatikusan állítsa le a videót ha megnyitok egy weboldalt",
+      "message": "Autómatikusan állítsa le a videót ha megnyitok egy weboldalt"
+   },
+   "desautostoponly": {
+      "description": "Csak az alábbi oldalakon aktiválja az autómatikus videómegállítást:",
+      "message": "Csak az alábbi oldalakon aktiválja az autómatikus videómegállítást:"
+   },
+   "desbrowserextension": {
+      "description": "böngésző bővítmény",
+      "message": "böngésző bővítmény"
+   },
+   "desbrowsersupport": {
+      "description": "Ez a böngésző még nem támogatja ezt a szolgáltatást. Ellenőrizze, hogy a legfrissebb böngésző verzió van telepítve számítógépére.",
+      "message": "Ez a böngésző még nem támogatja ezt a szolgáltatást. Ellenőrizze, hogy a legfrissebb böngésző verzió van telepítve számítógépére."
+   },
+   "desbrowsertheme": {
+      "description": "böngésző téma",
+      "message": "böngésző téma"
+   },
+   "descammotiononly": {
+      "description": "Kamera mozgás aktiválása csak a következő oldalakon:",
+      "message": "Kamera mozgás aktiválása csak a következő oldalakon:"
+   },
+   "desconfirmpassword": {
+      "description": "Jelszó megerősítése",
+      "message": "Jelszó megerősítése"
+   },
+   "desconfirmtime": {
+      "description": "Idő megerősítése",
+      "message": "Idő megerősítése"
+   },
+   "desconfirmtimesaver": {
+      "description": "Ellenőrizze a képernyő megmentő idő",
+      "message": "Erősítse meg a képernyővédő idejét:"
+   },
+   "descontextmenus": {
+      "description": "Azt mutatják, a helyi menüből egy elemet a hangsúly.",
+      "message": "Helyi menü megjelenítése, hogy egy elemre fókuszáljon"
+   },
+   "description": {
+      "description": "The entire page will be fading to dark, so you can watch the videos as if you were in the cinema.",
+      "message": "The entire page will be fading to dark, so you can watch the videos as if you were in the cinema."
+   },
+   "desdynamicblocks": {
+      "description": "Blokkok",
+      "message": "Tömbök"
+   },
+   "desdynamiccloud": {
+      "description": "Animált felhők",
+      "message": "Animált Felhők"
+   },
+   "desdynamicdotscolor": {
+      "description": "Szín Pontok",
+      "message": "Szín Pontok"
+   },
+   "desdynamicfishtank": {
+      "description": "Fish Tank",
+      "message": "Akvárium"
+   },
+   "desdynamicraindrops": {
+      "description": "Esőcseppek",
+      "message": "Esőcseppek"
+   },
+   "desdynamicsmoke": {
+      "description": "Füst",
+      "message": "Füst"
+   },
+   "desdynamicspace": {
+      "description": "Hely világegyetem",
+      "message": "Világűr"
+   },
+   "desdynamicstars": {
+      "description": "Csillagok",
+      "message": "Csillagok"
+   },
+   "desdynamicstorm": {
+      "description": "Vihar",
+      "message": "Vihar"
+   },
+   "desdynamictriangulation": {
+      "description": "Háromszögelés",
+      "message": "Háromszögelés"
+   },
+   "deseastereggs": {
+      "description": "Nyomja meg a \"T\" gombot, hogy a színházi függönyt hozzáadja a sötét réteghez",
+      "message": "Nyomja meg a \"T\" gombot, hogy a színházi függönyt hozzáadja a sötét réteghez"
+   },
+   "desenterpassword": {
+      "description": "Írja be jelszavát az alábbi mezőbe:",
+      "message": "Írja be jelszavát az alábbi mezőbe:"
+   },
+   "deseyea": {
+      "description": "Autómatikusan elhalványítja a hátteret, amikor megnyit egy weboldalt",
+      "message": "Autómatikusan elhalványítja a hátteret, amikor megnyit egy weboldalt"
+   },
+   "deseyealist": {
+      "description": "Autómatikusan elhalványítja a hátteret az alábbi oldalakon:",
+      "message": "Autómatikusan elhalványítja a hátteret az alábbi oldalakon:"
+   },
+   "deseyen": {
+      "description": "Normál használat (fények kikapcsolnak amikor a lámpa ikonra kattint)",
+      "message": "Normál használat (fények kikapcsolnak amikor a lámpa ikonra kattint)"
+   },
+   "deseyetimesaver": {
+      "description": "Ha egy oldal nem aktív (nincs egér vagy billentyűzet bemenet) az alább meghatározott alkalommal automatikusan sötétít.",
+      "message": "Ha egy oldal nem aktív (nincs egér vagy billentyűzet bemenet) az alább meghatározott alkalommal automatikusan sötétít."
+   },
+   "desfadein": {
+      "description": "A Halványítás azt mutatják, a hatás.",
+      "message": "Fade in hatás bekapcsolva.(Áttünés bekapcsoláskor)"
+   },
+   "desfadeout": {
+      "description": "A fade out hatását mutatják.",
+      "message": "Fade out hatás bekapcsolva.(Áttünés kikapcsolásokor)"
+   },
+   "desflash": {
+      "description": "Minden Flash objektumok megjelenítése.",
+      "message": "Az összes Flash tartalom megjelenítése."
+   },
+   "deshardflash": {
+      "description": "Mutat minden Flash objektumok, kihagyom az URL-szűrő. Ez akarat erősít a probléma-val némely video játékosok lét rejtett, de is jelennek meg a hirdetések.",
+      "message": "Minden Flash objektum mutatása, ezzel kihagyja az URL-szűrőt. Megoldja néhány rejtett videólejátszó problémáját, de a hirdetések így megjelennek."
+   },
+   "deshead": {
+      "description": "A YouTube Channel bar vagy a név megjelenítése.",
+      "message": "YouTube csatorna sávjának és nevének megjelenítése."
+   },
+   "desinfobar": {
+      "description": "A Leírás információk megjelenítése a videó.",
+      "message": "A videóval kapcsolatos információk megjelenítése."
+   },
+   "deslampandnightmode": {
+      "description": "Aktiválja az 'Éjjeli Mód' beállítást amikor a szürke lámpára kattint",
+      "message": "Aktiválja az 'Éjjeli Mód' beállítást amikor a szürke lámpára kattint"
+   },
+   "deslikebar": {
+      "description": "A következő szálláshely a tetszik/nem szeret bar alá YouTube videók.",
+      "message": "A YouTube videók alatt a tetszik/nem tetszik sáv mutatása."
+   },
+   "deslikebutton": {
+      "description": "Térkép hasonló & nem tetszik ez a videó a YouTube-on gombok.",
+      "message": "Tetszik és nem tetszik gombok megjelenítése az adott YouTube videónál."
+   },
+   "desmobileapp": {
+      "description": "A Turn Off the Lights már mobil készüléken is elérhető.",
+      "message": "A Turn Off the Lights már mobil készüléken is elérhető."
+   },
+   "desmotion": {
+      "description": "Engedélyezi a kameramozgás",
+      "message": "Engedélyezi a kameramozgás"
+   },
+   "desmotionChecklist": {
+      "description": "Ellenőrzőlista:",
+      "message": "Ellenőrzőlista:"
+   },
+   "desmousespotlighta": {
+      "description": "Ha a fény nem világít, megjelenítése az egérmutató körüli reflektorfénybe.",
+      "message": "Ha a fények le vannak oltva, pontfényt jelenít meg a kurzor körül."
+   },
+   "desmousespotlightc": {
+      "description": "Ha a fény nem világít, egy olyan terület, a hangsúly a cikk is kiválaszthat.",
+      "message": "Ha a fények le vannak oltva, kijelölhet egy területet egy elemre való fókuszáláshoz."
+   },
+   "desmousespotlighto": {
+      "description": "Rendeltetésszerű használat (letiltja az egér beállításait az alábbi)",
+      "message": "Rendeltetésszerű használat (letiltja az alábbi egérbeállításokat)"
+   },
+   "desmousespotlightt": {
+      "description": "Megengedi a hivatkozásokra való kattintást, amikor a képernyő elsötétült",
+      "message": "Megengedi a hivatkozásokra való kattintást, amikor a képernyő elsötétült"
+   },
+   "desnightactivetime": {
+      "description": "A kapcsoló az alábbi időpontokban lesz látható:",
+      "message": "A kapcsoló az alábbi időpontokban lesz látható:"
+   },
+   "desnightenabletheme": {
+      "description": "Új oldal megnyitásakor automatikus átváltás Éjjeli üzemmódba.",
+      "message": "Új oldal megnyitásakor automatikus átváltás Éjjeli üzemmódba."
+   },
+   "desnighthover": {
+      "description": "Egy átlátszó kapcsolót mutat a weblapon",
+      "message": "Egy átlátszó kapcsolót mutat a weblapon"
+   },
+   "desnightonly": {
+      "description": "Az Éjjeli üzemmód csak a következő oldal(ak)on jelenjen meg:",
+      "message": "Az Éjjeli üzemmód csak a következő oldal(ak)on jelenjen meg:"
+   },
+   "desnighttheme": {
+      "description": "Az Éjjeli üzemmód kapcsológombjának megjelenítése a weblap alatt az oldal sötétté vagy világossá tételéhez.",
+      "message": "Az Éjjeli üzemmód kapcsológombjának megjelenítése a weblap alatt az oldal sötétté vagy világossá tételéhez."
+   },
+   "desnoflash": {
+      "description": "Ne használja ezt a funkciót.",
+      "message": "Ne használja ezt a szolgáltatást."
+   },
+   "despassword": {
+      "description": "Kérhetünk jelszót kell beírni, mielőtt fordult a fények.",
+      "message": "Jelszó beírása szükséges a fények visszakapcsolása előtt."
+   },
+   "desplaylist": {
+      "description": "A YouTube egy lejátszási listát mutat a YouTube honlapján.",
+      "message": "YouTube playlist megjelenítése YouTube honlapján."
+   },
+   "desproject": {
+      "description": "projekt",
+      "message": "projekt"
+   },
+   "desreadera": {
+      "description": "Mindig mutat a homályos szint bár, amikor a lámpák kialszanak.",
+      "message": "Homály szint sáv megjelenítése mikor a fények kialszanak."
+   },
+   "desreadern": {
+      "description": "Soha nem mutatják a homályos szint bár.",
+      "message": "Sose mutasd homály szint sávot."
+   },
+   "desreflection": {
+      "description": "Mutassa a visszaverődés hatást az összes videón",
+      "message": "Mutassa a visszaverődés hatást az összes videón"
+   },
+   "desrememberpage": {
+      "description": "Ne mutassa az emlékeztető oldalt",
+      "message": "Ne mutassa az emlékeztető oldalt"
+   },
+   "dessaver": {
+      "description": "Képernyőkímélő:",
+      "message": "Képernyőkímélő:"
+   },
+   "dessharebutton": {
+      "description": "Azt mutatják, ez a videó a YouTube részesedése gombjai.",
+      "message": "Megosztás gomb megjelenítése YouTube videó lejátszása közben."
+   },
+   "desshortcutlight": {
+      "description": "Engedélyezi a lenti billentyűparancsokat.",
+      "message": "Engedélyezi az alábbi billentyűparancsokat."
+   },
+   "desspeech": {
+      "description": "Ha engedélyezi ezt az opciót, beszélhet a böngésző lámpához, és a következő parancsokat mondhatja ki:",
+      "message": "Ha engedélyezi ezt az opciót, beszélhet a böngésző lámpához, és a következő parancsokat mondhatja ki:"
+   },
+   "desspeech1command": {
+      "description": "kapcsold ki a fényeket",
+      "message": "kapcsold ki a fényeket"
+   },
+   "desspeech2command": {
+      "description": "világítás felkapcs",
+      "message": "világítás felkapcs"
+   },
+   "desspeech3command": {
+      "description": "videó lejátszása",
+      "message": "videó lejátszása"
+   },
+   "desspeech4command": {
+      "description": "megállítás",
+      "message": "megállítás"
+   },
+   "desspeech5command": {
+      "description": "böngésző lámpa",
+      "message": "böngésző lámpa"
+   },
+   "desspeechdialect": {
+      "description": "Válassza ki a nyelvet:",
+      "message": "Válassza ki a nyelvet:"
+   },
+   "desspeechonly": {
+      "description": "Beszédfelismerés aktiválása csak a következő oldal(ak)on:",
+      "message": "Beszédfelismerés aktiválása csak a következő oldal(ak)on:"
+   },
+   "desspotlightradius": {
+      "description": "Reflektorfény átmérője:",
+      "message": "Reflektorfény átmérője:"
+   },
+   "dessuggestions": {
+      "description": "Show javaslatok a YouTube honlapján.",
+      "message": "Javaslatok megjelenítése a YouTube honlapján."
+   },
+   "destime": {
+      "description": "Villanyt között a következő időpontokban:",
+      "message": "Fények kikapcsolva a következő időpontok között:"
+   },
+   "destrymotion": {
+      "description": "Ez egyszerűen óriási, és a legjobb az egészben, hogy mindenhol működik. Még a YouTube-on, a hírportálokon, stb. is.",
+      "message": "Ez egyszerűen óriási, és a legjobb az egészben, hogy mindenhol működik. Még a YouTube-on, a hírportálokon, stb. is."
+   },
+   "desuntil": {
+      "description": "-ig",
+      "message": "-ig"
+   },
+   "desvideoheadline": {
+      "description": "Térkép, és fordítsa meg a színét a videó címe.",
+      "message": "Lejátszás közben megjeleníti a videó címét"
+   },
+   "desvideotool": {
+      "description": "A képernyője alatt mutatja az eszköztárat, hogy testreszabhassa a jelenlegi videó lejátszóját",
+      "message": "A képernyője alatt mutatja az eszköztárat, hogy testreszabhassa a jelenlegi videó lejátszóját"
+   },
+   "desvideotoolonly": {
+      "description": "Csak az alábbi oldalakon aktiválja a Videó Eszköztárat:",
+      "message": "Csak az alábbi oldalakon aktiválja a Videó Eszköztárat:"
+   },
+   "desvideovolume": {
+      "description": "Szabályozza a jelenlegi videó lejátszójának hangerejét az egér görgőjével",
+      "message": "Szabályozza a jelenlegi videó lejátszójának hangerejét az egér görgőjével"
+   },
+   "desvideovolumecolor": {
+      "description": "Csúszka színe",
+      "message": "Csúszka színe"
+   },
+   "desviewcount": {
+      "description": "Azt mutatják, ez a videó a száma.",
+      "message": "Nézet, így ez a videó számának megjelenítése."
+   },
+   "desvisopacity": {
+      "description": "A hang vizualizációs háttér átlátszóságának értéke",
+      "message": "A hang vizualizációs háttér átlátszóságának értéke"
+   },
+   "desvolumelabel": {
+      "description": "Mutassa a kötetcimkét",
+      "message": "Mutassa a kötetcimkét"
+   },
+   "desvolumesteps": {
+      "description": "A szint száma minden egyes 360° görgetésnek",
+      "message": "A szint száma minden egyes 360° görgetésnek"
+   },
+   "donatepromotext": {
+      "description": "Ha tudod, hogy bármely összeg adományozása, nagyon örülnék!",
+      "message": "Ha adakozna bármennyi összeget, végtelenül örölnék neki!"
+   },
+   "downloadtheapp": {
+      "description": "Töltse le az alkalmazást most",
+      "message": "Töltse le az alkalmazást most"
+   },
+   "eastereggsquestion": {
+      "description": "Tetszik Önnek a valódi mozi?",
+      "message": "Tetszik Önnek a valódi mozi?"
+   },
+   "enjoyshare": {
+      "description": "Élvezze ezt a kiterjesztést, és ossza meg másokkal, aki úgy gondolja, akarat méltányol ez.",
+      "message": "Élvezze ezt a bővítményt, és ossza meg olyanokkal, akik véleménye szerint szintén méltányolnák."
+   },
+   "eyedivoff": {
+      "description": "KI",
+      "message": "KI"
+   },
+   "eyedivon": {
+      "description": "A",
+      "message": "BE"
+   },
+   "flashembedobject": {
+      "description": "Támogatás: \u003Cobject>, \u003Cembed>, \u003Capplet>, \u003Ciframe>.",
+      "message": "Támogatás: \u003Cobject>, \u003Cembed>, \u003Capplet>, \u003Ciframe>."
+   },
+   "friendlyremember": {
+      "description": "Barátságos emlékeztető...",
+      "message": "Barátságos emlékeztető..."
+   },
+   "guide": {
+      "description": "Üdvözöljük TOtL útmutató",
+      "message": "TOtL Üdvözlő útmutató"
+   },
+   "help": {
+      "description": "Súgó",
+      "message": "Súgó"
+   },
+   "helpautoplay": {
+      "description": "Szem védelme engedélyezve van. Használja az alábbi funkció, az opciót \"Szem védelme\".",
+      "message": "A \"Szemvédelem\" engedélyezve van. Az alábbi funkció használatához kapcsolja ki a \"Szemvédelem\" opciót."
+   },
+   "helpeyeprotection": {
+      "description": "\"Szem védelme\" engedélyezése automatikusan letiltja a az \"Auto-play\" funkció.",
+      "message": "A \"Szemvédő\" engedélyezésével automatikusan letiltódik az \"Automatikus lejátszás\" funkció."
+   },
+   "hoveroptionapply": {
+      "description": "alkalmazása",
+      "message": "alkalmaz"
+   },
+   "hoveroptiondyn5": {
+      "description": "a repülő",
+      "message": "hagyja repülni"
+   },
+   "howworkmotion": {
+      "description": "Hogyan működik?",
+      "message": "Hogyan működik?"
+   },
+   "html5andyoutube": {
+      "description": "HTML5 & YouTube ™ videó",
+      "message": "HTML5 & YouTube ™ videó"
+   },
+   "installadblocker": {
+      "description": "Ha nem akar reklámokat, használjon egy adblocker kiterjesztést.",
+      "message": "Ha nem akar reklámokat, használjon egy adblocker kiterjesztést."
+   },
+   "lastchecked": {
+      "description": "Legújabb verzió ellenőrizve",
+      "message": "Legújabb verzió ellenőrizve"
+   },
+   "left": {
+      "description": "bal",
+      "message": "bal"
+   },
+   "lockentername": {
+      "description": "Kérjük, írja be a jelszót",
+      "message": "Kérjük, írja be jelszavát"
+   },
+   "lockwrongpassword": {
+      "description": "Rossz jelszó, legyen szíves megpróbál újra.",
+      "message": "Rossz jelszó, kérlek próbáld meg újra."
+   },
+   "longdonatetext": {
+      "description": "Nagyra értékelném, ha adományával életben tudná tartani ezt a böngésző bővítményt az új felhasználóknak. Függetlenül attól, hogy $$1 vagy 100$$, a támogatását mérhetetlenül nagyra értékelem!",
+      "message": "Nagyra értékelném, ha adományával életben tudná tartani ezt a böngésző bővítményt az új felhasználóknak. Függetlenül attól, hogy $$1 vagy 100$$, a támogatását mérhetetlenül nagyra értékelem!"
+   },
+   "motionoptions": {
+      "description": "Kameramozgás",
+      "message": "Kameramozgás"
+   },
+   "name": {
+      "description": "A villanyt",
+      "message": "Turn Off the Lights"
+   },
+   "nightoptions": {
+      "description": "Éjjeli üzemmód",
+      "message": "Éjjeli üzemmód"
+   },
+   "nmbottomleft": {
+      "description": "Bal alsó",
+      "message": "Bal alsó"
+   },
+   "nmbottomright": {
+      "description": "Jobb alsó",
+      "message": "Jobb alsó"
+   },
+   "nmcustom": {
+      "description": "Egyéni (kattintson, tartsa lenyomva és húzza az önnek megfelelő helyre a kapcsolót)",
+      "message": "Egyéni (kattintson, tartsa lenyomva és húzza az önnek megfelelő helyre a kapcsolót)"
+   },
+   "nmtopleft": {
+      "description": "Bal felső",
+      "message": "Bal felső"
+   },
+   "nmtopright": {
+      "description": "Jobb felső",
+      "message": "Jobb felső"
+   },
+   "nothanks": {
+      "description": "Köszönöm nem",
+      "message": "Köszönöm nem"
+   },
+   "optionecosaversaved": {
+      "description": "Másodperc mentése sikeres!",
+      "message": "Másodpercek mentése sikeres!"
+   },
+   "optionpagetitle": {
+      "description": "A beállítás lap címe",
+      "message": "Turn Off the Lights - Opciók"
+   },
+   "optionpasswordsaved": {
+      "description": "Jelszó mentése sikeres!",
+      "message": "Jelszó sikeresen elmentve!"
+   },
+   "optiontimesaved": {
+      "description": "Idő mentése sikeres!",
+      "message": "Az idő sikeresen elmentve!"
+   },
+   "optionwrongimg": {
+      "description": "Érvénytelen rendszerképfájl!",
+      "message": "Érvénytelen képfájl!"
+   },
+   "pageatitle": {
+      "description": "A villanyt",
+      "message": "A villanyt"
+   },
+   "pagehelp": {
+      "description": "segítség",
+      "message": "súgó"
+   },
+   "pagestillloading": {
+      "description": "Az oldal még mindig tölt?",
+      "message": "Az oldal még mindig tölt?"
+   },
+   "pagetitle": {
+      "description": "Ez az oldal Sötétítés",
+      "message": "Az oldal sötétítése"
+   },
+   "productshare": {
+      "description": "Részvény",
+      "message": "Megosztás"
+   },
+   "ratedes": {
+      "description": "És ismertesse meg mindenkivel ezt a nagyszerű bővítményt!",
+      "message": "És ismertesse meg mindenkivel ezt a nagyszerű bővítményt!"
+   },
+   "rateitema": {
+      "description": "Értékelje 5 csillagosra",
+      "message": "Értékelje 5 csillaggal."
+   },
+   "ratetitle": {
+      "description": "Kérem értékelje és tekintse át bővítményemet",
+      "message": "Kérem értékelje és tekintse át bővítményemet"
+   },
+   "recflash": {
+      "description": "Ajánlott",
+      "message": "Ajánlott"
+   },
+   "rememberrate": {
+      "description": "Arány",
+      "message": "Értékelés"
+   },
+   "reportbug": {
+      "description": "Jelezzen egy problémát",
+      "message": "Jelentse ha problémája van a kiegészítővel"
+   },
+   "reportlist": {
+      "description": "A probléma teljes listájának megtekintéséhez",
+      "message": "Teljes lista a kérdésekkel"
+   },
+   "resetbrowserextension": {
+      "description": "A Turn Off the Lights beállításainak alaphelyzetbe állítása",
+      "message": "A Turn Off the Lights beállításainak alaphelyzetbe állítása"
+   },
+   "right": {
+      "description": "jobb",
+      "message": "jobb"
+   },
+   "settings": {
+      "description": "Beállítások",
+      "message": "Beállítások"
+   },
+   "sharemenudonatetitle": {
+      "description": "A fejlesztés támogatása",
+      "message": "A fejlesztés támogatása"
+   },
+   "sharemenupostonfacebook": {
+      "description": "Megosztás a Facebook-on",
+      "message": "Megosztás a Facebook-on"
+   },
+   "sharemenupostongoogleplus": {
+      "description": "Megosztás a Google +-on",
+      "message": "Megosztás a Google +-on"
+   },
+   "sharemenuratetitle": {
+      "description": "Értékelje ezt a bővítményt",
+      "message": "Értékelje ezt a bővítményt"
+   },
+   "sharemenusendatweet": {
+      "description": "Küldjön egy tweet-et",
+      "message": "Küldjön egy tweet-et"
+   },
+   "sharemenusharetitle": {
+      "description": "Ossza meg",
+      "message": "Ossza meg"
+   },
+   "sharemenutellafriend": {
+      "description": "Ajánlja ismerősének",
+      "message": "Ajánlja ismerősének"
+   },
+   "sharemenuwelcomeguidetitle": {
+      "description": "Üdvözlő útmutató",
+      "message": "Üdvözlő útmutató"
+   },
+   "sharetexta": {
+      "description": "Szerezd meg ezt a király Turn Off the Lights böngésző bővítményt",
+      "message": "Szerezd meg ezt a király Turn Off the Lights böngésző bővítményt"
+   },
+   "sharetextb": {
+      "description": "Ez lenyűgöző. Az előbb próbáltam ki a Turn Off the Lights bővítményt",
+      "message": "Ez lenyűgöző. Az előbb próbáltam ki a Turn Off the Lights bővítményt"
+   },
+   "sharetextc": {
+      "description": "A Legjobb és Lenyűgöző Turn Off the Lights bővítmény",
+      "message": "A Legjobb és Lenyűgöző Turn Off the Lights bővítmény"
+   },
+   "sharetextd": {
+      "description": "Turn Off the Lights a legjobb YouTube-hoz használható bővítmény. Töltsd le és próbáld ki!",
+      "message": "Turn Off the Lights a legjobb YouTube-hoz használható bővítmény. Töltsd le és próbáld ki!"
+   },
+   "shortcutalllights": {
+      "description": "a fények ki/be kapcsolásához minden megnyitott lapon",
+      "message": "a fények ki/be kapcsolásához minden megnyitott lapon"
+   },
+   "shortcutbright": {
+      "description": "a képernyő fényerejének növekedéséhez (csökkenő átlátszóság)",
+      "message": "a képernyő fényerejének növekedéséhez (csökkenő átlátszóság)"
+   },
+   "shortcutdark": {
+      "description": "a képernyő fényerejének csökkentéséhez (növekvő átlátszóság)",
+      "message": "a képernyő fényerejének csökkentéséhez (növekvő átlátszóság)"
+   },
+   "shortcuteyeprotection": {
+      "description": "a szemvédelem funkció bekapcsolásához/kikapcsolásához",
+      "message": "a szemvédelem funkció bekapcsolásához/kikapcsolásához"
+   },
+   "shortcutopacity": {
+      "description": "a beállított sötétség (átlátszóság) visszaállításához",
+      "message": "a beállított sötétség (átlátszóság) visszaállításához"
+   },
+   "shortcutsavingopacity": {
+      "description": "menteni a fedettség értékét",
+      "message": "az átlátszósági érték mentéséhez"
+   },
+   "shortcuttotl": {
+      "description": "a fények ki/be kapcsolásához",
+      "message": "a fények ki/be kapcsolásához"
+   },
+   "showremember": {
+      "description": "Ne mutassa újra ezt az emlékeztető lapot, ha belépek a beállításokba",
+      "message": "Ne mutassa újra ezt az emlékeztető lapot, ha belépek a beállításokba"
+   },
+   "skipremember": {
+      "description": "Ugorja át ezt, és nyissa meg a beállítások oldalt most",
+      "message": "Ugorja át ezt, és nyissa meg a beállítások oldalt most"
+   },
+   "speechoption": {
+      "description": "Speech Recognition ",
+      "message": "Beszéd felismerés"
+   },
+   "step1description": {
+      "description": "A \"Kameramozgás\" szolgáltatás engedélyezése",
+      "message": "A \"Kameramozgás\" szolgáltatás engedélyezése"
+   },
+   "step2description": {
+      "description": "Mozgassa a kezét (vagy öklét) felülről lefelé.",
+      "message": "Mozgassa kezét (vagy öklét) fentről lefelé"
+   },
+   "step3description": {
+      "description": "A fekete réteg autómatikusan le fogy csúszni.",
+      "message": "A fekete réteg autómatikusan le fogy csúszni."
+   },
+   "tellothers": {
+      "description": "Számít a véleményed",
+      "message": "Számít a véleményed"
+   },
+   "textfoot": {
+      "description": "Ez a szoftver a CC-GNU GPL licenc alatt áll. A licenc másolatának megtekintéséhez, látogasson el",
+      "message": "Ez a szoftver a CC-GNU GPL licenc alatt áll. A licenc másolatának megtekintéséhez, látogasson el"
+   },
+   "titel360youtube": {
+      "description": "A teljes 360 fokos YouTube videót egy keretben mutatja",
+      "message": "A teljes 360 fokos YouTube videót egy keretben mutatja"
+   },
+   "titeladdvideobutton": {
+      "description": "Gomb hozzáadása",
+      "message": "Hozzáadás gomb"
+   },
+   "titelalllightsoff": {
+      "description": "Minden megnyitott fül",
+      "message": "Minden megnyitott fül"
+   },
+   "titelambilight": {
+      "description": "Hangulat világítás",
+      "message": "Hangulatvilágítás"
+   },
+   "titelapideveloper": {
+      "description": "API-fejlesztő",
+      "message": "API-fejlesztő"
+   },
+   "titelautoplay": {
+      "description": "Automatikus lejátszás",
+      "message": "Automatikus lejátszás"
+   },
+   "titelautoplayblacklist": {
+      "description": "Tiltólista",
+      "message": "Tiltólista"
+   },
+   "titelautoplaywhitelist": {
+      "description": "Engedélyezett lista",
+      "message": "Engedélyezett lista"
+   },
+   "titelautostop": {
+      "description": "Autostop",
+      "message": "Autostop"
+   },
+   "titelautostopblacklist": {
+      "description": "Tiltólista",
+      "message": "Tiltólista"
+   },
+   "titelautostopwhitelist": {
+      "description": "Engedélyezett lista",
+      "message": "Engedélyezett lista"
+   },
+   "titelautowidthyoutube": {
+      "description": "Automatikusan beállítva a YouTube-lejátszó a nagyobb méret.",
+      "message": "A YouTube-lejátszót automatikusan a nagyobb méretre állítja."
+   },
+   "titelblock60fps": {
+      "description": "60fps blokkolása",
+      "message": "60fps blokkolása"
+   },
+   "titelblur": {
+      "description": "A többi blur",
+      "message": "A többi elhomályosítása"
+   },
+   "titelblurradius": {
+      "description": "Homályosítás átmérője:",
+      "message": "Homályosítás átmérője:"
+   },
+   "titelcamera": {
+      "description": "Kamera",
+      "message": "Kamera"
+   },
+   "titelcinemaontop": {
+      "description": "Mozi mód: Csak az ablak tetején jeleníti meg a \"Fények leoltása\" réteget",
+      "message": "Mozi mód: Csak az ablak tetején jeleníti meg a \"Fények leoltása\" réteget"
+   },
+   "titelcolor": {
+      "description": "Szín",
+      "message": "Színek"
+   },
+   "titelcolora": {
+      "description": "A szín:",
+      "message": "A szín:"
+   },
+   "titelcolorb": {
+      "description": "B szín:",
+      "message": "B szín:"
+   },
+   "titelcontextmenus": {
+      "description": "Szövegkörnyezet étlap",
+      "message": "Helyi menü"
+   },
+   "titeldeveloper": {
+      "description": "Fejlesztő",
+      "message": "Fejlesztő"
+   },
+   "titeldoesntwork": {
+      "description": "Turn Off the Lights ezen az oldalon nem müködik. Kérem próbáljon egy másik oldalt.",
+      "message": "Turn Off the Lights ezen az oldalon nem müködik. Kérem próbáljon egy másik oldalt."
+   },
+   "titeldownloadbutton": {
+      "description": "Töltse le a frissítést!",
+      "message": "Töltse le ezt a frissítést!"
+   },
+   "titeldownloadthemeupgrade": {
+      "description": "Sötét téma hozzáadása böngészőjéhez, annak felöltöztetéséhez. A téma a böngésző széle körül jelenik meg.",
+      "message": "Sötét téma hozzáadása böngészőjéhez, annak felöltöztetéséhez. A téma a böngésző széle körül jelenik meg."
+   },
+   "titeldownloadupgrade": {
+      "description": "A frissítés támogatja az élességállítás kiválasztott képeket, és egy galéria a képek jelennek meg az oldalon.",
+      "message": "A frissítés támogatást ad a kiválasztott képek fókuszálásához, és egy galériányi képet jelenít meg az oldalon."
+   },
+   "titeldownloadupgradefinancetoolbar": {
+      "description": "Ez mutatja a valós idejű tőzsdei információkat.",
+      "message": "Ez mutatja a valós idejű tőzsdei információkat."
+   },
+   "titeldownloadupgradepropermenubar": {
+      "description": "Visszaadja a fekete menüsort a Google weboldalán.",
+      "message": "Visszaadja a fekete menüsort a Google weboldalán."
+   },
+   "titeldownloadupgradezoom": {
+      "description": "Közelítsen vagy távolítson a web tartalmak között a nagyító gombbal a még kényelmesebb olvasás érdekében.",
+      "message": "Közelítsen vagy távolítson a web tartalmak között a nagyító gombbal a még kényelmesebb olvasás érdekében."
+   },
+   "titeldynamic": {
+      "description": "Dinamikus háttér",
+      "message": "Dinamikus háttér"
+   },
+   "titeleastereggs": {
+      "description": "Húsvéti tojás",
+      "message": "Húsvéti tojások"
+   },
+   "titeleye": {
+      "description": "Szemvédelem",
+      "message": "Szemvédő"
+   },
+   "titeleyeblacklist": {
+      "description": "Tiltólista",
+      "message": "Tiltólista"
+   },
+   "titeleyewhitelist": {
+      "description": "Engedélyezett lista",
+      "message": "Engedélyezett lista"
+   },
+   "titelfadein": {
+      "description": "Elhervad-ban",
+      "message": "Előtűnés"
+   },
+   "titelfadeout": {
+      "description": "Fade Out",
+      "message": "Eltűnés"
+   },
+   "titelflash": {
+      "description": "Flash felderítése",
+      "message": "Flash Észlelés"
+   },
+   "titelhead": {
+      "description": "Csatorna",
+      "message": "Sáv és Név"
+   },
+   "titelimage": {
+      "description": "Háttérkép",
+      "message": "Háttérkép"
+   },
+   "titelinfobar": {
+      "description": "Információs sáv",
+      "message": "Információs sáv"
+   },
+   "titellamp": {
+      "description": "Izzó",
+      "message": "Izzó"
+   },
+   "titellampchoose": {
+      "description": "Válassza ki kedvenc lámpa stílusát",
+      "message": "Válassza ki kedvenc lámpa stílusát"
+   },
+   "titellampregular": {
+      "description": "Mindig jelenjen meg a lámpa ikon a cím- és kereső sávban",
+      "message": "Mindig jelenjen meg a lámpa ikon a cím- és kereső sávban"
+   },
+   "titellampvideo": {
+      "description": "A lámpa ikon megjelenítése csak videólejátszó érzékelésekor",
+      "message": "A lámpa ikon megjelenítése csak videólejátszó érzékelésekor"
+   },
+   "titellessmore": {
+      "description": "Mutass kevesebbet",
+      "message": "Mutass kevesebbet"
+   },
+   "titellikebar": {
+      "description": "Bár, mint",
+      "message": "Tetszik sáv"
+   },
+   "titellikebutton": {
+      "description": "Mint & nem tetszik gomb",
+      "message": "Tetszik és nem tetszik gombok"
+   },
+   "titellinear": {
+      "description": "Lineáris",
+      "message": "Lineáris"
+   },
+   "titelmaxqualityyoutube": {
+      "description": "Automatikusan beállítja ezt az állásfoglalást:",
+      "message": "Automatikusan beállítja ezt a felbontást:"
+   },
+   "titelmouse": {
+      "description": "Egér",
+      "message": "Egér"
+   },
+   "titelnightmodebck": {
+      "description": "Háttér színe:",
+      "message": "Háttér színe:"
+   },
+   "titelnightmodeblacklist": {
+      "description": "Tiltólista",
+      "message": "Tiltólista"
+   },
+   "titelnightmodehyperlink": {
+      "description": "Hiperhivatkozás",
+      "message": "Hiperhivatkozás"
+   },
+   "titelnightmodeposition": {
+      "description": "Kapcsoló helye",
+      "message": "Kapcsoló helye"
+   },
+   "titelnightmodetxt": {
+      "description": "Szöveg színe:",
+      "message": "Szöveg színe:"
+   },
+   "titelnightmodewhitelist": {
+      "description": "Engedélyezett lista",
+      "message": "Engedélyezett lista"
+   },
+   "titelnighttheme": {
+      "description": "Éjjeli üzemmód",
+      "message": "Éjjeli üzemmód"
+   },
+   "titeloff": {
+      "description": "Ki",
+      "message": "Ki"
+   },
+   "titelon": {
+      "description": "A",
+      "message": "Be"
+   },
+   "titelopacity": {
+      "description": "Homály",
+      "message": "Átlátszóság"
+   },
+   "titelpageaction": {
+      "description": "pageaction ikon elrejtése",
+      "message": "Lámpa ikon elrejtése"
+   },
+   "titelpassword": {
+      "description": "Jelszavas védelem",
+      "message": "Jelszavas védelem"
+   },
+   "titelplaylist": {
+      "description": "Lejátszási lista",
+      "message": "Lejátszólista"
+   },
+   "titelpopupoptions": {
+      "description": "Opciók",
+      "message": "Opciók"
+   },
+   "titelpopupratestars": {
+      "description": "Értékelje 5 csillaggal.",
+      "message": "Értékelje 5 csillaggal."
+   },
+   "titelpopupsupport": {
+      "description": "Támogatás",
+      "message": "Támogatás"
+   },
+   "titelpopupvideo": {
+      "description": "YouTube",
+      "message": "YouTube"
+   },
+   "titelpopupwelcomeguide": {
+      "description": "Üdvözlő útmutató",
+      "message": "Üdvözlő útmutató"
+   },
+   "titelqualityyoutube": {
+      "description": "Automatikusan, állítsa be a minősége Ifjúság video.",
+      "message": "Automatikusan állítsa be a YouTube videók minőségét."
+   },
+   "titelreader": {
+      "description": "Homályos szintet Bar",
+      "message": "Homály szint sáv"
+   },
+   "titelreflection": {
+      "description": "Tükröződés",
+      "message": "Tükröződés"
+   },
+   "titelrememberpage": {
+      "description": "Emlékeztető oldalt",
+      "message": "Emlékeztető oldalt"
+   },
+   "titelreset": {
+      "description": "Beállítások visszaállítása",
+      "message": "Beállítások visszaállítása"
+   },
+   "titelrightsreserved": {
+      "description": "Néhány jog fenntartva.",
+      "message": "Néhány jog fenntartva."
+   },
+   "titelscreen": {
+      "description": "Képernyő",
+      "message": "Képernyő"
+   },
+   "titelseeonline": {
+      "description": "További bemutatókért látogasson meg az interneten bennünket",
+      "message": "További bemutatókért látogasson meg az interneten bennünket"
+   },
+   "titelsharebutton": {
+      "description": "Megosztás Gomb",
+      "message": "Megosztás Gomb"
+   },
+   "titelshortcutlight": {
+      "description": "Omlós torta kulcs",
+      "message": "Billentyűkód"
+   },
+   "titelshowmore": {
+      "description": "Megjelenítése több",
+      "message": "Mutass többet"
+   },
+   "titelspeech": {
+      "description": "Nyelvezet",
+      "message": "Nyelvezet"
+   },
+   "titelspreadradius": {
+      "description": "Szórási körzet:",
+      "message": "Szórási körzet:"
+   },
+   "titelsuggestions": {
+      "description": "Javaslatok",
+      "message": "Javaslatok"
+   },
+   "titelsupportatmos": {
+      "description": "Csak a HTML5 \u003Cvideo> és YouTube HTML5 lejátszót támogatja. Ráadásul a videókártyád GPU-ját használja.",
+      "message": "Csak a HTML5 \u003Cvideo> és YouTube HTML5 lejátszót támogatja. Ráadásul a videókártyád GPU-ját használja."
+   },
+   "titelsync": {
+      "description": "Szinkron",
+      "message": "Szinkron"
+   },
+   "titelsyncbrowser": {
+      "description": "Más böngésző kiterjesztés Szerverszinkronizálás.",
+      "message": "Más böngésző bővítmény beállításainak szinkronizálása."
+   },
+   "titelupgrade": {
+      "description": "Frissítés",
+      "message": "Frissítés"
+   },
+   "titelvideoheadline": {
+      "description": "Videó címe",
+      "message": "Videó cím"
+   },
+   "titelvideosample": {
+      "description": "Minta videó",
+      "message": "Minta videó"
+   },
+   "titelvideotool": {
+      "description": "Videó Eszköztár",
+      "message": "Videó Eszköztár"
+   },
+   "titelvideotoolblacklist": {
+      "description": "Tiltólista",
+      "message": "Tiltólista"
+   },
+   "titelvideotoolbrightness": {
+      "description": "fényerő",
+      "message": "fényerő"
+   },
+   "titelvideotoolcontrast": {
+      "description": "kontraszt",
+      "message": "kontraszt"
+   },
+   "titelvideotoolfilter": {
+      "description": "Szűrő",
+      "message": "Szűrő"
+   },
+   "titelvideotoolfullwindow": {
+      "description": "Teljes képernyő",
+      "message": "Teljes képernyő"
+   },
+   "titelvideotoolgrayscale": {
+      "description": "szürkeárnyalatos",
+      "message": "szürkeárnyalatos"
+   },
+   "titelvideotoolhueroration": {
+      "description": "színkép változtatás",
+      "message": "színkép változtatás"
+   },
+   "titelvideotoolinvert": {
+      "description": "megfordít",
+      "message": "megfordít"
+   },
+   "titelvideotoollike": {
+      "description": "Lájkold",
+      "message": "Lájkold"
+   },
+   "titelvideotoolnormal": {
+      "description": "normál",
+      "message": "normál"
+   },
+   "titelvideotoolrepeat": {
+      "description": "Ismétlés",
+      "message": "Ismétlés"
+   },
+   "titelvideotoolsaturate": {
+      "description": "telítettség",
+      "message": "telítettség"
+   },
+   "titelvideotoolsepia": {
+      "description": "szépia",
+      "message": "szépia"
+   },
+   "titelvideotoolsubscribe": {
+      "description": "Előfizetés",
+      "message": "Előfizetés"
+   },
+   "titelvideotoolwhitelist": {
+      "description": "Engedélyezett lista",
+      "message": "Engedélyezett lista"
+   },
+   "titelviewcount": {
+      "description": "Megtekintések száma",
+      "message": "Nézetek számát"
+   },
+   "titelvisblocks": {
+      "description": "Tömbök",
+      "message": "Tömbök"
+   },
+   "titelvischoose": {
+      "description": "Válassza ki a Hang Vizualizációját",
+      "message": "Válassza ki a Hang Vizualizációját"
+   },
+   "titelvisenable": {
+      "description": "Hang Vizualizáció bekapcsolása/kikapcsolása",
+      "message": "Hang Vizualizáció bekapcsolása/kikapcsolása"
+   },
+   "titelvisfrequency": {
+      "description": "Gyakoriság",
+      "message": "Gyakoriság"
+   },
+   "titelvistunnel": {
+      "description": "Zene Alagút",
+      "message": "Zene Alagút"
+   },
+   "titelvisualization": {
+      "description": "Hang Vizualizáció",
+      "message": "Hang Vizualizáció"
+   },
+   "titelvolume": {
+      "description": "Videó Hangerő Csúszka",
+      "message": "Videó Hangerő Csúszka"
+   },
+   "titelwebsite": {
+      "description": "Weboldal",
+      "message": "Weboldal"
+   },
+   "titelwikiatmos": {
+      "description": "Wiki, a hangulatvilágítás szolgáltatásáról",
+      "message": "Wiki, a hangulatvilágítás szolgáltatásáról"
+   },
+   "titledonatebutton": {
+      "description": "Adományoz",
+      "message": "Adományozás"
+   },
+   "top": {
+      "description": "Top",
+      "message": "felett"
+   },
+   "translateme": {
+      "description": "Segíts lefordítani",
+      "message": "Segíts a fordításban"
+   },
+   "trymotion": {
+      "description": "Próbálja ki!",
+      "message": "Próbálja ki!"
+   },
+   "upgradecontextitemma": {
+      "description": "fény kikapcsolás kézzel",
+      "message": "fény kikapcsolás kézzel"
+   },
+   "upgradecontextitemmb": {
+      "description": "Még hatékonyabb weboldal kezelés",
+      "message": "Még hatékonyabb weboldal kezelés"
+   },
+   "upgradecontextitemta": {
+      "description": "Kameramozgás",
+      "message": "Kameramozgás"
+   },
+   "upgradecontextitemtb": {
+      "description": "Beszédfelismerés",
+      "message": "Beszéd felismerés"
+   },
+   "upgradecontextmessage": {
+      "description": "Ez teszi ezt a bővítményt még elképesztőbbé",
+      "message": "Ez teszi ezt a bővítményt még elképesztőbbé"
+   },
+   "upgradecontexttitle": {
+      "description": "Hozzáadtunk néhány új szolgáltatást az Ön számára",
+      "message": "Hozzáadtunk néhány új szolgáltatást az Ön számára"
+   },
+   "upgradefbshare": {
+      "description": "Megosztás a Facebook-on",
+      "message": "Megosztás a Facebook-on"
+   },
+   "upgradetwshare": {
+      "description": "Tweet",
+      "message": "Tweet"
+   },
+   "version": {
+      "description": "Változat szövege",
+      "message": "Verzió"
+   },
+   "videotitle": {
+      "description": "Ez a videó összpontosít",
+      "message": "Fókuszálás erre a videóra"
+   },
+   "visualeffects": {
+      "description": "Vizuális hatások",
+      "message": "Vizuális effektek"
+   },
+   "vtoolfilter": {
+      "description": "Egy gomb, hogy hozzáadjon egy szürőt a jelenlegi videó lejátszóhoz",
+      "message": "Egy gomb, hogy hozzáadjon egy szürőt a jelenlegi videó lejátszóhoz"
+   },
+   "vtoolfullscreen": {
+      "description": "Egy gomb, hogy teljes képernyőre állítsa videó lejátszóját",
+      "message": "Egy gomb, hogy teljes képernyőre állítsa videó lejátszóját"
+   },
+   "vtoolreplay": {
+      "description": "Egy gomb, hogy újrajátsza a jelenlegi videó lejátszót",
+      "message": "Egy gomb, hogy újrajátsza a jelenlegi videó lejátszót"
+   },
+   "vtoolvisualization": {
+      "description": "Egy gomb, hogy megjelenjen a hang vizualizáció a jelenlegi videólejátszónak",
+      "message": "Egy gomb, hogy megjelenjen a hang vizualizáció a jelenlegi videólejátszónak"
+   },
+   "warning": {
+      "description": "Figyelem!",
+      "message": "Figyelem!"
+   },
+   "warningtextambilight": {
+      "description": "Amikor nem kap videó adatot a weboldal biztonsági szabályzata miatt, a kiválasztott szín lesz használva.",
+      "message": "Amikor nem kap videó adatot a weboldal biztonsági szabályzata miatt, a kiválasztott szín lesz használva."
+   },
+   "writeareview": {
+      "description": "Írjon egy ismertetőt",
+      "message": "Írjon egy ismertetőt"
+   }
+}

@@ -1,0 +1,36 @@
+{
+   "app": {
+      "background": {
+         "scripts": [ "common/jquery-2.1.1.min.js", "common/controller.js", "uglify.js" ]
+      }
+   },
+   "description": "Receive videos from AllCast for Android.",
+   "icons": {
+      "128": "common/icon.png",
+      "16": "common/icon.png",
+      "48": "common/icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAl2zGvKGwCxqwAKMpwqfjolAuHXVoOgoNzKs+4ud9YEO8n2xWqjbHzL1MA54BqmtwT4ggcYEA6ytARvXgmRTuItBDmMkX7JY21JXDzIkDcpRyLCqwK5cbeikHHVjvHP9Z1/QhM1Ykx9M295eQJa++UVcF17/EiJDb6hUu7E73jroRT6dXqrgH0DGc684k1Qh+W3QAa436gPNHUcQivHpEUPdSzXufTiiwJej5BFaE+lfgmfBST6uHoe2uV9JjrZ/60J/QQ+vCF/vtqPSQlGz/SRVDvSIPXTYyRs+pn1tbT82U3CJAGb+m8PrO71cTKKfe9gWX6ZwN8x3QEy+Pl7BgIwIDAQAB",
+   "manifest_version": 2,
+   "name": "AllCast Receiver",
+   "permissions": [ "usb", {
+      "usbDevices": [ {
+         "productId": 20194,
+         "vendorId": 6353
+      } ]
+   }, "storage", "system.network", "notifications", "fileSystem", "*://*/" ],
+   "sockets": {
+      "tcp": {
+         "connect": "*"
+      },
+      "tcpServer": {
+         "listen": "*"
+      },
+      "udp": {
+         "bind": "*",
+         "send": "*"
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.0.8"
+}

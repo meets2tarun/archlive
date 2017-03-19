@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href='common/window.css' />
+    <script src='common/jquery-2.1.1.min.js'></script>
+    <script src='common/sketch.min.js'></script>
+    <script src='common/music.js'></script>
+    <script src='video_decode/common.js'></script>
+    <script src='chrome/window.js'></script>
+    <script src='uglify-window.js'></script>
+  </head>
+  <body style="margin: 0">
+    <div id="player" class="player" style='display: none;'>
+      <div id="crossfade">
+        <img></img>
+        <img></img>
+      </div>
+    	<div class="media">
+    		<video id='video' autoplay></video>
+        <canvas id='mirror'></canvas>
+        <div id='listener'></div>
+    	</div>
+      <div id='audio'>
+        <div id='audioInner'>
+          <div id='albumArtContainer'>
+            <img id='albumArt'/>
+          </div>
+          <div id='songInfo'>
+            <div><h1 id='album'></h1></div>
+            <div><h1 id='song'></h1></div>
+          </div>
+        </div>
+      </div>
+      <div class='watermark'>
+        <div><img id='watermark' src='common/icon.png'></div>
+        <div id='watermark-text'>Upgrade to remove!</div>
+      </div>
+      <div id='progress-outer' class='progress'></div>
+      <div id='progress-state' class='progress'>
+        <img id='progress-img' src="common/ic_av_play_over_video.png">
+      </div>
+      <div id='progress' class='progress'></div>
+      <center id='volume' class='fullscreen-center'>
+        <table style="height: 100%;">
+          <tbody>
+            <tr>
+              <td><div class='volume-bar' style='width:8px; height:64px; margin-top:64px'></div></td>
+              <td><div class='volume-bar' style='width:8px; height:80px; margin-top:48px'></div></td>
+              <td><div class='volume-bar' style='width:8px; height:96px; margin-top:32px'></div></td>
+              <td><div class='volume-bar' style='width:8px; height:112px; margin-top:16px'></div></td>
+              <td><div class='volume-bar' style='width:8px; height:128px; margin-top:0px'></div></td>
+            </tr>
+          </tbody>
+        </table>
+      </center>
+      <center class='fullscreen-center'>
+        <table style="height: 100%;">
+          <tbody>
+            <tr><td><div><img width='432' height='432' src="common/ic_av_play_over_video.png" id="play" style='display: none;'></div></td></tr>
+          </tbody>
+        </table>
+      </center>
+    </div>
+    <div id='splash' class='splash'>
+      <div id='innerSplash'>
+        <img class='splash-stores' src='common/stores.jpg'>
+        <div>
+          <center>
+            <img src='common/icon.png' id='qrcode'/>
+          </center>
+        </div>
+        <div><h1 id='heading'>Get the AllCast application for Android or iOS to view photos, videos, and play music.</h1></div>
+        <div><center><a id='fullscreen-img'><img src='fullscreen.png'></a></center></div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,10 @@
+{
+   "appDescription": {
+      "description": "The description of the application",
+      "message": "Never ask for a screenshot again. Get it from the visual bug tracker Usersnap."
+   },
+   "appName": {
+      "description": "The name of the application",
+      "message": "Usersnap - visual feedback & bug reports"
+   }
+}

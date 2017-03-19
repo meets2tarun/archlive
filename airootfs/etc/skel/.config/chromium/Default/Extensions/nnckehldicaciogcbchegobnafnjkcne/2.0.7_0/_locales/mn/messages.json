@@ -1,0 +1,126 @@
+{
+   "before_trying_again": {
+      "description": "Error resolution tip in error pages.",
+      "message": "Таныг оролдож үзэхээс өмнө:"
+   },
+   "browser_action_title": {
+      "description": "Browser action title that shows up on hover.",
+      "message": "Энэ URL-ыг дамжуулах"
+   },
+   "context_menu_disable": {
+      "description": "Label of the context menu item that disables Tone.",
+      "message": "Tone-ийг идэвхгүй болгох"
+   },
+   "context_menu_enable": {
+      "description": "Label of the context menu item that enables Tone.",
+      "message": "Tone-ийг идэвхжүүлэх"
+   },
+   "description": {
+      "description": "Extension description.",
+      "message": "Дуу тархах зайд компьютер руу ямар ч URL-ыг дамжуулна."
+   },
+   "ensure_online": {
+      "description": "Network workaround.",
+      "message": "Таны компьютер онлайн байгаа эсэхийг шалгаарай."
+   },
+   "error_audio_title": {
+      "description": "Title of the error_audio.html page.",
+      "message": "Google Tone үүнийг сонссонгүй."
+   },
+   "error_network_title": {
+      "description": "Title of error_network.html page.",
+      "message": "Харамсалтай нь, энэ болсонгүй."
+   },
+   "increase_volume": {
+      "description": "Audio workaround #1",
+      "message": "Дууг чангалах."
+   },
+   "invite_others": {
+      "description": "Press the button to try it.",
+      "message": "Бусдыг Google Tone-ийг ашиглаж үзэхийг урина уу: {{shortlink}}"
+   },
+   "name": {
+      "description": "Extension name.",
+      "message": "Google Tone"
+   },
+   "notification_receive_message_format": {
+      "description": "Notification message when you receive a Tone.",
+      "message": "'{{title}}'-ийг {{domain}}-ээс нээхээр дарна уу"
+   },
+   "notification_receive_test_page_message": {
+      "description": "Notification message sent from Tone test page.",
+      "message": "Tone-ийг ажиллуулахын тулд, энд дарна уу!"
+   },
+   "notification_receive_title_format": {
+      "description": "Notification title when you receive a Tone.",
+      "message": "{{username}}-ийн URL!"
+   },
+   "notification_send_fail_audio_message": {
+      "description": "Notification title shown when audio verification fails.",
+      "message": "Дууны түвшинг шалгаад, дахин оролдоно уу. \nДэлгэрэнгүй мэдээллийг энд дарж авна уу."
+   },
+   "notification_send_fail_audio_title": {
+      "description": "Notification title shown when audio verification fails.",
+      "message": "Tone өөрөө сонссонгүй"
+   },
+   "notification_send_fail_network_message": {
+      "description": "Notification message shown when a Tone was attempted but the network was offline.",
+      "message": "Та офлайн байх шиг байна. \nДэлгэрэнгүй мэдээллийг энд дарж авна уу."
+   },
+   "notification_send_fail_network_title": {
+      "description": "Notification title shown when a Tone was attempted but the network was offline.",
+      "message": "URL-ийг илгээсэнгүй"
+   },
+   "press_button": {
+      "description": "Press the button to try it.",
+      "message": "Дуу тархах зайд URL-ийг компьютер руу дамжуулах товчлуур {{action_image}} дээр дарна уу."
+   },
+   "report_bug": {
+      "description": "Report a bug",
+      "message": "Алдааг мэдэгдэх"
+   },
+   "settings_off": {
+      "description": "Indicator showing that Tone is disabled.",
+      "message": "УНТРААСТАЙ"
+   },
+   "settings_off_subtitle": {
+      "description": "Subtitle showing that Tone is disabled.",
+      "message": "Та URL илгээж бас хүлээн авч чадахгүй."
+   },
+   "settings_off_title": {
+      "description": "Title showing that Tone is disabled.",
+      "message": "Google Tone унтраастай байна"
+   },
+   "settings_on": {
+      "description": "Indicator showing that Tone is enabled.",
+      "message": "АСААЛТТАЙ"
+   },
+   "settings_on_subtitle": {
+      "description": "Subtitle showing that Tone is enabled.",
+      "message": "Та URL илгээж бас хүлээн авч болно."
+   },
+   "settings_on_title": {
+      "description": "Title showing that Tone is enabled.",
+      "message": "Google Tone асаалттай байна"
+   },
+   "settings_title": {
+      "description": "Title of settings.html",
+      "message": "Тохиргоо"
+   },
+   "success_call": {
+      "description": "Call to action of success.html.",
+      "message": "Өөр хуудас руу навигац хийж, үүнийг дамжуулах {{action_image}} товчлуур дээр дарна уу."
+   },
+   "success_title": {
+      "description": "Title of success.html.",
+      "message": "Google Tone ажиллаж байна!"
+   },
+   "try_now": {
+      "description": "Call to action to try the extension.",
+      "message": "Google Tone-ийг яг одоо туршаад үзээрэй!"
+   },
+   "unplug_headphones": {
+      "description": "Audio workaround #2",
+      "message": "Чихэвчээ салгах."
+   }
+}

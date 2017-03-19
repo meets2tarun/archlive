@@ -1,0 +1,229 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\000034}}
+html,
+body {
+  font-family: RobotoDraft, Roboto, 'Helvetica Neue', sans-serif;
+  font-size: 100%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\0000310}}
+.text-muted {
+  color: #888;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\0000314}}
+.us-card-loading {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 100;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\0000324}}
+.us-position-relative {
+  position: relative;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\0000328}}
+html.us-popup,
+.us-popup body {
+  min-height: initial;
+  position: static !important;
+  height: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\0000337}}
+.us-login-card .us-login-3rdparty button {
+  margin: 0 2px;
+  background: none !important;
+  box-shadow: none;
+  color: #005e99 !important;
+  font-size: 24px;
+  width: 34px;
+  height: 34px;
+  line-height: 34px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\0000347}}
+.us-login-card .us-login-3rdparty button:not([disabled]):hover {
+  background: #e6f5ff !important;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\0000353}}
+.us-login-card .us-apikeyconnect-link {
+  text-decoration: underline;
+  color: #999;
+  font-size: 14px;
+  padding: 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\0000360}}
+.us-login-card .us-info-footer {
+  background-color: #f7f7f7;
+  font-size: 12px;
+  color: #888;
+  text-align: center;
+  padding: 10px 60px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\0000367}}
+.us-login-card .us-info-footer h4 {
+  margin: 0 0 5px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\0000371}}
+.us-login-card .us-info-footer p {
+  margin: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\0000376}}
+.us-login-card .md-actions {
+  padding: 0 5px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\0000382}}
+.us-popup .md-select-menu-container.us-popup-project-select {
+  min-width: calc(100% - 15px) !important;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\0000385}}
+.us-popup .md-select-menu-container.us-popup-project-select md-select-menu md-content {
+  max-height: 150px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\0000392}}
+.us-popup md-tooltip {
+  max-width: calc(100% - 15px);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\0000395}}
+.us-popup md-tooltip .md-content {
+  white-space: normal;
+  height: inherit;
+  line-height: 18px;
+  padding: 8px 16px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\00003103}}
+.us-popup .us-card {
+  margin: 0;
+  width: 400px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\00003107}}
+.us-popup .us-card .us-card-image-container {
+  padding: 20px;
+  background-color: #e6f5ff;
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\00003112}}
+.us-popup .us-card .us-card-image-container img {
+  height: 40px;
+  width: auto;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\00003120}}
+.us-popup .us-project-card md-card-content {
+  min-height: 115px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\00003125}}
+.us-popup .us-project-card .md-toolbar-tools img.us-logo {
+  max-height: calc(100% - 20px);
+  width: auto;
+  max-width: 50%;
+  margin-right: 10px;
+  opacity: 0.9;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\00003133}}
+.us-popup .us-project-card .md-toolbar-tools .md-menu {
+  padding: 0px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\00003140}}
+.us-popup .us-apikey-card .md-tools {
+  min-width: 40px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\00003147}}
+md-dialog[md-theme=smalltextdialog] md-dialog-content {
+  font-size: 16px;
+  padding: 15px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\00003151}}
+md-dialog[md-theme=smalltextdialog] md-dialog-content p {
+  margin: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\00003159}}
+.us-options .md-toolbar-tools img.us-logo {
+  max-height: calc(100% - 20px);
+  width: auto;
+  max-width: 50%;
+  margin-right: 10px;
+  opacity: 0.9;
+  cursor: pointer;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\00003169}}
+.us-options md-sidenav {
+  padding: 20px 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\00003172}}
+.us-options md-sidenav .md-button {
+  margin: 0;
+  border-radius: 0;
+  min-height: 60px;
+  text-align: left;
+  padding: 0 30px;
+  text-transform: none;
+  font-size: 18px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\00003181}}
+.us-options md-sidenav .md-button md-icon {
+  line-height: 20px !important;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\00003187}}
+.us-options #content {
+  overflow-y: auto;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\00003190}}
+.us-options #content > md-content {
+  max-width: 512px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\00003194}}
+.us-options #content md-card.us-user-card {
+  position: relative;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\00003197}}
+.us-options #content md-card.us-user-card .us-card-image-container {
+  height: 176px;
+  position: relative;
+  overflow: hidden;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\00003202}}
+.us-options #content md-card.us-user-card .us-card-image-container .md-card-image {
+  -webkit-filter: blur(8px);
+  position: absolute;
+  width: calc(100% + 40px);
+  min-height: 100%;
+  margin-top: -33%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\00003211}}
+.us-options #content md-card.us-user-card md-card-content {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  text-align: center;
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+  color: white;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\00003221}}
+.us-options #content md-card.us-user-card md-card-content img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  border: 2px solid white;
+  margin: 0.5em 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\00003229}}
+.us-options #content md-card.us-user-card md-card-content h1 {
+  margin: 0;
+  padding: 0;
+  font-size: 1.5em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/robert\/Documents\/workspace\/usersnap-chrome-extension\/app\/styles\/main\.scss}line{font-family:\00003235}}
+.us-options #content md-card.us-user-card md-card-content p {
+  font-size: 14px;
+  letter-spacing: 0;
+  margin: 0 0 16px;
+}

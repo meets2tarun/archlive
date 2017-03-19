@@ -1,0 +1,383 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3126,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"settings":
+	{
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "arch-install-scripts\nb43-fwcutter\nbtrfs-progs\nclonezilla\ncrda\ndarkhttpd\nddrescue\ndhclient\ndialog\ndmraid\ndnsmasq\ndnsutils\ndosfstools\nelinks\nethtool\nexfat-utils\nf2fs-tools\nfsarchiver\ngnu-netcat\ngpm\ngptfdisk\ngrml-zsh-config\ngrub\nhdparm\nipw2100-fw\nipw2200-fw\nirssi\nlftp\nlinux-atm\nlsscsi\nmc\nmtools\nndisc6\nnfs-utils\nnilfs-utils\nnmap\nntfs-3g\nntp\nopenconnect\nopenssh\nopenvpn\npartclone\nparted\npartimage\nppp\npptpclient\nrefind-efi\nrfkill\nrp-pppoe\nrsync\nsdparm\nsg3_utils\nsmartmontools\nspeedtouch\nsudo\ntcpdump\ntestdisk\nusb_modeswitch\nvim-minimal\nvpnc\nwget\nwireless_tools\nwpa_actiond\nwvdial\nxl2tpd\nzd1211-firmware\nchromium\ncinnamon\ngnome-terminal\nsublime-text-dev\n",
+					"file": "/usr/share/archiso/configs/releng/packages.both",
+					"file_size": 600,
+					"file_write_time": 131343928261200034,
+					"settings":
+					{
+						"buffer_size": 650,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/etc/slim.conf",
+					"settings":
+					{
+						"buffer_size": 452,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/sucode/archlive/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf",
+					"settings":
+					{
+						"buffer_size": 87,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/sucode/archlive/airootfs/root/.automated_script.sh",
+					"settings":
+					{
+						"buffer_size": 787,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/sucode/archlive/airootfs/root/customize_airootfs.sh",
+					"settings":
+					{
+						"buffer_size": 863,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/sucode/archlive/airootfs/etc/machine-id",
+				"/home/sucode/archlive/airootfs/etc/locale.conf",
+				"/etc/slimlock.conf",
+				"/etc/slim.conf",
+				"/home/sucode/Desktop/readme.txt",
+				"/usr/share/archiso/configs/releng/packages.x86_64",
+				"/usr/share/archiso/configs/releng/build.sh",
+				"/usr/share/archiso/configs/releng/packages.i686",
+				"/home/sucode/archiso/Makefile"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 4,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/usr/share/archiso/configs/releng/packages.both",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 650,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										650,
+										650
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1020.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/etc/slim.conf",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 452,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/sucode/archlive/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 87,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/sucode/archlive/airootfs/root/.automated_script.sh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 787,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/sucode/archlive/airootfs/root/customize_airootfs.sh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 863,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										863,
+										863
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 4.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,1031,196,1671,676,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

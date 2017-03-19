@@ -1,0 +1,42 @@
+{
+   "errorPin": {
+      "description": "The error message seen when an image can't be pinned",
+      "message": "Maaf, gambar ini tidak bisa disimpan."
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Simpan hal-hal yang Anda temukan di web"
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Tombol Simpan Pinterest"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Sembunyikan tombol Simpan mengambang"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Opsi tombol Simpan Pinterest"
+   },
+   "saveAction": {
+      "description": "Appears in the right-click-to-save menu item",
+      "message": "Simpan"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Cari"
+   },
+   "welcomeBody": {
+      "description": "Body of the pop-up welcome message",
+      "message": "Saat menjelajahi web, Anda akan melihat tombol Simpan saat mengarahkan mouse ke atas gambar. Jika tidak ingin melihat ini, Anda bisa mematikannya. Klik pemberitahuan ini untuk mengetahui caranya."
+   },
+   "welcomeLink": {
+      "description": "The link (currently a help article) opened by clicking on the pop-up welcome message",
+      "message": "https://help.pinterest.com/articles/add-pin-it-button-your-browser?source=chrome_pib_education#Web"
+   },
+   "welcomeTitle": {
+      "description": "Title of the pop-up welcome message",
+      "message": "Tombol Simpan Pinterest untuk Chrome"
+   }
+}

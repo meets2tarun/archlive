@@ -1,0 +1,89 @@
+<md-card class="us-card us-login-card">
+  <us-card-loading ng-if="data.authActive"></us-card-loading>
+  <div class="us-card-image-container" ng-if="showHeader">
+    <img class="md-card-image" src="../images/us_logo.png">
+  </div>
+  <md-card-content>
+    <form name="loginForm" ng-if="data.mode === 'auth'" ng-submit="checkLogin()">
+      <md-input-container>
+        <label>Email</label>
+        <input name="email" ng-model="data.email" required type="email">
+        <div ng-if="loginForm.email.$dirty" ng-messages="loginForm.email.$error">
+          <div ng-message="required">Please provide an email address.</div>
+          <div ng-message="email">Please provide a valid email address.</div>
+        </div>
+      </md-input-container>
+      <md-input-container>
+        <label>Password</label>
+        <input name="password" ng-model="data.password" required type="password">
+        <div ng-if="loginForm.password.$dirty" ng-messages="loginForm.password.$error">
+          <div ng-message="required">Please provide a password.</div>
+        </div>
+      </md-input-container>
+      <div layout-align="space-between center" layout="row">
+        <div class="us-login-3rdparty" layout-align="start center" layout="row">
+          <md-button class="md-fab md-mini md-primary" ng-click="authenticateExternal($event, 'google')" type="button">
+            <i class="fa fa-google-plus"></i>
+          </md-button>
+          <md-button class="md-fab md-mini md-primary" ng-click="authenticateExternal($event, 'git')" type="button">
+            <i class="fa fa-github"></i>
+          </md-button>
+          <md-button class="md-fab md-mini md-primary" ng-click="authenticateExternal($event, 'live')" type="button">
+            <i class="fa fa-windows"></i>
+          </md-button>
+          <md-button class="md-fab md-mini md-primary" ng-click="authenticateExternal($event, 'bitbucket')" type="button">
+            <i class="fa fa-bitbucket"></i>
+          </md-button>
+        </div>
+        <div>
+          <md-button class="md-primary md-raised">
+            Login
+          </md-button>
+        </div>
+      </div>
+    </form>
+
+    <form name="apikeyForm" ng-if="data.mode === 'apikey'" ng-submit="checkApikey()">
+      <md-input-container>
+        <label>API Key</label>
+        <input name="apikey" ng-model="data.apikey" pattern="[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}" required type="text">
+        <div ng-if="apikeyForm.apikey.$dirty" ng-messages="apikeyForm.apikey.$error">
+          <div ng-message="required">Please provide an API Key.</div>
+          <div ng-message="pattern">Please provide a valid
+            <span>API Key<md-tooltip>e.g. <i>012345678-9abc-def0-1234-56789abcdef0</i></md-tooltip></span>.</div>
+        </div>
+      </md-input-container>
+
+      <div class="md-actions" layout-align="end center" layout="row">
+        <div>
+          <md-button class="md-raised md-primary" ng-click="saveApikey($event)">Save</md-button>
+        </div>
+      </div>
+    </form>
+  </md-card-content>
+  <md-divider></md-divider>
+  <div class="md-actions" layout-align="space-between center" layout="row">
+    <div>
+      <md-button class="md-raised md-accent" ng-click="openSignup()">Sign up</md-button>
+    </div>
+    <div>
+      <a class="us-apikeyconnect-link" href ng-click="openApikeyMode()" ng-if="data.mode !== 'apikey'">
+        Connect with API Key
+        <md-tooltip>
+          You can use Usersnap without logging in by using an API Key provided by a Usersnap user.
+        </md-tooltip>
+      </a>
+      <a class="us-apikeyconnect-link" href ng-click="openAuthMode()" ng-if="data.mode !== 'auth'">
+        Connect with credentials
+        <md-tooltip>
+          This is the preferred method to connect the extension to Usersnap which allows use with multiple projects easily.
+        </md-tooltip>
+      </a>
+    </div>
+  </div>
+  <md-divider></md-divider>
+  <md-card-footer ng-if="data.mode === 'apikey'" class="us-info-footer">
+    <h4>Why do you use the API Key?</h4>
+    <p>You can connect the Usersnap Chrome Extension with your account in just a second by <a href ng-click="data.mode = 'auth'">logging in</a>.</p>
+  </md-card-footer>
+</md-card>

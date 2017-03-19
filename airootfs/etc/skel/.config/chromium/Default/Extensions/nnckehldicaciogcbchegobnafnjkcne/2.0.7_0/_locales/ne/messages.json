@@ -1,0 +1,126 @@
+{
+   "before_trying_again": {
+      "description": "Error resolution tip in error pages.",
+      "message": "तपाईँले फेरि प्रयास गर्न अघि:"
+   },
+   "browser_action_title": {
+      "description": "Browser action title that shows up on hover.",
+      "message": "यो URL प्रसारण गर्नुहोस्"
+   },
+   "context_menu_disable": {
+      "description": "Label of the context menu item that disables Tone.",
+      "message": "टोन असक्षम गर्नुहोस्"
+   },
+   "context_menu_enable": {
+      "description": "Label of the context menu item that enables Tone.",
+      "message": "टोन सक्षम गर्नुहोस्"
+   },
+   "description": {
+      "description": "Extension description.",
+      "message": "इयरसटभित्र कम्प्युटरहरूमा कुनै पनि URL प्रसारण गर्नुहोस्।"
+   },
+   "ensure_online": {
+      "description": "Network workaround.",
+      "message": "तपाईँको कम्प्युटर अनलाइन छ भन्ने सुनिश्चित गर्नुहोस्।"
+   },
+   "error_audio_title": {
+      "description": "Title of the error_audio.html page.",
+      "message": "Google टोनले त्यो सुन्न सकेन।"
+   },
+   "error_network_title": {
+      "description": "Title of error_network.html page.",
+      "message": "दुर्भाग्यवश, त्यसले कार्य गरेन।"
+   },
+   "increase_volume": {
+      "description": "Audio workaround #1",
+      "message": "तपाईँको भोल्युम बढाउनुहोस्"
+   },
+   "invite_others": {
+      "description": "Press the button to try it.",
+      "message": "Google टोन प्रयोग गर्न अन्यलाई निमन्त्रणा गर्नुहोस्: {{shortlink}}"
+   },
+   "name": {
+      "description": "Extension name.",
+      "message": "Google टोन"
+   },
+   "notification_receive_message_format": {
+      "description": "Notification message when you receive a Tone.",
+      "message": "{{domain}} बाट '{{title}}' खोल्न क्लिक गर्नुहोस्"
+   },
+   "notification_receive_test_page_message": {
+      "description": "Notification message sent from Tone test page.",
+      "message": "टोन विचार गर्न क्लिक गर्नुहोस्!"
+   },
+   "notification_receive_title_format": {
+      "description": "Notification title when you receive a Tone.",
+      "message": "{{username}} बाट URL!"
+   },
+   "notification_send_fail_audio_message": {
+      "description": "Notification title shown when audio verification fails.",
+      "message": "तपाईँको भोल्युम जाँच गर्नुहोस् र फेरि प्रयास गर्नुहोस्।\nथप जानकारीको लागि क्लिक गर्नुहोस्"
+   },
+   "notification_send_fail_audio_title": {
+      "description": "Notification title shown when audio verification fails.",
+      "message": "टोन आफैँले सुन्न सकेन"
+   },
+   "notification_send_fail_network_message": {
+      "description": "Notification message shown when a Tone was attempted but the network was offline.",
+      "message": "तपाईँ अफलाइन जस्तो देखिनुहुन्छ। \nथप जानकारीको लागि क्लिक गर्नुहोस्।"
+   },
+   "notification_send_fail_network_title": {
+      "description": "Notification title shown when a Tone was attempted but the network was offline.",
+      "message": "URL पठाइएन"
+   },
+   "press_button": {
+      "description": "Press the button to try it.",
+      "message": "इयरसटभित्र कम्प्युटरहरूमा URL प्रसारण गर्न {{action_image}} बटन थिच्नुहोस्।"
+   },
+   "report_bug": {
+      "description": "Report a bug",
+      "message": "बगको रिपोर्ट गर्नुहोस्"
+   },
+   "settings_off": {
+      "description": "Indicator showing that Tone is disabled.",
+      "message": "निष्क्रिय"
+   },
+   "settings_off_subtitle": {
+      "description": "Subtitle showing that Tone is disabled.",
+      "message": "तपाईँ URLहरू पठाउन वा प्राप्त गर्न सक्नुहुन्न।"
+   },
+   "settings_off_title": {
+      "description": "Title showing that Tone is disabled.",
+      "message": "Google टोन निष्क्रिय छ"
+   },
+   "settings_on": {
+      "description": "Indicator showing that Tone is enabled.",
+      "message": "सक्रिय"
+   },
+   "settings_on_subtitle": {
+      "description": "Subtitle showing that Tone is enabled.",
+      "message": "तपाईँ URLहरू पठाउन र प्राप्त गर्न सक्नुहुन्छ।"
+   },
+   "settings_on_title": {
+      "description": "Title showing that Tone is enabled.",
+      "message": "Google टोन सक्रिय छ"
+   },
+   "settings_title": {
+      "description": "Title of settings.html",
+      "message": "सेटिङहरू"
+   },
+   "success_call": {
+      "description": "Call to action of success.html.",
+      "message": "अर्को पृष्ठमा नेभिगेट गर्नुहोस् र यसलाई प्रसारण गर्न {{action_image}} बटन क्लिक गर्नुहोस्।"
+   },
+   "success_title": {
+      "description": "Title of success.html.",
+      "message": "Google टोनले काम गर्‍यो!"
+   },
+   "try_now": {
+      "description": "Call to action to try the extension.",
+      "message": "अब Google टोन विचार गरेर हेर्नुहोस्!"
+   },
+   "unplug_headphones": {
+      "description": "Audio workaround #2",
+      "message": "तपाईँको हेडफोनहरू अनप्लग गर्नुहोस्"
+   }
+}

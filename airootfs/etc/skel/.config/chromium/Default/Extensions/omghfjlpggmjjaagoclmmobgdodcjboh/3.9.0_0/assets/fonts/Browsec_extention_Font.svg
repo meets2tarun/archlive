@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2016 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="location" unicode="&#xe900;" d="M500 372q43 0 73 30t31 73-31 73-73 31-73-31-30-73 30-73 73-30z m0 394q121 0 206-85t85-206q0-60-30-139t-73-146-85-128-72-95l-31-33q-12 14-31 36t-71 90-88 131-70 143-31 141q0 121 85 206t206 85z" horiz-adv-x="1000" />
+
+<glyph glyph-name="home" unicode="&#xe901;" d="M416 16h-207v334h-125l416 375 416-375h-125v-334h-207v250h-168v-250z" horiz-adv-x="1000" />
+
+<glyph glyph-name="settings" unicode="&#xe902;" d="M212 280c8-32 22-63 39-90l-49-49c-21-21-21-34-2-54l47-47c20-19 33-19 54 2l51 52c24-14 50-25 78-32v-62c0-31 9-40 36-40h68c27 0 36 10 36 40v62c28 7 54 18 78 32l52-53c21-21 34-22 54-2l47 47c19 19 20 32-2 54l-50 50c17 27 31 58 39 90h66c27 0 36 10 36 40v60c0 30-8 40-36 40h-66c-7 28-18 54-32 78l48 47c21 21 23 34 3 54l-48 48c-19 19-33 18-54-3l-45-45c-27 17-58 31-90 39v62c0 30-8 40-36 40h-68c-27 0-36-10-36-40v-62c-32-8-63-22-90-39l-45 45c-21 21-35 22-54 3l-48-48c-20-20-18-33 3-54l47-47c-13-24-24-50-31-78h-66c-27 0-36-10-36-40v-60c0-31 9-40 36-40h66z m174 70c0 63 51 114 114 114s114-51 114-114-51-114-114-114-114 51-114 114z" horiz-adv-x="1000" />
+
+<glyph glyph-name="arrow" unicode="&#xe903;" d="M916 372l-288 261v-158h-282v-205h282v-159z m-430-267c-150 0-271 122-271 271s121 271 271 271v109c-210 0-380-170-380-380s170-380 380-380v109z" horiz-adv-x="1000" />
+
+<glyph glyph-name="x" unicode="&#xe904;" d="M499 403l-87 87c-14 15-39 15-53 0-15-15-15-39 0-54l86-87-86-86c-15-15-15-39 0-54 15-15 39-15 54 0l86 87 87-87c15-15 39-15 54 0 15 15 15 39 0 54l-87 86 87 87c15 15 14 39 0 54-15 15-39 15-54 0l-87-87z" horiz-adv-x="1000" />
+
+<glyph glyph-name="mail" unicode="&#xe905;" d="M580 306l258-267-789 0 259 264 135-127z m-517 355l760 0-380-362z m566-309l257 242 0-508z m-629-266l0 508 259-243z" horiz-adv-x="886" />
+</font>
+</defs>
+</svg>

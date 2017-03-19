@@ -1,0 +1,42 @@
+{
+   "errorPin": {
+      "description": "The error message seen when an image can't be pinned",
+      "message": "Ne pare rău, această imagine nu poate fi salvată."
+   },
+   "extDescription": {
+      "description": "The extension's description, seen in gallery and extensions page",
+      "message": "Salvează lucrurile pe care le găsești pe net."
+   },
+   "extName": {
+      "description": "The extension's title, seen in gallery and extensions page",
+      "message": "Butonul Pinterest „Salvează”"
+   },
+   "optionHide": {
+      "description": "Text next to the checkbox that turns off hoverbuttons",
+      "message": "Ascunde butoanele Pinterest „Salvează” suprapuse peste imagini"
+   },
+   "optionTitle": {
+      "description": "Title for the Options page",
+      "message": "Opțiuni buton de salvare"
+   },
+   "saveAction": {
+      "description": "Appears in the right-click-to-save menu item",
+      "message": "Salvează"
+   },
+   "searchAction": {
+      "description": "Appears in the right-click-to-search menu item",
+      "message": "Caută"
+   },
+   "welcomeBody": {
+      "description": "Body of the pop-up welcome message",
+      "message": "În timp ce navighezi pe internet, vei vedea butoanele „Salvează” când treci cu mouse-ul pe deasupra imaginilor. Dacă nu vrei să le vezi, le poți dezactiva. Apasă pe această notificare pentru a afla cum."
+   },
+   "welcomeLink": {
+      "description": "The link (currently a help article) opened by clicking on the pop-up welcome message",
+      "message": "https://help.pinterest.com/articles/add-pin-it-button-your-browser?source=chrome_pib_education#Web"
+   },
+   "welcomeTitle": {
+      "description": "Title of the pop-up welcome message",
+      "message": "Butonul Pinterest „Salvează” pentru Chrome"
+   }
+}

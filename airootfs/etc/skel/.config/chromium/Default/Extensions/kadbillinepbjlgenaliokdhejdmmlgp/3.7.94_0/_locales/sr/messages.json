@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "App description.",
+      "message": "Нови дизајн Фацебоок, отклања Огласи (слично АдБлоцк), ХБ ради брже, чистач УКС / УИ."
+   },
+   "appName": {
+      "description": "App name.",
+      "message": "Flatbook"
+   }
+}

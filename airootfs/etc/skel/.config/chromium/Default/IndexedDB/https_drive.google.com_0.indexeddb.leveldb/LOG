@@ -1,0 +1,30 @@
+2017/03/02-14:00:58.281 1091 Reusing MANIFEST /home/sucode/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2017/03/02-14:00:59.095 1091 Current memtable full; waiting...
+2017/03/02-14:00:59.096 2101 Level-0 table #5: started
+2017/03/02-14:00:59.128 2101 Level-0 table #5: 597 bytes OK
+2017/03/02-14:00:59.185 2101 Delete type=0 #3
+2017/03/02-14:00:59.186 2101 Level-0 table #7: started
+2017/03/02-14:00:59.186 2101 Level-0 table #7: 0 bytes OK
+2017/03/02-14:00:59.242 2101 Delete type=0 #4
+2017/03/02-14:00:59.242 2101 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2017/03/02-14:01:46.605 2101 Level-0 table #9: started
+2017/03/02-14:01:46.997 2101 Level-0 table #9: 18950354 bytes OK
+2017/03/02-14:01:47.030 2101 Delete type=0 #6
+2017/03/02-14:01:47.033 2101 Compacting 1@1 + 1@2 files
+2017/03/02-14:01:47.429 2101 Generated table #10@1: 18 keys, 18776065 bytes
+2017/03/02-14:01:47.463 2101 Generated table #11@1: 10 keys, 87463 bytes
+2017/03/02-14:01:47.463 2101 Compacted 1@1 + 1@2 files => 18863528 bytes
+2017/03/02-14:01:47.487 2101 compacted to: files[ 0 0 2 0 0 0 0 ]
+2017/03/02-14:01:47.487 2101 Delete type=2 #9
+2017/03/02-14:01:47.491 2101 Delete type=2 #5
+2017/03/02-14:01:48.998 2101 Level-0 table #13: started
+2017/03/02-14:01:49.360 2101 Level-0 table #13: 18776186 bytes OK
+2017/03/02-14:01:49.393 2101 Delete type=0 #8
+2017/03/02-14:01:49.396 2101 Compacting 1@1 + 2@2 files
+2017/03/02-14:01:49.826 2101 Generated table #14@1: 18 keys, 18776065 bytes
+2017/03/02-14:01:49.859 2101 Generated table #15@1: 10 keys, 87493 bytes
+2017/03/02-14:01:49.859 2101 Compacted 1@1 + 2@2 files => 18863558 bytes
+2017/03/02-14:01:49.893 2101 compacted to: files[ 0 0 2 0 0 0 0 ]
+2017/03/02-14:01:49.893 2101 Delete type=2 #10
+2017/03/02-14:01:49.896 2101 Delete type=2 #11
+2017/03/02-14:01:49.896 2101 Delete type=2 #13
