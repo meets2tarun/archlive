@@ -6,9 +6,9 @@ arch:
     - python
     - perl
     # aur packages
-    - go-git
+    #- go-git
     # packages from papyros repo
-    - papyros-shell
+    #- papyros-shell
   script:
     - "./build.sh"
 
