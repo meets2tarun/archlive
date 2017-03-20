@@ -3,7 +3,7 @@ arch:
   packages:
      pacman packages
     - archisohttps://raw.githubusercontent.com/mikkeloscar/arch-travis/master/arch-travis.sh | bash"
-Contact GitHub API Training Shop Blog About
+#Contact GitHub API Training Shop Blog About
 
     - python
     #- perl
