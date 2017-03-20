@@ -1,23 +1,18 @@
-# This provides us with GCC binary support so we can run bash
-language: generic
-
 sudo: required
 
+arch:
+  repos:
+    - papyros=http://dash.papyros.io/repos/$repo/$arch
+  packages:
+    # pacman packages
+    - python
+    - perl
+    # aur packages
+    - go-git
+    # packages from papyros repo
+    - papyros-shell
+  script:
+    - "./build.sh"
+
 script:
-  - ./build.sh
-  - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then bash ./scripts/aptRepoUpdater.sh; fi'
-
-before_deploy:
-  - export image_name="`echo *.iso`"
-  - cat *.iso > "/home/travis/${image_name}"
-
-
-deploy:
-  - provider: releases
-    skip_cleanup: true
-    api_key:
-      secure: "mI3pEHF4hqrCgzoQBtIFGAmre8H+R05tndaQNDNc612iH5xx9+ve1gO2M6DuafpCMafk6dB8OHREFJ9htXvSGwnuzQ2oARkTMlqnZa5MrTunyaIhR6M8TjB9TBiI08v+E3Gto9bKAa/5asQLswAVAFlfVzxRolNuMb7f7BWKjDwJRfnpOlwOx9sRkDymbenFBI+xTtFFiucBzbH6CbUnvKoNUZwQWsP+egSPVdsHYui2NE7HEQbSr6N2eEHUdaWGI32ehyUZ2MiEwc+6wSbYlpCynfdCGz1PnHqwtVE9wyloC7FczfVvUrEvfivqmsTPD2px57uTcLHQ4RsN7JvjrhbvJQVooK0Xyg4yuZc9at0pj1kChQ5XHwNvW3ojaVx4pSQDyCCpTKSxYPemOdNekESpjeepgL0jnY7tuBzzlc7o7Zw/iP0oEFLKpTBVARxopqm+UTzHXqp4NnGQyeyqY7mgMaWb6cw3XM97ZG6tIl4UAFeiwEoNjcXbZikkxyBVhh+rX4vk7jTGMis7cFjpGK/cTr6kfPUNaMpBqRqCEkoMshksGu44bS95kHKDVDm5TijZdaeqr0IA/Pase9lyEi08t/Sa07ciz13a1hMRLLjTSBFBtrqnDSK49xhL7CvK6v4fvi5zBYFcuxYqHxvIPkWgaKQhMC/BZcxU+nr7HOA="
-    file_glob: true # http://stackoverflow.com/a/28579635/1320237
-    file: "/home/travis/${image_name}"
-    on:
-      branch: master
+  - "curl -s https://raw.githubusercontent.com/mikkeloscar/arch-travis/master/arch-travis.sh | bash"
