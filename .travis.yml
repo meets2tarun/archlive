@@ -1,8 +1,6 @@
 sudo: required
 
 arch:
-  repos:
-    - papyros=http://dash.papyros.io/repos/$repo/$arch
   packages:
     # pacman packages
     - python
@@ -10,7 +8,7 @@ arch:
     # aur packages
     - go-git
     # packages from papyros repo
-    - papyros-shell
+    #- papyros-shell
   script:
     - "./build.sh"
 
