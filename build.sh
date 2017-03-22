@@ -216,15 +216,15 @@ make_iso() {
     mkarchiso ${verbose} -w "${work_dir}" -D "${install_dir}" -L "${iso_label}" -o "${out_dir}" iso "${iso_name}-${iso_version}-x86_64.iso"
 }
 
-if [[ ${EUID} -ne 0 ]]; then
-    echo "This script must be run as root."
-    _usage 1
-fi
+#if [[ ${EUID} -ne 0 ]]; then
+    #echo "This script must be run as root."
+    #_usage 1
+#fi
 
-if [[ ${arch} != x86_64 ]]; then
-    echo "This script needs to be run on x86_64"
-    _usage 1
-fi
+#if [[ ${arch} != x86_64 ]]; then
+    #echo "This script needs to be run on x86_64"
+    #_usage 1
+#fi
 
 echo "Getting command line options"
 while getopts 'N:V:L:D:w:o:g:vh' arg; do
