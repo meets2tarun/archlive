@@ -226,6 +226,7 @@ if [[ ${arch} != x86_64 ]]; then
     _usage 1
 fi
 
+echo "Getting command line options"
 while getopts 'N:V:L:D:w:o:g:vh' arg; do
     case "${arg}" in
         N) iso_name="${OPTARG}" ;;
